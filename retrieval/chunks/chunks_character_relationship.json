@@ -1,0 +1,3602 @@
+[
+  {
+    "chunk_id": "character_relationship_hamlet_prince_of_denmark_6059ce4a",
+    "chunk_type": "character_relationship",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Relationship of Hamlet and Claudius in Hamlet, Prince of Denmark are stepfather-stepson. Claudius is Hamlet's stepfather, having married Hamlet's mother, Gertrude, after the death of King Hamlet. Their relationship is antagonistic, as Hamlet suspects Claudius of murdering his father.",
+    "metadata": {
+      "character_1": "Hamlet",
+      "character_2": "Claudius",
+      "relationship_type": "stepfather-stepson",
+      "query_patterns": [
+        "hamlet claudius",
+        "relationship hamlet claudius"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_hamlet_prince_of_denmark_b844f1c6",
+    "chunk_type": "character_relationship",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Relationship of Hamlet and Gertrude in Hamlet, Prince of Denmark are mother-son. Gertrude is Hamlet's mother, whose quick remarriage to Claudius causes tension and fuels Hamlet's feelings of betrayal.",
+    "metadata": {
+      "character_1": "Hamlet",
+      "character_2": "Gertrude",
+      "relationship_type": "mother-son",
+      "query_patterns": [
+        "hamlet gertrude",
+        "relationship hamlet gertrude"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_hamlet_prince_of_denmark_73b8fbe2",
+    "chunk_type": "character_relationship",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Relationship of Hamlet and Ophelia in Hamlet, Prince of Denmark are romantic. Hamlet and Ophelia have a romantic relationship, though it is strained by Hamlet's feigned madness and Ophelia's loyalty to her father, Polonius.",
+    "metadata": {
+      "character_1": "Hamlet",
+      "character_2": "Ophelia",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "hamlet ophelia",
+        "relationship hamlet ophelia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_hamlet_prince_of_denmark_318fab58",
+    "chunk_type": "character_relationship",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Relationship of Hamlet and Horatio in Hamlet, Prince of Denmark are friend-ally. Horatio is Hamlet's loyal friend and confidant, supporting him throughout his quest for revenge and entrusted with telling his story.",
+    "metadata": {
+      "character_1": "Hamlet",
+      "character_2": "Horatio",
+      "relationship_type": "friend-ally",
+      "query_patterns": [
+        "hamlet horatio",
+        "relationship hamlet horatio"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_hamlet_prince_of_denmark_d67e1f7d",
+    "chunk_type": "character_relationship",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Relationship of Claudius and Gertrude in Hamlet, Prince of Denmark are husband-wife. Claudius and Gertrude are married, with their union forming a central conflict due to its timing after King Hamlet's death and Claudius's role in it.",
+    "metadata": {
+      "character_1": "Claudius",
+      "character_2": "Gertrude",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "claudius gertrude",
+        "relationship claudius gertrude"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_hamlet_prince_of_denmark_6138f6be",
+    "chunk_type": "character_relationship",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Relationship of Ophelia and Polonius in Hamlet, Prince of Denmark are father-daughter. Polonius is Ophelia's father, whose controlling and manipulative nature influences her actions and complicates her relationship with Hamlet.",
+    "metadata": {
+      "character_1": "Ophelia",
+      "character_2": "Polonius",
+      "relationship_type": "father-daughter",
+      "query_patterns": [
+        "ophelia polonius",
+        "relationship ophelia polonius"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_hamlet_prince_of_denmark_71fe74bf",
+    "chunk_type": "character_relationship",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Relationship of Laertes and Polonius in Hamlet, Prince of Denmark are father-son. Polonius is Laertes's father, offering him advice before his travels, though Laertes later seeks revenge for his father's death.",
+    "metadata": {
+      "character_1": "Laertes",
+      "character_2": "Polonius",
+      "relationship_type": "father-son",
+      "query_patterns": [
+        "laertes polonius",
+        "relationship laertes polonius"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_hamlet_prince_of_denmark_9b535f27",
+    "chunk_type": "character_relationship",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Relationship of Laertes and Ophelia in Hamlet, Prince of Denmark are brother-sister. Laertes is Ophelia's protective brother, warning her about Hamlet's intentions and later seeking vengeance for her madness and death.",
+    "metadata": {
+      "character_1": "Laertes",
+      "character_2": "Ophelia",
+      "relationship_type": "brother-sister",
+      "query_patterns": [
+        "laertes ophelia",
+        "relationship laertes ophelia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_hamlet_prince_of_denmark_68f122e8",
+    "chunk_type": "character_relationship",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Relationship of Rosencrantz and Guildenstern in Hamlet, Prince of Denmark are friends-pawns. Rosencrantz and Guildenstern are childhood friends of Hamlet, but they are manipulated by Claudius and Gertrude to spy on him, becoming unwitting pawns in the unfolding tragedy.",
+    "metadata": {
+      "character_1": "Rosencrantz",
+      "character_2": "Guildenstern",
+      "relationship_type": "friends-pawns",
+      "query_patterns": [
+        "rosencrantz guildenstern",
+        "relationship rosencrantz guildenstern"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_all's_well_that_ends_well_6405c13c",
+    "chunk_type": "character_relationship",
+    "play_title": "All's Well That Ends Well",
+    "content": "Relationship of Helena and Bertram in All's Well That Ends Well are romantic/unrequited. Helena is deeply in love with Bertram, who initially scorns her due to her lower social status. Their relationship is central to the plot as she pursues him to fulfill his conditions for marriage.",
+    "metadata": {
+      "character_1": "Helena",
+      "character_2": "Bertram",
+      "relationship_type": "romantic/unrequited",
+      "query_patterns": [
+        "helena bertram",
+        "relationship helena bertram"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_all's_well_that_ends_well_3582fe5e",
+    "chunk_type": "character_relationship",
+    "play_title": "All's Well That Ends Well",
+    "content": "Relationship of Helena and Countess of Roussillon in All's Well That Ends Well are ward-mother figure. Helena is the Countess's ward, and the Countess acts as a loving and supportive mother figure to Helena, favoring her over her own son, Bertram.",
+    "metadata": {
+      "character_1": "Helena",
+      "character_2": "Countess of Roussillon",
+      "relationship_type": "ward-mother figure",
+      "query_patterns": [
+        "helena countess of roussillon",
+        "relationship helena countess of roussillon"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_all's_well_that_ends_well_66904ad4",
+    "chunk_type": "character_relationship",
+    "play_title": "All's Well That Ends Well",
+    "content": "Relationship of Bertram and Countess of Roussillon in All's Well That Ends Well are son-mother. Bertram is the Countess's son. Their relationship is strained by his defiance of her wishes regarding Helena, though she remains protective and concerned for his honor.",
+    "metadata": {
+      "character_1": "Bertram",
+      "character_2": "Countess of Roussillon",
+      "relationship_type": "son-mother",
+      "query_patterns": [
+        "bertram countess of roussillon",
+        "relationship bertram countess of roussillon"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_all's_well_that_ends_well_81378a5f",
+    "chunk_type": "character_relationship",
+    "play_title": "All's Well That Ends Well",
+    "content": "Relationship of Helena and King of France in All's Well That Ends Well are healer-benefactor. Helena, a skilled physician, cures the King of France of his illness. In return, the King grants her the right to choose any man in his court for marriage, making him her benefactor.",
+    "metadata": {
+      "character_1": "Helena",
+      "character_2": "King of France",
+      "relationship_type": "healer-benefactor",
+      "query_patterns": [
+        "helena king of france",
+        "relationship helena king of france"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_all's_well_that_ends_well_c7fedf71",
+    "chunk_type": "character_relationship",
+    "play_title": "All's Well That Ends Well",
+    "content": "Relationship of Bertram and Parolles in All's Well That Ends Well are master-false friend. Parolles is Bertram's boastful and cowardly companion, whom Bertram initially trusts. Their relationship highlights Bertram's immaturity and poor judgment, as Parolles proves to be a deceptive and disloyal friend.",
+    "metadata": {
+      "character_1": "Bertram",
+      "character_2": "Parolles",
+      "relationship_type": "master-false friend",
+      "query_patterns": [
+        "bertram parolles",
+        "relationship bertram parolles"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_all's_well_that_ends_well_64a1a0b9",
+    "chunk_type": "character_relationship",
+    "play_title": "All's Well That Ends Well",
+    "content": "Relationship of Diana and Helena in All's Well That Ends Well are ally. Diana is a young Florentine woman who becomes Helena's crucial ally in the 'bed trick' plot, helping Helena achieve her marital goals by deceiving Bertram.",
+    "metadata": {
+      "character_1": "Diana",
+      "character_2": "Helena",
+      "relationship_type": "ally",
+      "query_patterns": [
+        "diana helena",
+        "relationship diana helena"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_antony_and_cleopatra_256a3606",
+    "chunk_type": "character_relationship",
+    "play_title": "Antony and Cleopatra",
+    "content": "Relationship of Antony and Cleopatra in Antony and Cleopatra are romantic/passionate. Antony and Cleopatra share an intense, passionate, and ultimately destructive romantic relationship that transcends political boundaries and leads to their tragic downfall.",
+    "metadata": {
+      "character_1": "Antony",
+      "character_2": "Cleopatra",
+      "relationship_type": "romantic/passionate",
+      "query_patterns": [
+        "antony cleopatra",
+        "relationship antony cleopatra"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_antony_and_cleopatra_0db73857",
+    "chunk_type": "character_relationship",
+    "play_title": "Antony and Cleopatra",
+    "content": "Relationship of Antony and Octavius Caesar in Antony and Cleopatra are rivals. Antony and Octavius Caesar are political rivals and co-rulers of the Roman Empire, whose ambition and conflicting desires lead to a power struggle and civil war.",
+    "metadata": {
+      "character_1": "Antony",
+      "character_2": "Octavius Caesar",
+      "relationship_type": "rivals",
+      "query_patterns": [
+        "antony octavius caesar",
+        "relationship antony octavius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_antony_and_cleopatra_c92f4271",
+    "chunk_type": "character_relationship",
+    "play_title": "Antony and Cleopatra",
+    "content": "Relationship of Cleopatra and Charmian in Antony and Cleopatra are mistress-attendant. Charmian is Cleopatra's loyal and devoted attendant, serving as her confidante and companion, and ultimately dying with her queen.",
+    "metadata": {
+      "character_1": "Cleopatra",
+      "character_2": "Charmian",
+      "relationship_type": "mistress-attendant",
+      "query_patterns": [
+        "cleopatra charmian",
+        "relationship cleopatra charmian"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_antony_and_cleopatra_2fee1b20",
+    "chunk_type": "character_relationship",
+    "play_title": "Antony and Cleopatra",
+    "content": "Relationship of Antony and Enobarbus in Antony and Cleopatra are general-lieutenant/friend. Enobarbus is Antony's loyal general and trusted friend, known for his blunt honesty. His eventual desertion of Antony, though regretted, highlights Antony's decline.",
+    "metadata": {
+      "character_1": "Antony",
+      "character_2": "Enobarbus",
+      "relationship_type": "general-lieutenant/friend",
+      "query_patterns": [
+        "antony enobarbus",
+        "relationship antony enobarbus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_antony_and_cleopatra_708c5d27",
+    "chunk_type": "character_relationship",
+    "play_title": "Antony and Cleopatra",
+    "content": "Relationship of Octavius Caesar and Octavia in Antony and Cleopatra are brother-sister. Octavia is Octavius Caesar's virtuous sister, whom he uses as a political pawn by marrying her to Antony in an attempt to solidify their alliance.",
+    "metadata": {
+      "character_1": "Octavius Caesar",
+      "character_2": "Octavia",
+      "relationship_type": "brother-sister",
+      "query_patterns": [
+        "octavius caesar octavia",
+        "relationship octavius caesar octavia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_antony_and_cleopatra_9e125378",
+    "chunk_type": "character_relationship",
+    "play_title": "Antony and Cleopatra",
+    "content": "Relationship of Antony and Octavia in Antony and Cleopatra are husband-wife (political). Antony and Octavia are married for political expediency to mend the rift between Antony and Octavius, but their union is strained by Antony's enduring love for Cleopatra.",
+    "metadata": {
+      "character_1": "Antony",
+      "character_2": "Octavia",
+      "relationship_type": "husband-wife (political)",
+      "query_patterns": [
+        "antony octavia",
+        "relationship antony octavia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_as_you_like_it_2f1ee2c9",
+    "chunk_type": "character_relationship",
+    "play_title": "As You Like It",
+    "content": "Relationship of Rosalind and Orlando in As You Like It are romantic. Rosalind and Orlando fall in love at first sight. Their relationship develops through witty banter and Rosalind's disguised lessons in love, leading to their eventual marriage.",
+    "metadata": {
+      "character_1": "Rosalind",
+      "character_2": "Orlando",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "rosalind orlando",
+        "relationship rosalind orlando"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_as_you_like_it_2fef8959",
+    "chunk_type": "character_relationship",
+    "play_title": "As You Like It",
+    "content": "Relationship of Rosalind and Celia in As You Like It are cousins/best friends. Rosalind and Celia are inseparable cousins and best friends, sharing a deep bond of loyalty and affection, with Celia willingly accompanying Rosalind into exile.",
+    "metadata": {
+      "character_1": "Rosalind",
+      "character_2": "Celia",
+      "relationship_type": "cousins/best friends",
+      "query_patterns": [
+        "rosalind celia",
+        "relationship rosalind celia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_as_you_like_it_76d010eb",
+    "chunk_type": "character_relationship",
+    "play_title": "As You Like It",
+    "content": "Relationship of Orlando and Oliver in As You Like It are brothers. Orlando and Oliver are brothers, initially antagonistic due to Oliver's cruel treatment of Orlando. Their relationship is eventually reconciled through Oliver's transformation and Orlando's forgiveness.",
+    "metadata": {
+      "character_1": "Orlando",
+      "character_2": "Oliver",
+      "relationship_type": "brothers",
+      "query_patterns": [
+        "orlando oliver",
+        "relationship orlando oliver"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_as_you_like_it_63dc0ab7",
+    "chunk_type": "character_relationship",
+    "play_title": "As You Like It",
+    "content": "Relationship of Duke Senior and Rosalind in As You Like It are father-daughter. Duke Senior is Rosalind's exiled father. Their relationship is one of loving reunion after a period of forced separation, symbolizing the restoration of order and family bonds.",
+    "metadata": {
+      "character_1": "Duke Senior",
+      "character_2": "Rosalind",
+      "relationship_type": "father-daughter",
+      "query_patterns": [
+        "duke senior rosalind",
+        "relationship duke senior rosalind"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_as_you_like_it_413c141e",
+    "chunk_type": "character_relationship",
+    "play_title": "As You Like It",
+    "content": "Relationship of Duke Frederick and Celia in As You Like It are father-daughter. Duke Frederick is Celia's father, a tyrannical ruler who banishes Rosalind. Celia's loyalty to Rosalind leads her to defy her father and join her cousin in exile.",
+    "metadata": {
+      "character_1": "Duke Frederick",
+      "character_2": "Celia",
+      "relationship_type": "father-daughter",
+      "query_patterns": [
+        "duke frederick celia",
+        "relationship duke frederick celia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_as_you_like_it_720b0f80",
+    "chunk_type": "character_relationship",
+    "play_title": "As You Like It",
+    "content": "Relationship of Touchstone and Audrey in As You Like It are romantic/comedic. Touchstone, the court jester, pursues a comedic and somewhat cynical romantic relationship with Audrey, a simple country girl, highlighting the play's themes of love and social class.",
+    "metadata": {
+      "character_1": "Touchstone",
+      "character_2": "Audrey",
+      "relationship_type": "romantic/comedic",
+      "query_patterns": [
+        "touchstone audrey",
+        "relationship touchstone audrey"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_as_you_like_it_2329b509",
+    "chunk_type": "character_relationship",
+    "play_title": "As You Like It",
+    "content": "Relationship of Jaques and Duke Senior in As You Like It are follower-leader. Jaques is a melancholic lord who follows Duke Senior into exile. He offers cynical and philosophical observations on human nature and life in the forest, serving as a foil to the play's romantic optimism.",
+    "metadata": {
+      "character_1": "Jaques",
+      "character_2": "Duke Senior",
+      "relationship_type": "follower-leader",
+      "query_patterns": [
+        "jaques duke senior",
+        "relationship jaques duke senior"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_comedy_of_errors_0e69da81",
+    "chunk_type": "character_relationship",
+    "play_title": "The Comedy of Errors",
+    "content": "Relationship of Antipholus of Ephesus and Antipholus of Syracuse in The Comedy of Errors are twin brothers. Antipholus of Ephesus and Antipholus of Syracuse are identical twin brothers, separated at birth, whose uncanny resemblance drives the play's extensive comedic confusion.",
+    "metadata": {
+      "character_1": "Antipholus of Ephesus",
+      "character_2": "Antipholus of Syracuse",
+      "relationship_type": "twin brothers",
+      "query_patterns": [
+        "antipholus of ephesus antipholus of syracuse",
+        "relationship antipholus of ephesus antipholus of syracuse"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_comedy_of_errors_c5da665b",
+    "chunk_type": "character_relationship",
+    "play_title": "The Comedy of Errors",
+    "content": "Relationship of Dromio of Ephesus and Dromio of Syracuse in The Comedy of Errors are twin servants. Dromio of Ephesus and Dromio of Syracuse are identical twin servants, also separated at birth, who serve their respective Antipholus brothers, leading to further mistaken identity and slapstick humor.",
+    "metadata": {
+      "character_1": "Dromio of Ephesus",
+      "character_2": "Dromio of Syracuse",
+      "relationship_type": "twin servants",
+      "query_patterns": [
+        "dromio of ephesus dromio of syracuse",
+        "relationship dromio of ephesus dromio of syracuse"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_comedy_of_errors_b78474cc",
+    "chunk_type": "character_relationship",
+    "play_title": "The Comedy of Errors",
+    "content": "Relationship of Antipholus of Ephesus and Adriana in The Comedy of Errors are husband-wife. Antipholus of Ephesus and Adriana are married, but their relationship is constantly strained and confused by the presence of Antipholus of Syracuse, whom Adriana mistakes for her husband.",
+    "metadata": {
+      "character_1": "Antipholus of Ephesus",
+      "character_2": "Adriana",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "antipholus of ephesus adriana",
+        "relationship antipholus of ephesus adriana"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_comedy_of_errors_d2c89607",
+    "chunk_type": "character_relationship",
+    "play_title": "The Comedy of Errors",
+    "content": "Relationship of Antipholus of Syracuse and Luciana in The Comedy of Errors are romantic (mistaken identity). Antipholus of Syracuse is mistakenly wooed by Luciana, who believes him to be her brother-in-law, leading to awkward and humorous romantic advances based on mistaken identity.",
+    "metadata": {
+      "character_1": "Antipholus of Syracuse",
+      "character_2": "Luciana",
+      "relationship_type": "romantic (mistaken identity)",
+      "query_patterns": [
+        "antipholus of syracuse luciana",
+        "relationship antipholus of syracuse luciana"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_comedy_of_errors_4ada3d80",
+    "chunk_type": "character_relationship",
+    "play_title": "The Comedy of Errors",
+    "content": "Relationship of Adriana and Luciana in The Comedy of Errors are sisters. Adriana and Luciana are sisters, sharing a familial bond. Luciana often tries to advise her sister on her marital troubles, unaware of the true cause of the confusion.",
+    "metadata": {
+      "character_1": "Adriana",
+      "character_2": "Luciana",
+      "relationship_type": "sisters",
+      "query_patterns": [
+        "adriana luciana",
+        "relationship adriana luciana"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_comedy_of_errors_654c4f8d",
+    "chunk_type": "character_relationship",
+    "play_title": "The Comedy of Errors",
+    "content": "Relationship of Aegeon and Antipholus of Syracuse in The Comedy of Errors are father-son. Aegeon is the long-lost father of the Antipholus twins. His search for his family drives the framing narrative, culminating in a joyful reunion with his son and the resolution of the play's errors.",
+    "metadata": {
+      "character_1": "Aegeon",
+      "character_2": "Antipholus of Syracuse",
+      "relationship_type": "father-son",
+      "query_patterns": [
+        "aegeon antipholus of syracuse",
+        "relationship aegeon antipholus of syracuse"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_coriolanus_d4690607",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Relationship of Coriolanus and Volumnia in The Tragedy of Coriolanus are son-mother. Coriolanus has an intensely dominant relationship with his mother, Volumnia, whose fierce Roman ideals and ambition heavily influence his character and actions, often pushing him towards uncompromising pride.",
+    "metadata": {
+      "character_1": "Coriolanus",
+      "character_2": "Volumnia",
+      "relationship_type": "son-mother",
+      "query_patterns": [
+        "coriolanus volumnia",
+        "relationship coriolanus volumnia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_coriolanus_324b94f5",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Relationship of Coriolanus and Aufidius in The Tragedy of Coriolanus are rivals. Coriolanus and Aufidius are bitter military and personal rivals, leading opposing armies. Their rivalry is characterized by mutual respect for each other's prowess but also deep-seated hatred and a desire for ultimate victory.",
+    "metadata": {
+      "character_1": "Coriolanus",
+      "character_2": "Aufidius",
+      "relationship_type": "rivals",
+      "query_patterns": [
+        "coriolanus aufidius",
+        "relationship coriolanus aufidius"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_coriolanus_66fb5960",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Relationship of Coriolanus and Virgilia in The Tragedy of Coriolanus are husband-wife. Virgilia is Coriolanus's quiet and devoted wife, who provides a stark contrast to his public persona. She is deeply concerned for his safety and well-being, often expressing her fears through silence and tears.",
+    "metadata": {
+      "character_1": "Coriolanus",
+      "character_2": "Virgilia",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "coriolanus virgilia",
+        "relationship coriolanus virgilia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_coriolanus_478ae012",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Relationship of Coriolanus and Menenius in The Tragedy of Coriolanus are patrician-friend/mentor. Menenius is an older, loyal patrician and friend to Coriolanus, often acting as a mediator between Coriolanus and the Roman plebeians, and attempting to advise Coriolanus on political matters.",
+    "metadata": {
+      "character_1": "Coriolanus",
+      "character_2": "Menenius",
+      "relationship_type": "patrician-friend/mentor",
+      "query_patterns": [
+        "coriolanus menenius",
+        "relationship coriolanus menenius"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_coriolanus_e6cd7058",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Relationship of Coriolanus and Sicinius in The Tragedy of Coriolanus are antagonistic. Sicinius is one of the tribunes of the people, a political adversary of Coriolanus. Their relationship is marked by constant conflict and Sicinius's efforts to undermine Coriolanus's authority and popularity among the plebeians.",
+    "metadata": {
+      "character_1": "Coriolanus",
+      "character_2": "Sicinius",
+      "relationship_type": "antagonistic",
+      "query_patterns": [
+        "coriolanus sicinius",
+        "relationship coriolanus sicinius"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_coriolanus_ca3ce9f4",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Relationship of Coriolanus and Brutus in The Tragedy of Coriolanus are antagonistic. Brutus is the other tribune of the people, allied with Sicinius in their opposition to Coriolanus. He actively works to incite the plebeians against Coriolanus, contributing to his banishment from Rome.",
+    "metadata": {
+      "character_1": "Coriolanus",
+      "character_2": "Brutus",
+      "relationship_type": "antagonistic",
+      "query_patterns": [
+        "coriolanus brutus",
+        "relationship coriolanus brutus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_cymbeline_b9049488",
+    "chunk_type": "character_relationship",
+    "play_title": "Cymbeline",
+    "content": "Relationship of Imogen and Posthumus in Cymbeline are husband-wife. Imogen and Posthumus are secretly married, deeply in love, and fiercely loyal to each other, despite being separated by Cymbeline's disapproval and Posthumus's banishment.",
+    "metadata": {
+      "character_1": "Imogen",
+      "character_2": "Posthumus",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "imogen posthumus",
+        "relationship imogen posthumus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_cymbeline_dc4bc639",
+    "chunk_type": "character_relationship",
+    "play_title": "Cymbeline",
+    "content": "Relationship of Imogen and Cymbeline in Cymbeline are daughter-father. Imogen is Cymbeline's daughter, whose relationship with her father is strained by his disapproval of her marriage to Posthumus and his manipulation by the Queen.",
+    "metadata": {
+      "character_1": "Imogen",
+      "character_2": "Cymbeline",
+      "relationship_type": "daughter-father",
+      "query_patterns": [
+        "imogen cymbeline",
+        "relationship imogen cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_cymbeline_9bcab9c1",
+    "chunk_type": "character_relationship",
+    "play_title": "Cymbeline",
+    "content": "Relationship of Imogen and Iachimo in Cymbeline are victim-deceiver. Iachimo is a cunning Italian nobleman who attempts to seduce Imogen and then deceives Posthumus by falsely claiming to have done so, making Imogen the victim of his villainy.",
+    "metadata": {
+      "character_1": "Imogen",
+      "character_2": "Iachimo",
+      "relationship_type": "victim-deceiver",
+      "query_patterns": [
+        "imogen iachimo",
+        "relationship imogen iachimo"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_cymbeline_e1946b61",
+    "chunk_type": "character_relationship",
+    "play_title": "Cymbeline",
+    "content": "Relationship of Cymbeline and Queen in Cymbeline are husband-wife. Cymbeline is married to the Queen, who secretly plots against him and his daughter Imogen, manipulating him for her own ambitious ends and to advance her son Cloten.",
+    "metadata": {
+      "character_1": "Cymbeline",
+      "character_2": "Queen",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "cymbeline queen",
+        "relationship cymbeline queen"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_cymbeline_4eff4061",
+    "chunk_type": "character_relationship",
+    "play_title": "Cymbeline",
+    "content": "Relationship of Cloten and Imogen in Cymbeline are unwanted suitor-object of desire. Cloten is the Queen's foolish and arrogant son, who is an unwanted suitor for Imogen, pursuing her aggressively and with malicious intent after her marriage to Posthumus.",
+    "metadata": {
+      "character_1": "Cloten",
+      "character_2": "Imogen",
+      "relationship_type": "unwanted suitor-object of desire",
+      "query_patterns": [
+        "cloten imogen",
+        "relationship cloten imogen"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_cymbeline_1d8d220b",
+    "chunk_type": "character_relationship",
+    "play_title": "Cymbeline",
+    "content": "Relationship of Belarius and Guiderius in Cymbeline are foster father-foster son (true father-son). Belarius is the foster father (and secretly the true father) of Guiderius, whom he abducted as a child. Their relationship is one of mentorship and deep, protective affection in their secluded life.",
+    "metadata": {
+      "character_1": "Belarius",
+      "character_2": "Guiderius",
+      "relationship_type": "foster father-foster son (true father-son)",
+      "query_patterns": [
+        "belarius guiderius",
+        "relationship belarius guiderius"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_cymbeline_b53fdfbf",
+    "chunk_type": "character_relationship",
+    "play_title": "Cymbeline",
+    "content": "Relationship of Belarius and Arviragus in Cymbeline are foster father-foster son (true father-son). Belarius is the foster father (and secretly the true father) of Arviragus, whom he abducted as a child. Their relationship is one of mentorship and deep, protective affection in their secluded life.",
+    "metadata": {
+      "character_1": "Belarius",
+      "character_2": "Arviragus",
+      "relationship_type": "foster father-foster son (true father-son)",
+      "query_patterns": [
+        "belarius arviragus",
+        "relationship belarius arviragus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_iv_the_first_part_2c0283d1",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Relationship of King Henry IV and Prince Hal in King Henry IV, the First Part are father-son (strained). King Henry IV is Prince Hal's father. Their relationship is strained by Hal's rebellious behavior and association with low-life companions, causing Henry to worry about his son's fitness to rule.",
+    "metadata": {
+      "character_1": "King Henry IV",
+      "character_2": "Prince Hal",
+      "relationship_type": "father-son (strained)",
+      "query_patterns": [
+        "king henry iv prince hal",
+        "relationship king henry iv prince hal"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_iv_the_first_part_86474ed0",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Relationship of Prince Hal and Falstaff in King Henry IV, the First Part are friends/mentor (comedic). Prince Hal and Falstaff are close companions, sharing a boisterous and comedic friendship. Falstaff acts as a corrupting, yet endearing, influence on Hal's youthful escapades.",
+    "metadata": {
+      "character_1": "Prince Hal",
+      "character_2": "Falstaff",
+      "relationship_type": "friends/mentor (comedic)",
+      "query_patterns": [
+        "prince hal falstaff",
+        "relationship prince hal falstaff"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_iv_the_first_part_e4af311b",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Relationship of King Henry IV and Hotspur in King Henry IV, the First Part are king-rebel. King Henry IV is the monarch, and Hotspur is a rebellious nobleman who challenges Henry's authority, leading to a significant military conflict between them.",
+    "metadata": {
+      "character_1": "King Henry IV",
+      "character_2": "Hotspur",
+      "relationship_type": "king-rebel",
+      "query_patterns": [
+        "king henry iv hotspur",
+        "relationship king henry iv hotspur"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_iv_the_first_part_e98d59c7",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Relationship of Hotspur and Lady Percy in King Henry IV, the First Part are husband-wife. Hotspur and Lady Percy are married. She is a loving and concerned wife, often frustrated by Hotspur's obsessive focus on war and honor.",
+    "metadata": {
+      "character_1": "Hotspur",
+      "character_2": "Lady Percy",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "hotspur lady percy",
+        "relationship hotspur lady percy"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_iv_the_first_part_16da6af1",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Relationship of Worcester and Hotspur in King Henry IV, the First Part are uncle-nephew/conspirator. Worcester is Hotspur's uncle and a key figure in the rebellion against King Henry IV. He often advises Hotspur, sometimes to his detriment, and plays a crucial role in the conspiracy.",
+    "metadata": {
+      "character_1": "Worcester",
+      "character_2": "Hotspur",
+      "relationship_type": "uncle-nephew/conspirator",
+      "query_patterns": [
+        "worcester hotspur",
+        "relationship worcester hotspur"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_iv_the_first_part_0c19b91a",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Relationship of Prince Hal and Poins in King Henry IV, the First Part are friend/accomplice. Poins is one of Prince Hal's witty and mischievous companions, often involved in his pranks and revelry, serving as a more calculating foil to Falstaff's exuberance.",
+    "metadata": {
+      "character_1": "Prince Hal",
+      "character_2": "Poins",
+      "relationship_type": "friend/accomplice",
+      "query_patterns": [
+        "prince hal poins",
+        "relationship prince hal poins"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_iv_the_second_part_a08bb46b",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Relationship of King Henry IV and Prince Hal in King Henry IV, the Second Part are father-son (reconciled). King Henry IV and Prince Hal's strained relationship begins to reconcile. Hal demonstrates growing maturity, and Henry, on his deathbed, offers advice and passes on the crown.",
+    "metadata": {
+      "character_1": "King Henry IV",
+      "character_2": "Prince Hal",
+      "relationship_type": "father-son (reconciled)",
+      "query_patterns": [
+        "king henry iv prince hal",
+        "relationship king henry iv prince hal"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_iv_the_second_part_ff1867a9",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Relationship of Prince Hal and Falstaff in King Henry IV, the Second Part are friends (rejected). Prince Hal and Falstaff continue their friendship, but it culminates in Hal's dramatic rejection of Falstaff upon becoming king, symbolizing his transition to responsibility.",
+    "metadata": {
+      "character_1": "Prince Hal",
+      "character_2": "Falstaff",
+      "relationship_type": "friends (rejected)",
+      "query_patterns": [
+        "prince hal falstaff",
+        "relationship prince hal falstaff"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_iv_the_second_part_b55403e9",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Relationship of King Henry IV and Prince John of Lancaster in King Henry IV, the Second Part are father-son (dutiful). Prince John is King Henry IV's younger, more dutiful son, who is a capable military leader and a stark contrast to his rebellious brother, Hal.",
+    "metadata": {
+      "character_1": "King Henry IV",
+      "character_2": "Prince John of Lancaster",
+      "relationship_type": "father-son (dutiful)",
+      "query_patterns": [
+        "king henry iv prince john of lancaster",
+        "relationship king henry iv prince john of lancaster"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_iv_the_second_part_fca30e3d",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Relationship of Falstaff and Mistress Quickly in King Henry IV, the Second Part are romantic/exploitative. Mistress Quickly is the hostess of the Boar's Head Tavern and is infatuated with Falstaff, who exploits her financially and emotionally, often promising marriage.",
+    "metadata": {
+      "character_1": "Falstaff",
+      "character_2": "Mistress Quickly",
+      "relationship_type": "romantic/exploitative",
+      "query_patterns": [
+        "falstaff mistress quickly",
+        "relationship falstaff mistress quickly"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_iv_the_second_part_71f6ca70",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Relationship of Falstaff and Doll Tearsheet in King Henry IV, the Second Part are patron-prostitute. Doll Tearsheet is a prostitute and a volatile associate of Falstaff, with whom he shares a rough but affectionate relationship in the tavern environment.",
+    "metadata": {
+      "character_1": "Falstaff",
+      "character_2": "Doll Tearsheet",
+      "relationship_type": "patron-prostitute",
+      "query_patterns": [
+        "falstaff doll tearsheet",
+        "relationship falstaff doll tearsheet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_iv_the_second_part_5fc64bf0",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Relationship of Lord Chief Justice and Prince Hal in King Henry IV, the Second Part are authority figure-future king. The Lord Chief Justice is a symbol of law and order, whom Prince Hal initially defies. Their relationship evolves as Hal, upon becoming king, respects and upholds the Chief Justice's authority.",
+    "metadata": {
+      "character_1": "Lord Chief Justice",
+      "character_2": "Prince Hal",
+      "relationship_type": "authority figure-future king",
+      "query_patterns": [
+        "lord chief justice prince hal",
+        "relationship lord chief justice prince hal"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_king_henry_v_1ef92e04",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of King Henry V",
+    "content": "Relationship of King Henry V and Chorus in The Life of King Henry V are playwright-audience proxy. The Chorus acts as a narrator and guide, addressing the audience directly, setting the scene, and providing context for King Henry V's actions and the epic scale of the war.",
+    "metadata": {
+      "character_1": "King Henry V",
+      "character_2": "Chorus",
+      "relationship_type": "playwright-audience proxy",
+      "query_patterns": [
+        "king henry v chorus",
+        "relationship king henry v chorus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_king_henry_v_aad0f389",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of King Henry V",
+    "content": "Relationship of King Henry V and Catherine in The Life of King Henry V are romantic/political. King Henry V and Princess Catherine are married for political alliance after the Battle of Agincourt. Their courtship is charmingly awkward, blending romantic interest with strategic necessity.",
+    "metadata": {
+      "character_1": "King Henry V",
+      "character_2": "Catherine",
+      "relationship_type": "romantic/political",
+      "query_patterns": [
+        "king henry v catherine",
+        "relationship king henry v catherine"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_king_henry_v_88574929",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of King Henry V",
+    "content": "Relationship of King Henry V and Fluellen in The Life of King Henry V are king-loyal officer. Fluellen is a brave and pedantic Welsh captain in King Henry V's army. He is fiercely loyal to the King and often provides comic relief through his eccentricities and strong sense of military discipline.",
+    "metadata": {
+      "character_1": "King Henry V",
+      "character_2": "Fluellen",
+      "relationship_type": "king-loyal officer",
+      "query_patterns": [
+        "king henry v fluellen",
+        "relationship king henry v fluellen"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_king_henry_v_83dee05e",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of King Henry V",
+    "content": "Relationship of King Henry V and Dauphin in The Life of King Henry V are rivals. The Dauphin is the arrogant and overconfident French prince who is King Henry V's primary antagonist. Their rivalry fuels the conflict between England and France, leading to the Battle of Agincourt.",
+    "metadata": {
+      "character_1": "King Henry V",
+      "character_2": "Dauphin",
+      "relationship_type": "rivals",
+      "query_patterns": [
+        "king henry v dauphin",
+        "relationship king henry v dauphin"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_king_henry_v_2caa9291",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of King Henry V",
+    "content": "Relationship of Pistol and Mistress Quickly in The Life of King Henry V are husband-wife. Pistol is a boastful and cowardly soldier, and Mistress Quickly is his wife (formerly Falstaff's hostess). Their relationship is a continuation of the Eastcheap tavern world, marked by Pistol's bluster and Quickly's eventual death.",
+    "metadata": {
+      "character_1": "Pistol",
+      "character_2": "Mistress Quickly",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "pistol mistress quickly",
+        "relationship pistol mistress quickly"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_king_henry_v_82eebf38",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of King Henry V",
+    "content": "Relationship of King Henry V and Archbishop of Canterbury in The Life of King Henry V are king-advisor. The Archbishop of Canterbury is a key religious and political advisor to King Henry V, providing justification for the war with France and supporting the King's claims to the French throne.",
+    "metadata": {
+      "character_1": "King Henry V",
+      "character_2": "Archbishop of Canterbury",
+      "relationship_type": "king-advisor",
+      "query_patterns": [
+        "king henry v archbishop of canterbury",
+        "relationship king henry v archbishop of canterbury"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_first_part_cb117fef",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the first part",
+    "content": "Relationship of King Henry VI and Duke of Gloucester in King Henry VI, the first part are king-protector/uncle. The Duke of Gloucester is King Henry VI's uncle and Lord Protector during the King's minority. He is a loyal and honorable figure who strives to maintain order and defend England's interests.",
+    "metadata": {
+      "character_1": "King Henry VI",
+      "character_2": "Duke of Gloucester",
+      "relationship_type": "king-protector/uncle",
+      "query_patterns": [
+        "king henry vi duke of gloucester",
+        "relationship king henry vi duke of gloucester"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_first_part_1d36921d",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the first part",
+    "content": "Relationship of King Henry VI and Joan of Arc in King Henry VI, the first part are king-enemy. Joan of Arc is a formidable French military leader and King Henry VI's supernatural enemy. She inspires the French forces and poses a significant threat to English dominance in France.",
+    "metadata": {
+      "character_1": "King Henry VI",
+      "character_2": "Joan of Arc",
+      "relationship_type": "king-enemy",
+      "query_patterns": [
+        "king henry vi joan of arc",
+        "relationship king henry vi joan of arc"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_first_part_3fe9390f",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the first part",
+    "content": "Relationship of Richard Plantagenet and Duke of Somerset in King Henry VI, the first part are rivals (War of the Roses). Richard Plantagenet (later Duke of York) and the Duke of Somerset are rival noblemen whose dispute over a plucked rose in the Temple Garden symbolizes the nascent conflict of the Wars of the Roses.",
+    "metadata": {
+      "character_1": "Richard Plantagenet",
+      "character_2": "Duke of Somerset",
+      "relationship_type": "rivals (War of the Roses)",
+      "query_patterns": [
+        "richard plantagenet duke of somerset",
+        "relationship richard plantagenet duke of somerset"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_first_part_e8a8709e",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the first part",
+    "content": "Relationship of Lord Talbot and King Henry VI in King Henry VI, the first part are general-king. Lord Talbot is a valiant and revered English general, fiercely loyal to King Henry VI. He is a symbol of English military prowess in France, though ultimately overwhelmed by French forces.",
+    "metadata": {
+      "character_1": "Lord Talbot",
+      "character_2": "King Henry VI",
+      "relationship_type": "general-king",
+      "query_patterns": [
+        "lord talbot king henry vi",
+        "relationship lord talbot king henry vi"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_first_part_f7d95201",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the first part",
+    "content": "Relationship of Charles the Dauphin and Joan of Arc in King Henry VI, the first part are leader-ally. Charles the Dauphin (later King Charles VII of France) is the French leader who is inspired and aided by Joan of Arc in his efforts to reclaim French territory from the English.",
+    "metadata": {
+      "character_1": "Charles the Dauphin",
+      "character_2": "Joan of Arc",
+      "relationship_type": "leader-ally",
+      "query_patterns": [
+        "charles the dauphin joan of arc",
+        "relationship charles the dauphin joan of arc"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_second_part_53e12668",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the second part",
+    "content": "Relationship of King Henry VI and Queen Margaret in King Henry VI, the second part are husband-wife. King Henry VI and Queen Margaret are married. Henry is a pious but weak king, while Margaret is a strong-willed and ambitious queen who often dominates him and exerts political influence.",
+    "metadata": {
+      "character_1": "King Henry VI",
+      "character_2": "Queen Margaret",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "king henry vi queen margaret",
+        "relationship king henry vi queen margaret"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_second_part_e73a23c0",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the second part",
+    "content": "Relationship of Queen Margaret and Duke of Suffolk in King Henry VI, the second part are lover-advisor. Queen Margaret and the Duke of Suffolk share a passionate, illicit romantic relationship. Suffolk is her close advisor and instrumental in her political machinations.",
+    "metadata": {
+      "character_1": "Queen Margaret",
+      "character_2": "Duke of Suffolk",
+      "relationship_type": "lover-advisor",
+      "query_patterns": [
+        "queen margaret duke of suffolk",
+        "relationship queen margaret duke of suffolk"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_second_part_9701bb7e",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the second part",
+    "content": "Relationship of Duke of Gloucester and Duchess of Gloucester in King Henry VI, the second part are husband-wife. The Duke and Duchess of Gloucester are married. The Duchess's ambition and dabbling in witchcraft ultimately lead to her downfall and disgrace, implicating her husband.",
+    "metadata": {
+      "character_1": "Duke of Gloucester",
+      "character_2": "Duchess of Gloucester",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "duke of gloucester duchess of gloucester",
+        "relationship duke of gloucester duchess of gloucester"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_second_part_143cb0a6",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the second part",
+    "content": "Relationship of Richard Plantagenet (Duke of York) and King Henry VI in King Henry VI, the second part are rival-king. Richard Plantagenet, the Duke of York, directly challenges King Henry VI's right to the throne, leading the Yorkist faction in the growing conflict of the Wars of the Roses.",
+    "metadata": {
+      "character_1": "Richard Plantagenet (Duke of York)",
+      "character_2": "King Henry VI",
+      "relationship_type": "rival-king",
+      "query_patterns": [
+        "richard plantagenet (duke of york) king henry vi",
+        "relationship richard plantagenet (duke of york) king henry vi"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_second_part_780eb044",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the second part",
+    "content": "Relationship of Jack Cade and Commoners in King Henry VI, the second part are rebel leader-followers. Jack Cade leads a rebellion of commoners against the government, promising social reform. His relationship with his followers is one of populist leadership and eventual betrayal.",
+    "metadata": {
+      "character_1": "Jack Cade",
+      "character_2": "Commoners",
+      "relationship_type": "rebel leader-followers",
+      "query_patterns": [
+        "jack cade commoners",
+        "relationship jack cade commoners"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_second_part_c93dcf38",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the second part",
+    "content": "Relationship of Cardinal Beaufort and Duke of Gloucester in King Henry VI, the second part are rivals. Cardinal Beaufort and the Duke of Gloucester are powerful political rivals, constantly clashing over influence and policy, contributing to the instability of Henry VI's reign.",
+    "metadata": {
+      "character_1": "Cardinal Beaufort",
+      "character_2": "Duke of Gloucester",
+      "relationship_type": "rivals",
+      "query_patterns": [
+        "cardinal beaufort duke of gloucester",
+        "relationship cardinal beaufort duke of gloucester"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_third_part_e768bfd1",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the third part",
+    "content": "Relationship of King Henry VI and Queen Margaret in King Henry VI, the third part are husband-wife (warring). King Henry VI and Queen Margaret continue their strained marriage amidst the Wars of the Roses. Margaret fights fiercely to protect her son's claim and Henry's crown, while Henry remains weak and contemplative.",
+    "metadata": {
+      "character_1": "King Henry VI",
+      "character_2": "Queen Margaret",
+      "relationship_type": "husband-wife (warring)",
+      "query_patterns": [
+        "king henry vi queen margaret",
+        "relationship king henry vi queen margaret"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_third_part_74a146ce",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the third part",
+    "content": "Relationship of Edward IV and Richard, Duke of Gloucester (Richard III) in King Henry VI, the third part are brothers. Edward IV and Richard are brothers, both sons of Richard, Duke of York. Edward becomes king, while Richard (later Richard III) begins to reveal his ruthless ambition and Machiavellian nature, plotting his ascent to power.",
+    "metadata": {
+      "character_1": "Edward IV",
+      "character_2": "Richard, Duke of Gloucester (Richard III)",
+      "relationship_type": "brothers",
+      "query_patterns": [
+        "edward iv richard, duke of gloucester (richard iii)",
+        "relationship edward iv richard, duke of gloucester (richard iii)"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_third_part_0adf26ce",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the third part",
+    "content": "Relationship of King Henry VI and Edward, Prince of Wales in King Henry VI, the third part are father-son. Edward, Prince of Wales, is King Henry VI's son and heir. Margaret fights fiercely for his right to the throne, and his murder at the end of the play is a significant tragic event.",
+    "metadata": {
+      "character_1": "King Henry VI",
+      "character_2": "Edward, Prince of Wales",
+      "relationship_type": "father-son",
+      "query_patterns": [
+        "king henry vi edward, prince of wales",
+        "relationship king henry vi edward, prince of wales"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_third_part_a652afde",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the third part",
+    "content": "Relationship of Kingmaker (Earl of Warwick) and Edward IV in King Henry VI, the third part are ally-king (shifting loyalty). The Earl of Warwick is a powerful nobleman known as the 'Kingmaker' due to his influence in placing kings on the throne. His loyalty shifts between the Yorkist and Lancastrian factions, significantly impacting the course of the war.",
+    "metadata": {
+      "character_1": "Kingmaker (Earl of Warwick)",
+      "character_2": "Edward IV",
+      "relationship_type": "ally-king (shifting loyalty)",
+      "query_patterns": [
+        "kingmaker (earl of warwick) edward iv",
+        "relationship kingmaker (earl of warwick) edward iv"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_third_part_424a6c7b",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the third part",
+    "content": "Relationship of Queen Margaret and Richard, Duke of Gloucester (Richard III) in King Henry VI, the third part are bitter enemies. Queen Margaret and Richard are fierce and bitter enemies, representing the opposing factions of the Wars of the Roses. Their interactions are filled with mutual hatred and vengeful threats.",
+    "metadata": {
+      "character_1": "Queen Margaret",
+      "character_2": "Richard, Duke of Gloucester (Richard III)",
+      "relationship_type": "bitter enemies",
+      "query_patterns": [
+        "queen margaret richard, duke of gloucester (richard iii)",
+        "relationship queen margaret richard, duke of gloucester (richard iii)"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_henry_vi_the_third_part_0067423f",
+    "chunk_type": "character_relationship",
+    "play_title": "King Henry VI, the third part",
+    "content": "Relationship of Duke of Clarence and Edward IV in King Henry VI, the third part are brothers (shifting loyalty). The Duke of Clarence is Edward IV's brother. His loyalty is initially with Edward but later shifts to Warwick and the Lancastrians, before ultimately returning to the Yorkist side, reflecting the instability of the period.",
+    "metadata": {
+      "character_1": "Duke of Clarence",
+      "character_2": "Edward IV",
+      "relationship_type": "brothers (shifting loyalty)",
+      "query_patterns": [
+        "duke of clarence edward iv",
+        "relationship duke of clarence edward iv"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_henry_the_eighth_7727b15b",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Relationship of King Henry VIII and Queen Katherine in The Life of Henry the Eighth are husband-wife (divorced). King Henry VIII and Queen Katherine are married, but their relationship dissolves as Henry seeks an annulment to marry Anne Boleyn, leading to Katherine's dignified but tragic downfall.",
+    "metadata": {
+      "character_1": "King Henry VIII",
+      "character_2": "Queen Katherine",
+      "relationship_type": "husband-wife (divorced)",
+      "query_patterns": [
+        "king henry viii queen katherine",
+        "relationship king henry viii queen katherine"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_henry_the_eighth_f1b83c69",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Relationship of King Henry VIII and Cardinal Wolsey in The Life of Henry the Eighth are king-chief minister. Cardinal Wolsey is King Henry VIII's powerful and ambitious chief minister. Their relationship is one of close collaboration, but Wolsey's pride and political maneuvering eventually lead to his spectacular fall from grace.",
+    "metadata": {
+      "character_1": "King Henry VIII",
+      "character_2": "Cardinal Wolsey",
+      "relationship_type": "king-chief minister",
+      "query_patterns": [
+        "king henry viii cardinal wolsey",
+        "relationship king henry viii cardinal wolsey"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_henry_the_eighth_6f138564",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Relationship of King Henry VIII and Anne Boleyn in The Life of Henry the Eighth are romantic/future wife. King Henry VIII pursues a romantic relationship with Anne Boleyn, leading to his desire for an annulment from Katherine and the English Reformation. She eventually becomes his second wife.",
+    "metadata": {
+      "character_1": "King Henry VIII",
+      "character_2": "Anne Boleyn",
+      "relationship_type": "romantic/future wife",
+      "query_patterns": [
+        "king henry viii anne boleyn",
+        "relationship king henry viii anne boleyn"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_henry_the_eighth_36cf9058",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Relationship of Queen Katherine and Cardinal Wolsey in The Life of Henry the Eighth are adversaries. Queen Katherine and Cardinal Wolsey are adversaries. Katherine views Wolsey as the primary instigator of her divorce from Henry, leading to her public accusations against him.",
+    "metadata": {
+      "character_1": "Queen Katherine",
+      "character_2": "Cardinal Wolsey",
+      "relationship_type": "adversaries",
+      "query_patterns": [
+        "queen katherine cardinal wolsey",
+        "relationship queen katherine cardinal wolsey"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_henry_the_eighth_a10ba540",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Relationship of Thomas Cranmer and King Henry VIII in The Life of Henry the Eighth are archbishop-king/ally. Thomas Cranmer is a devout and learned clergyman who becomes Archbishop of Canterbury and a key ally to King Henry VIII in the annulment proceedings and the establishment of the Church of England.",
+    "metadata": {
+      "character_1": "Thomas Cranmer",
+      "character_2": "King Henry VIII",
+      "relationship_type": "archbishop-king/ally",
+      "query_patterns": [
+        "thomas cranmer king henry viii",
+        "relationship thomas cranmer king henry viii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_henry_the_eighth_eb901832",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Relationship of Duke of Norfolk and Cardinal Wolsey in The Life of Henry the Eighth are rivals. The Duke of Norfolk is a prominent nobleman and a political rival of Cardinal Wolsey. He is part of the faction that works to bring about Wolsey's downfall.",
+    "metadata": {
+      "character_1": "Duke of Norfolk",
+      "character_2": "Cardinal Wolsey",
+      "relationship_type": "rivals",
+      "query_patterns": [
+        "duke of norfolk cardinal wolsey",
+        "relationship duke of norfolk cardinal wolsey"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_julius_caesar_192b159c",
+    "chunk_type": "character_relationship",
+    "play_title": "Julius Caesar",
+    "content": "Relationship of Julius Caesar and Brutus in Julius Caesar are friends/assassin. Julius Caesar and Brutus are close friends, but Brutus ultimately joins the conspiracy to assassinate Caesar, believing it is for the good of Rome.",
+    "metadata": {
+      "character_1": "Julius Caesar",
+      "character_2": "Brutus",
+      "relationship_type": "friends/assassin",
+      "query_patterns": [
+        "julius caesar brutus",
+        "relationship julius caesar brutus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_julius_caesar_f87e9063",
+    "chunk_type": "character_relationship",
+    "play_title": "Julius Caesar",
+    "content": "Relationship of Julius Caesar and Mark Antony in Julius Caesar are friend/loyalist. Mark Antony is Caesar's loyal friend and devoted follower, who seeks revenge for Caesar's assassination and becomes a key leader in the subsequent civil war.",
+    "metadata": {
+      "character_1": "Julius Caesar",
+      "character_2": "Mark Antony",
+      "relationship_type": "friend/loyalist",
+      "query_patterns": [
+        "julius caesar mark antony",
+        "relationship julius caesar mark antony"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_julius_caesar_c2c229cc",
+    "chunk_type": "character_relationship",
+    "play_title": "Julius Caesar",
+    "content": "Relationship of Brutus and Cassius in Julius Caesar are conspirators/brothers-in-law. Brutus and Cassius are brothers-in-law and key conspirators against Caesar. Their relationship is marked by shared ideals, but also by differing pragmatism and occasional conflict.",
+    "metadata": {
+      "character_1": "Brutus",
+      "character_2": "Cassius",
+      "relationship_type": "conspirators/brothers-in-law",
+      "query_patterns": [
+        "brutus cassius",
+        "relationship brutus cassius"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_julius_caesar_4c933664",
+    "chunk_type": "character_relationship",
+    "play_title": "Julius Caesar",
+    "content": "Relationship of Brutus and Portia in Julius Caesar are husband-wife. Portia is Brutus's devoted and strong-willed wife, deeply concerned for his well-being and seeking to share his burdens, though she ultimately dies by suicide due to his absence and the political turmoil.",
+    "metadata": {
+      "character_1": "Brutus",
+      "character_2": "Portia",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "brutus portia",
+        "relationship brutus portia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_julius_caesar_8a965de5",
+    "chunk_type": "character_relationship",
+    "play_title": "Julius Caesar",
+    "content": "Relationship of Mark Antony and Octavius Caesar in Julius Caesar are allies/triumvirs. Mark Antony and Octavius Caesar are allies who form part of the Second Triumvirate after Caesar's death, uniting to defeat the conspirators, though their relationship is also marked by underlying tension and a struggle for power.",
+    "metadata": {
+      "character_1": "Mark Antony",
+      "character_2": "Octavius Caesar",
+      "relationship_type": "allies/triumvirs",
+      "query_patterns": [
+        "mark antony octavius caesar",
+        "relationship mark antony octavius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_julius_caesar_2d7e7cb3",
+    "chunk_type": "character_relationship",
+    "play_title": "Julius Caesar",
+    "content": "Relationship of Caesar and Calpurnia in Julius Caesar are husband-wife. Calpurnia is Caesar's wife, who has prophetic dreams and warns him against going to the Capitol on the Ides of March, but her warnings are ultimately unheeded.",
+    "metadata": {
+      "character_1": "Caesar",
+      "character_2": "Calpurnia",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "caesar calpurnia",
+        "relationship caesar calpurnia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_john_6583cadd",
+    "chunk_type": "character_relationship",
+    "play_title": "King John",
+    "content": "Relationship of King John and Arthur in King John are uncle-nephew/rival. King John is Arthur's uncle and rival for the English throne. John perceives Arthur as a threat to his claim, leading to Arthur's imprisonment and eventual death.",
+    "metadata": {
+      "character_1": "King John",
+      "character_2": "Arthur",
+      "relationship_type": "uncle-nephew/rival",
+      "query_patterns": [
+        "king john arthur",
+        "relationship king john arthur"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_john_81550333",
+    "chunk_type": "character_relationship",
+    "play_title": "King John",
+    "content": "Relationship of King John and Hubert in King John are king-loyal servant. Hubert is a loyal servant to King John, tasked with carrying out the King's often morally ambiguous commands, including the intended blinding of Arthur.",
+    "metadata": {
+      "character_1": "King John",
+      "character_2": "Hubert",
+      "relationship_type": "king-loyal servant",
+      "query_patterns": [
+        "king john hubert",
+        "relationship king john hubert"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_john_fd90c482",
+    "chunk_type": "character_relationship",
+    "play_title": "King John",
+    "content": "Relationship of King John and Philip the Bastard in King John are king-loyal follower. Philip the Bastard is the illegitimate son of Richard Coeur de Lion and a fiercely loyal, pragmatic, and witty follower of King John, often serving as a voice of cynical realism.",
+    "metadata": {
+      "character_1": "King John",
+      "character_2": "Philip the Bastard",
+      "relationship_type": "king-loyal follower",
+      "query_patterns": [
+        "king john philip the bastard",
+        "relationship king john philip the bastard"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_john_567a1d73",
+    "chunk_type": "character_relationship",
+    "play_title": "King John",
+    "content": "Relationship of Constance and Arthur in King John are mother-son. Constance is Arthur's fiercely protective and grieving mother, who advocates tirelessly for her son's right to the English throne against King John.",
+    "metadata": {
+      "character_1": "Constance",
+      "character_2": "Arthur",
+      "relationship_type": "mother-son",
+      "query_patterns": [
+        "constance arthur",
+        "relationship constance arthur"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_john_b2cab8d3",
+    "chunk_type": "character_relationship",
+    "play_title": "King John",
+    "content": "Relationship of King Philip of France and King John in King John are rival kings. King Philip of France is a rival monarch who supports Arthur's claim to the English throne against King John, leading to military and diplomatic conflict.",
+    "metadata": {
+      "character_1": "King Philip of France",
+      "character_2": "King John",
+      "relationship_type": "rival kings",
+      "query_patterns": [
+        "king philip of france king john",
+        "relationship king philip of france king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_john_a21c9839",
+    "chunk_type": "character_relationship",
+    "play_title": "King John",
+    "content": "Relationship of Cardinal Pandulph and King John in King John are papal legate-king. Cardinal Pandulph is the papal legate who excommunicates King John and exerts significant religious and political pressure on him, ultimately forcing John's submission to the Pope.",
+    "metadata": {
+      "character_1": "Cardinal Pandulph",
+      "character_2": "King John",
+      "relationship_type": "papal legate-king",
+      "query_patterns": [
+        "cardinal pandulph king john",
+        "relationship cardinal pandulph king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_king_lear_28c1addf",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Relationship of King Lear and Cordelia in The Tragedy of King Lear are father-daughter. King Lear initially disowns Cordelia for her honest refusal to flatter him, but she remains his most loving and loyal daughter, ultimately leading to their tragic reunion.",
+    "metadata": {
+      "character_1": "King Lear",
+      "character_2": "Cordelia",
+      "relationship_type": "father-daughter",
+      "query_patterns": [
+        "king lear cordelia",
+        "relationship king lear cordelia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_king_lear_5be7ba94",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Relationship of King Lear and Goneril in The Tragedy of King Lear are father-daughter (disloyal). Goneril is King Lear's eldest daughter, who professes false love to gain power and then cruelly betrays and humiliates her father, demonstrating extreme ingratitude.",
+    "metadata": {
+      "character_1": "King Lear",
+      "character_2": "Goneril",
+      "relationship_type": "father-daughter (disloyal)",
+      "query_patterns": [
+        "king lear goneril",
+        "relationship king lear goneril"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_king_lear_4390ae19",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Relationship of King Lear and Regan in The Tragedy of King Lear are father-daughter (disloyal). Regan is King Lear's second daughter, who, like Goneril, professes false love and then participates in the cruel mistreatment and humiliation of her father.",
+    "metadata": {
+      "character_1": "King Lear",
+      "character_2": "Regan",
+      "relationship_type": "father-daughter (disloyal)",
+      "query_patterns": [
+        "king lear regan",
+        "relationship king lear regan"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_king_lear_2bbcd0b7",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Relationship of King Lear and Fool in The Tragedy of King Lear are master-jester/confidant. The Fool is King Lear's loyal companion and jester, who uses riddles and songs to offer poignant truths and critique Lear's folly, remaining with him through his madness.",
+    "metadata": {
+      "character_1": "King Lear",
+      "character_2": "Fool",
+      "relationship_type": "master-jester/confidant",
+      "query_patterns": [
+        "king lear fool",
+        "relationship king lear fool"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_king_lear_6e93a887",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Relationship of King Lear and Kent in The Tragedy of King Lear are king-loyal servant. Kent is a loyal nobleman banished by Lear for defending Cordelia, but who returns in disguise to faithfully serve and protect Lear through his suffering.",
+    "metadata": {
+      "character_1": "King Lear",
+      "character_2": "Kent",
+      "relationship_type": "king-loyal servant",
+      "query_patterns": [
+        "king lear kent",
+        "relationship king lear kent"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_king_lear_8d54ecbb",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Relationship of Gloucester and Edgar in The Tragedy of King Lear are father-legitimate son. Gloucester is Edgar's father. He initially believes Edmund's lies and disowns Edgar, but later realizes his son's loyalty and suffers greatly for his misjudgment.",
+    "metadata": {
+      "character_1": "Gloucester",
+      "character_2": "Edgar",
+      "relationship_type": "father-legitimate son",
+      "query_patterns": [
+        "gloucester edgar",
+        "relationship gloucester edgar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_king_lear_2b67ad79",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Relationship of Gloucester and Edmund in The Tragedy of King Lear are father-illegitimate son. Gloucester is Edmund's father. Edmund, the illegitimate son, resents his status and maliciously plots against his father and legitimate brother, Edgar, to gain power and inheritance.",
+    "metadata": {
+      "character_1": "Gloucester",
+      "character_2": "Edmund",
+      "relationship_type": "father-illegitimate son",
+      "query_patterns": [
+        "gloucester edmund",
+        "relationship gloucester edmund"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_king_lear_e1170f6b",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Relationship of Goneril and Regan in The Tragedy of King Lear are sisters/rivals. Goneril and Regan are sisters who initially conspire together to dispossess their father. However, their relationship devolves into bitter rivalry and mutual hatred over Edmund's affection.",
+    "metadata": {
+      "character_1": "Goneril",
+      "character_2": "Regan",
+      "relationship_type": "sisters/rivals",
+      "query_patterns": [
+        "goneril regan",
+        "relationship goneril regan"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_king_lear_9016e4ac",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Relationship of Edgar and Edmund in The Tragedy of King Lear are brothers/rivals. Edgar and Edmund are half-brothers and bitter rivals. Edmund plots Edgar's downfall, forcing him into disguise, but Edgar ultimately exposes Edmund's villainy and defeats him.",
+    "metadata": {
+      "character_1": "Edgar",
+      "character_2": "Edmund",
+      "relationship_type": "brothers/rivals",
+      "query_patterns": [
+        "edgar edmund",
+        "relationship edgar edmund"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_love's_labour's_lost_69b09af2",
+    "chunk_type": "character_relationship",
+    "play_title": "Love's Labour's Lost",
+    "content": "Relationship of Ferdinand (King of Navarre) and Princess of France in Love's Labour's Lost are romantic. Ferdinand, the King of Navarre, and the Princess of France are the central romantic pairing. Their courtship is complicated by Ferdinand's oath to abstain from women and study, leading to witty battles of love and intellect.",
+    "metadata": {
+      "character_1": "Ferdinand (King of Navarre)",
+      "character_2": "Princess of France",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "ferdinand (king of navarre) princess of france",
+        "relationship ferdinand (king of navarre) princess of france"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_love's_labour's_lost_2a310701",
+    "chunk_type": "character_relationship",
+    "play_title": "Love's Labour's Lost",
+    "content": "Relationship of Berowne and Rosaline in Love's Labour's Lost are romantic. Berowne and Rosaline are a witty and cynical romantic pair, characterized by their sharp verbal sparring. Their relationship challenges the King's oath, as Berowne struggles to reconcile his love with his vow.",
+    "metadata": {
+      "character_1": "Berowne",
+      "character_2": "Rosaline",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "berowne rosaline",
+        "relationship berowne rosaline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_love's_labour's_lost_3f600a00",
+    "chunk_type": "character_relationship",
+    "play_title": "Love's Labour's Lost",
+    "content": "Relationship of Longaville and Maria in Love's Labour's Lost are romantic. Longaville is one of the King's lords, who falls in love with Maria, one of the Princess's ladies. Their courtship contributes to the play's exploration of love's power over intellectual pursuits.",
+    "metadata": {
+      "character_1": "Longaville",
+      "character_2": "Maria",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "longaville maria",
+        "relationship longaville maria"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_love's_labour's_lost_323f3dda",
+    "chunk_type": "character_relationship",
+    "play_title": "Love's Labour's Lost",
+    "content": "Relationship of Dumain and Katherine in Love's Labour's Lost are romantic. Dumain is another of the King's lords, who falls in love with Katherine, one of the Princess's ladies. Their relationship, like the others, highlights the breaking of the King's vow.",
+    "metadata": {
+      "character_1": "Dumain",
+      "character_2": "Katherine",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "dumain katherine",
+        "relationship dumain katherine"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_love's_labour's_lost_be020283",
+    "chunk_type": "character_relationship",
+    "play_title": "Love's Labour's Lost",
+    "content": "Relationship of Costard and Jaquenetta in Love's Labour's Lost are romantic/comedic. Costard is a clownish countryman, and Jaquenetta is a country wench. Their simple, earthy romantic relationship provides comic relief and a contrast to the more intellectual courtly loves.",
+    "metadata": {
+      "character_1": "Costard",
+      "character_2": "Jaquenetta",
+      "relationship_type": "romantic/comedic",
+      "query_patterns": [
+        "costard jaquenetta",
+        "relationship costard jaquenetta"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_love's_labour's_lost_1494571c",
+    "chunk_type": "character_relationship",
+    "play_title": "Love's Labour's Lost",
+    "content": "Relationship of Don Armado and Moth in Love's Labour's Lost are master-page. Don Armado is a fantastical Spaniard, and Moth is his witty and intelligent page. Their relationship is a source of much linguistic humor and wordplay, with Moth often outsmarting his master.",
+    "metadata": {
+      "character_1": "Don Armado",
+      "character_2": "Moth",
+      "relationship_type": "master-page",
+      "query_patterns": [
+        "don armado moth",
+        "relationship don armado moth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_macbeth_47d669cf",
+    "chunk_type": "character_relationship",
+    "play_title": "Macbeth",
+    "content": "Relationship of Macbeth and Lady Macbeth in Macbeth are husband-wife/conspirators. Macbeth and Lady Macbeth are married and initially conspirators in regicide, driven by shared ambition. Their relationship devolves into emotional distance and psychological torment as guilt consumes them.",
+    "metadata": {
+      "character_1": "Macbeth",
+      "character_2": "Lady Macbeth",
+      "relationship_type": "husband-wife/conspirators",
+      "query_patterns": [
+        "macbeth lady macbeth",
+        "relationship macbeth lady macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_macbeth_410f8435",
+    "chunk_type": "character_relationship",
+    "play_title": "Macbeth",
+    "content": "Relationship of Macbeth and Banquo in Macbeth are friends/rivals. Macbeth and Banquo are fellow generals and friends, who both receive prophecies from the Witches. Macbeth later orders Banquo's murder out of paranoia and fear of the prophecy regarding Banquo's lineage.",
+    "metadata": {
+      "character_1": "Macbeth",
+      "character_2": "Banquo",
+      "relationship_type": "friends/rivals",
+      "query_patterns": [
+        "macbeth banquo",
+        "relationship macbeth banquo"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_macbeth_c86b68d9",
+    "chunk_type": "character_relationship",
+    "play_title": "Macbeth",
+    "content": "Relationship of Macbeth and Duncan in Macbeth are subject-king/victim. Duncan is the benevolent King of Scotland, whom Macbeth murders to usurp the throne. Their relationship highlights Macbeth's betrayal and the disruption of natural order.",
+    "metadata": {
+      "character_1": "Macbeth",
+      "character_2": "Duncan",
+      "relationship_type": "subject-king/victim",
+      "query_patterns": [
+        "macbeth duncan",
+        "relationship macbeth duncan"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_macbeth_f81679d9",
+    "chunk_type": "character_relationship",
+    "play_title": "Macbeth",
+    "content": "Relationship of Macbeth and Witches in Macbeth are influenced-influencers. The Witches are supernatural beings who deliver prophecies to Macbeth, influencing his ambition and actions, though they do not directly force him to commit evil.",
+    "metadata": {
+      "character_1": "Macbeth",
+      "character_2": "Witches",
+      "relationship_type": "influenced-influencers",
+      "query_patterns": [
+        "macbeth witches",
+        "relationship macbeth witches"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_macbeth_91e5664c",
+    "chunk_type": "character_relationship",
+    "play_title": "Macbeth",
+    "content": "Relationship of Macduff and Macbeth in Macbeth are avenger-tyrant. Macduff is a loyal Scottish nobleman who becomes Macbeth's sworn enemy after Macbeth murders his family. He ultimately avenges his family and kills Macbeth in the final battle.",
+    "metadata": {
+      "character_1": "Macduff",
+      "character_2": "Macbeth",
+      "relationship_type": "avenger-tyrant",
+      "query_patterns": [
+        "macduff macbeth",
+        "relationship macduff macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_macbeth_992ab953",
+    "chunk_type": "character_relationship",
+    "play_title": "Macbeth",
+    "content": "Relationship of Malcolm and Macduff in Macbeth are rightful king-loyal supporter. Malcolm is Duncan's son and the rightful heir to the throne. He allies with Macduff and other loyal Scottish and English forces to overthrow Macbeth and restore order to Scotland.",
+    "metadata": {
+      "character_1": "Malcolm",
+      "character_2": "Macduff",
+      "relationship_type": "rightful king-loyal supporter",
+      "query_patterns": [
+        "malcolm macduff",
+        "relationship malcolm macduff"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_measure_for_measure_ae2255b8",
+    "chunk_type": "character_relationship",
+    "play_title": "Measure for Measure",
+    "content": "Relationship of Duke Vincentio and Angelo in Measure for Measure are duke-deputy. Duke Vincentio temporarily leaves Vienna and appoints Angelo as his deputy, secretly observing his actions. Angelo, a seemingly virtuous man, abuses his power, leading to the Duke's intervention.",
+    "metadata": {
+      "character_1": "Duke Vincentio",
+      "character_2": "Angelo",
+      "relationship_type": "duke-deputy",
+      "query_patterns": [
+        "duke vincentio angelo",
+        "relationship duke vincentio angelo"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_measure_for_measure_0d4aa051",
+    "chunk_type": "character_relationship",
+    "play_title": "Measure for Measure",
+    "content": "Relationship of Isabella and Angelo in Measure for Measure are supplicant-abuser of power. Isabella is a novice nun who pleads with Angelo for her brother's life. Angelo, consumed by lust, attempts to extort sexual favors from her in exchange for her brother's freedom, making him her abuser.",
+    "metadata": {
+      "character_1": "Isabella",
+      "character_2": "Angelo",
+      "relationship_type": "supplicant-abuser of power",
+      "query_patterns": [
+        "isabella angelo",
+        "relationship isabella angelo"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_measure_for_measure_fad0fbf7",
+    "chunk_type": "character_relationship",
+    "play_title": "Measure for Measure",
+    "content": "Relationship of Claudio and Isabella in Measure for Measure are brother-sister. Claudio is Isabella's brother, sentenced to death for fornication. Isabella desperately seeks his pardon, creating the central moral dilemma of the play.",
+    "metadata": {
+      "character_1": "Claudio",
+      "character_2": "Isabella",
+      "relationship_type": "brother-sister",
+      "query_patterns": [
+        "claudio isabella",
+        "relationship claudio isabella"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_measure_for_measure_02a20f68",
+    "chunk_type": "character_relationship",
+    "play_title": "Measure for Measure",
+    "content": "Relationship of Duke Vincentio and Isabella in Measure for Measure are disguised ruler-moral agent. Duke Vincentio, disguised as a friar, guides Isabella through the moral complexities of Angelo's corruption, ultimately proposing marriage to her and seeking justice for all.",
+    "metadata": {
+      "character_1": "Duke Vincentio",
+      "character_2": "Isabella",
+      "relationship_type": "disguised ruler-moral agent",
+      "query_patterns": [
+        "duke vincentio isabella",
+        "relationship duke vincentio isabella"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_measure_for_measure_080a7c38",
+    "chunk_type": "character_relationship",
+    "play_title": "Measure for Measure",
+    "content": "Relationship of Mariana and Angelo in Measure for Measure are former betrothed/victim. Mariana was formerly betrothed to Angelo, but he abandoned her after she lost her dowry. She becomes a key figure in the Duke's 'bed trick' plot to expose Angelo's hypocrisy.",
+    "metadata": {
+      "character_1": "Mariana",
+      "character_2": "Angelo",
+      "relationship_type": "former betrothed/victim",
+      "query_patterns": [
+        "mariana angelo",
+        "relationship mariana angelo"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_measure_for_measure_45f9c97b",
+    "chunk_type": "character_relationship",
+    "play_title": "Measure for Measure",
+    "content": "Relationship of Pompey and Mistress Overdone in Measure for Measure are servant-brothel keeper. Pompey is a clownish pimp who works for Mistress Overdone, a brothel keeper. Their relationship highlights the seedy underworld of Vienna and the hypocrisy of the city's laws.",
+    "metadata": {
+      "character_1": "Pompey",
+      "character_2": "Mistress Overdone",
+      "relationship_type": "servant-brothel keeper",
+      "query_patterns": [
+        "pompey mistress overdone",
+        "relationship pompey mistress overdone"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_merchant_of_venice_722e0ba9",
+    "chunk_type": "character_relationship",
+    "play_title": "The Merchant of Venice",
+    "content": "Relationship of Portia and Bassanio in The Merchant of Venice are romantic. Portia is a wealthy heiress, and Bassanio is a Venetian nobleman who seeks her hand in marriage. Their relationship is central to the romantic plot, with Bassanio choosing the correct casket to win her.",
+    "metadata": {
+      "character_1": "Portia",
+      "character_2": "Bassanio",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "portia bassanio",
+        "relationship portia bassanio"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_merchant_of_venice_8fffbbe8",
+    "chunk_type": "character_relationship",
+    "play_title": "The Merchant of Venice",
+    "content": "Relationship of Antonio and Bassanio in The Merchant of Venice are friends. Antonio is a wealthy merchant and Bassanio's devoted friend. Antonio's willingness to secure a loan from Shylock for Bassanio's courtship leads to the play's central conflict.",
+    "metadata": {
+      "character_1": "Antonio",
+      "character_2": "Bassanio",
+      "relationship_type": "friends",
+      "query_patterns": [
+        "antonio bassanio",
+        "relationship antonio bassanio"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_merchant_of_venice_5d1d1625",
+    "chunk_type": "character_relationship",
+    "play_title": "The Merchant of Venice",
+    "content": "Relationship of Shylock and Antonio in The Merchant of Venice are adversaries/debtor-creditor. Shylock is a Jewish moneylender, and Antonio is a Christian merchant. Their relationship is one of intense animosity, fueled by religious prejudice and Shylock's desire for revenge against Antonio.",
+    "metadata": {
+      "character_1": "Shylock",
+      "character_2": "Antonio",
+      "relationship_type": "adversaries/debtor-creditor",
+      "query_patterns": [
+        "shylock antonio",
+        "relationship shylock antonio"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_merchant_of_venice_b817834a",
+    "chunk_type": "character_relationship",
+    "play_title": "The Merchant of Venice",
+    "content": "Relationship of Jessica and Shylock in The Merchant of Venice are daughter-father. Jessica is Shylock's daughter, who rebels against her father's strictness, elopes with Lorenzo, and converts to Christianity, causing Shylock immense grief and further fueling his bitterness.",
+    "metadata": {
+      "character_1": "Jessica",
+      "character_2": "Shylock",
+      "relationship_type": "daughter-father",
+      "query_patterns": [
+        "jessica shylock",
+        "relationship jessica shylock"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_merchant_of_venice_b68e2a0d",
+    "chunk_type": "character_relationship",
+    "play_title": "The Merchant of Venice",
+    "content": "Relationship of Jessica and Lorenzo in The Merchant of Venice are romantic. Jessica and Lorenzo are lovers who elope, with Jessica taking some of her father's wealth. Their relationship represents a romantic escape from Shylock's oppressive household.",
+    "metadata": {
+      "character_1": "Jessica",
+      "character_2": "Lorenzo",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "jessica lorenzo",
+        "relationship jessica lorenzo"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_merchant_of_venice_e4baca76",
+    "chunk_type": "character_relationship",
+    "play_title": "The Merchant of Venice",
+    "content": "Relationship of Nerissa and Portia in The Merchant of Venice are lady-in-waiting/confidante. Nerissa is Portia's witty and loyal lady-in-waiting and confidante, who assists Portia in her disguise as a lawyer and also marries Gratiano.",
+    "metadata": {
+      "character_1": "Nerissa",
+      "character_2": "Portia",
+      "relationship_type": "lady-in-waiting/confidante",
+      "query_patterns": [
+        "nerissa portia",
+        "relationship nerissa portia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_merry_wives_of_windsor_5df2bea5",
+    "chunk_type": "character_relationship",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Relationship of Falstaff and Mistress Ford in The Merry Wives of Windsor are would-be lover/victim. Falstaff attempts to woo Mistress Ford (and Mistress Page) for their money, but she, along with Mistress Page, cleverly outwits and humiliates him through a series of elaborate pranks.",
+    "metadata": {
+      "character_1": "Falstaff",
+      "character_2": "Mistress Ford",
+      "relationship_type": "would-be lover/victim",
+      "query_patterns": [
+        "falstaff mistress ford",
+        "relationship falstaff mistress ford"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_merry_wives_of_windsor_34e4449a",
+    "chunk_type": "character_relationship",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Relationship of Falstaff and Mistress Page in The Merry Wives of Windsor are would-be lover/victim. Falstaff attempts to woo Mistress Page for her money, but she, along with Mistress Ford, cleverly outwits and humiliates him through a series of elaborate pranks.",
+    "metadata": {
+      "character_1": "Falstaff",
+      "character_2": "Mistress Page",
+      "relationship_type": "would-be lover/victim",
+      "query_patterns": [
+        "falstaff mistress page",
+        "relationship falstaff mistress page"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_merry_wives_of_windsor_38f94697",
+    "chunk_type": "character_relationship",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Relationship of Master Ford and Mistress Ford in The Merry Wives of Windsor are husband-wife (suspicious). Master Ford is Mistress Ford's jealous and suspicious husband, who constantly disguises himself to spy on his wife, believing she is having an affair with Falstaff, leading to comedic misunderstandings.",
+    "metadata": {
+      "character_1": "Master Ford",
+      "character_2": "Mistress Ford",
+      "relationship_type": "husband-wife (suspicious)",
+      "query_patterns": [
+        "master ford mistress ford",
+        "relationship master ford mistress ford"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_merry_wives_of_windsor_a3a6f24e",
+    "chunk_type": "character_relationship",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Relationship of Anne Page and Fenton in The Merry Wives of Windsor are romantic. Anne Page and Fenton are romantically in love. Their relationship is complicated by her parents' differing preferences for her suitors, but they ultimately elope and marry for love.",
+    "metadata": {
+      "character_1": "Anne Page",
+      "character_2": "Fenton",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "anne page fenton",
+        "relationship anne page fenton"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_merry_wives_of_windsor_fc89ffed",
+    "chunk_type": "character_relationship",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Relationship of Doctor Caius and Anne Page in The Merry Wives of Windsor are suitor. Doctor Caius is a French physician and one of Anne Page's suitors, favored by her mother. He is a hot-headed and comically inept character.",
+    "metadata": {
+      "character_1": "Doctor Caius",
+      "character_2": "Anne Page",
+      "relationship_type": "suitor",
+      "query_patterns": [
+        "doctor caius anne page",
+        "relationship doctor caius anne page"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_merry_wives_of_windsor_14283369",
+    "chunk_type": "character_relationship",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Relationship of Slender and Anne Page in The Merry Wives of Windsor are suitor. Slender is a foolish and shy country gentleman and another of Anne Page's suitors, favored by her father. He is easily manipulated and provides much comic relief.",
+    "metadata": {
+      "character_1": "Slender",
+      "character_2": "Anne Page",
+      "relationship_type": "suitor",
+      "query_patterns": [
+        "slender anne page",
+        "relationship slender anne page"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_merry_wives_of_windsor_520a3ba5",
+    "chunk_type": "character_relationship",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Relationship of Sir Hugh Evans and Doctor Caius in The Merry Wives of Windsor are rivals/comic antagonists. Sir Hugh Evans, a Welsh parson, and Doctor Caius are comic rivals. They are tricked into fighting a duel against each other, highlighting their foolishness and providing humor.",
+    "metadata": {
+      "character_1": "Sir Hugh Evans",
+      "character_2": "Doctor Caius",
+      "relationship_type": "rivals/comic antagonists",
+      "query_patterns": [
+        "sir hugh evans doctor caius",
+        "relationship sir hugh evans doctor caius"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_a_midsummer_night's_dream_05617f57",
+    "chunk_type": "character_relationship",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Relationship of Lysander and Hermia in A Midsummer Night's Dream are romantic. Lysander and Hermia are deeply in love, defying her father's wishes. Their relationship is tested and confused by the love potion, but ultimately restored.",
+    "metadata": {
+      "character_1": "Lysander",
+      "character_2": "Hermia",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "lysander hermia",
+        "relationship lysander hermia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_a_midsummer_night's_dream_b612174c",
+    "chunk_type": "character_relationship",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Relationship of Demetrius and Helena in A Midsummer Night's Dream are romantic (initially unrequited). Demetrius initially scorns Helena, who loves him. After the love potion is applied, he falls in love with her, and his love is permanently secured by Oberon.",
+    "metadata": {
+      "character_1": "Demetrius",
+      "character_2": "Helena",
+      "relationship_type": "romantic (initially unrequited)",
+      "query_patterns": [
+        "demetrius helena",
+        "relationship demetrius helena"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_a_midsummer_night's_dream_f63c96af",
+    "chunk_type": "character_relationship",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Relationship of Oberon and Titania in A Midsummer Night's Dream are husband-wife (fairy royalty). Oberon and Titania are the King and Queen of the Fairies, locked in a quarrel that disrupts nature. Their relationship is resolved through Oberon's magical intervention and eventual reconciliation.",
+    "metadata": {
+      "character_1": "Oberon",
+      "character_2": "Titania",
+      "relationship_type": "husband-wife (fairy royalty)",
+      "query_patterns": [
+        "oberon titania",
+        "relationship oberon titania"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_a_midsummer_night's_dream_87dfe997",
+    "chunk_type": "character_relationship",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Relationship of Oberon and Puck in A Midsummer Night's Dream are master-servant. Puck is Oberon's mischievous fairy servant, who carries out his master's commands, often with comical errors, contributing to the play's magical chaos.",
+    "metadata": {
+      "character_1": "Oberon",
+      "character_2": "Puck",
+      "relationship_type": "master-servant",
+      "query_patterns": [
+        "oberon puck",
+        "relationship oberon puck"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_a_midsummer_night's_dream_1caf746c",
+    "chunk_type": "character_relationship",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Relationship of Bottom and Titania in A Midsummer Night's Dream are comedic/enchanted. Bottom, an amateur actor, is transformed into an ass by Puck. Titania, under a love spell, becomes infatuated with him, creating a highly comedic and absurd pairing.",
+    "metadata": {
+      "character_1": "Bottom",
+      "character_2": "Titania",
+      "relationship_type": "comedic/enchanted",
+      "query_patterns": [
+        "bottom titania",
+        "relationship bottom titania"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_a_midsummer_night's_dream_67ef7702",
+    "chunk_type": "character_relationship",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Relationship of Theseus and Hippolyta in A Midsummer Night's Dream are husband-wife. Theseus, Duke of Athens, and Hippolyta, Queen of the Amazons, are betrothed and represent the world of order and reason, contrasting with the chaos of the forest.",
+    "metadata": {
+      "character_1": "Theseus",
+      "character_2": "Hippolyta",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "theseus hippolyta",
+        "relationship theseus hippolyta"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_much_ado_about_nothing_441a72ef",
+    "chunk_type": "character_relationship",
+    "play_title": "Much Ado About Nothing",
+    "content": "Relationship of Beatrice and Benedick in Much Ado About Nothing are romantic/witty antagonists. Beatrice and Benedick are initially witty adversaries who scorn love and marriage. Through clever manipulation by their friends, they fall in love and eventually marry.",
+    "metadata": {
+      "character_1": "Beatrice",
+      "character_2": "Benedick",
+      "relationship_type": "romantic/witty antagonists",
+      "query_patterns": [
+        "beatrice benedick",
+        "relationship beatrice benedick"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_much_ado_about_nothing_baf58e27",
+    "chunk_type": "character_relationship",
+    "play_title": "Much Ado About Nothing",
+    "content": "Relationship of Hero and Claudio in Much Ado About Nothing are romantic. Hero and Claudio are young lovers whose wedding is nearly ruined by false accusations of infidelity, leading to Hero's feigned death and eventual reconciliation.",
+    "metadata": {
+      "character_1": "Hero",
+      "character_2": "Claudio",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "hero claudio",
+        "relationship hero claudio"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_much_ado_about_nothing_134739fa",
+    "chunk_type": "character_relationship",
+    "play_title": "Much Ado About Nothing",
+    "content": "Relationship of Don Pedro and Claudio in Much Ado About Nothing are prince-follower/friend. Don Pedro is the Prince of Aragon and a friend to Claudio. He acts as a matchmaker for Claudio and Hero, and orchestrates the trick to bring Beatrice and Benedick together.",
+    "metadata": {
+      "character_1": "Don Pedro",
+      "character_2": "Claudio",
+      "relationship_type": "prince-follower/friend",
+      "query_patterns": [
+        "don pedro claudio",
+        "relationship don pedro claudio"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_much_ado_about_nothing_a205eceb",
+    "chunk_type": "character_relationship",
+    "play_title": "Much Ado About Nothing",
+    "content": "Relationship of Don John and Hero in Much Ado About Nothing are villain-victim. Don John is the play's antagonist who maliciously plots to disgrace Hero and prevent her marriage to Claudio, making her the innocent victim of his villainy.",
+    "metadata": {
+      "character_1": "Don John",
+      "character_2": "Hero",
+      "relationship_type": "villain-victim",
+      "query_patterns": [
+        "don john hero",
+        "relationship don john hero"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_much_ado_about_nothing_ec79b91a",
+    "chunk_type": "character_relationship",
+    "play_title": "Much Ado About Nothing",
+    "content": "Relationship of Leonato and Hero in Much Ado About Nothing are father-daughter. Leonato is Hero's father. Their relationship is deeply strained by Claudio's false accusations against Hero, leading to Leonato's profound grief and anger, but ultimately restored.",
+    "metadata": {
+      "character_1": "Leonato",
+      "character_2": "Hero",
+      "relationship_type": "father-daughter",
+      "query_patterns": [
+        "leonato hero",
+        "relationship leonato hero"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_much_ado_about_nothing_717468fd",
+    "chunk_type": "character_relationship",
+    "play_title": "Much Ado About Nothing",
+    "content": "Relationship of Dogberry and Verges in Much Ado About Nothing are constable-headborough/comic duo. Dogberry is the incompetent Master Constable, and Verges is his equally inept Headborough. They form a comedic duo whose malapropisms and blunders ironically lead to the discovery of Don John's plot.",
+    "metadata": {
+      "character_1": "Dogberry",
+      "character_2": "Verges",
+      "relationship_type": "constable-headborough/comic duo",
+      "query_patterns": [
+        "dogberry verges",
+        "relationship dogberry verges"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_othello_the_moor_of_venice_a801558f",
+    "chunk_type": "character_relationship",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Relationship of Othello and Desdemona in Othello, the Moor of Venice are husband-wife. Othello and Desdemona are deeply in love, but their relationship is tragically destroyed by Othello's jealousy, fueled by Iago's manipulation, leading to Desdemona's murder.",
+    "metadata": {
+      "character_1": "Othello",
+      "character_2": "Desdemona",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "othello desdemona",
+        "relationship othello desdemona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_othello_the_moor_of_venice_7dd849ee",
+    "chunk_type": "character_relationship",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Relationship of Othello and Iago in Othello, the Moor of Venice are general-ensign/victim-manipulator. Othello trusts Iago implicitly, believing him 'honest.' Iago, however, harbors deep resentment and meticulously manipulates Othello, driving him to murderous jealousy.",
+    "metadata": {
+      "character_1": "Othello",
+      "character_2": "Iago",
+      "relationship_type": "general-ensign/victim-manipulator",
+      "query_patterns": [
+        "othello iago",
+        "relationship othello iago"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_othello_the_moor_of_venice_dbf36b3b",
+    "chunk_type": "character_relationship",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Relationship of Iago and Emilia in Othello, the Moor of Venice are husband-wife. Iago and Emilia are married. Iago is dismissive and abusive towards Emilia, who is initially obedient but ultimately defies him to reveal his villainy, leading to her death.",
+    "metadata": {
+      "character_1": "Iago",
+      "character_2": "Emilia",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "iago emilia",
+        "relationship iago emilia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_othello_the_moor_of_venice_5fe4a86a",
+    "chunk_type": "character_relationship",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Relationship of Cassio and Othello in Othello, the Moor of Venice are lieutenant-general. Cassio is Othello's loyal lieutenant. Iago engineers Cassio's downfall from his position, using him as a pawn to fuel Othello's jealousy against Desdemona.",
+    "metadata": {
+      "character_1": "Cassio",
+      "character_2": "Othello",
+      "relationship_type": "lieutenant-general",
+      "query_patterns": [
+        "cassio othello",
+        "relationship cassio othello"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_othello_the_moor_of_venice_f7cc6b4b",
+    "chunk_type": "character_relationship",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Relationship of Roderigo and Iago in Othello, the Moor of Venice are dupe-manipulator. Roderigo is a wealthy but foolish Venetian nobleman who is infatuated with Desdemona. Iago exploits his infatuation, using him as a dupe to further his malicious schemes against Othello.",
+    "metadata": {
+      "character_1": "Roderigo",
+      "character_2": "Iago",
+      "relationship_type": "dupe-manipulator",
+      "query_patterns": [
+        "roderigo iago",
+        "relationship roderigo iago"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_othello_the_moor_of_venice_54204e57",
+    "chunk_type": "character_relationship",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Relationship of Desdemona and Emilia in Othello, the Moor of Venice are mistress-lady-in-waiting/confidante. Desdemona and Emilia share a close bond of mistress and lady-in-waiting. Emilia is devoted to Desdemona and ultimately defends her innocence, exposing Iago's treachery at the cost of her own life.",
+    "metadata": {
+      "character_1": "Desdemona",
+      "character_2": "Emilia",
+      "relationship_type": "mistress-lady-in-waiting/confidante",
+      "query_patterns": [
+        "desdemona emilia",
+        "relationship desdemona emilia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_pericles_prince_of_tyre_16beb660",
+    "chunk_type": "character_relationship",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Relationship of Pericles and Thaisa in Pericles, Prince of Tyre are husband-wife. Pericles and Thaisa are married. Their relationship is marked by separation and reunion, as Thaisa is presumed dead but later discovered alive, leading to their joyful rediscovery of each other.",
+    "metadata": {
+      "character_1": "Pericles",
+      "character_2": "Thaisa",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "pericles thaisa",
+        "relationship pericles thaisa"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_pericles_prince_of_tyre_e34e6b16",
+    "chunk_type": "character_relationship",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Relationship of Pericles and Marina in Pericles, Prince of Tyre are father-daughter. Pericles and Marina are father and daughter, separated by fate and tragedy. Their eventual reunion is a central, emotionally powerful moment, symbolizing hope and restoration.",
+    "metadata": {
+      "character_1": "Pericles",
+      "character_2": "Marina",
+      "relationship_type": "father-daughter",
+      "query_patterns": [
+        "pericles marina",
+        "relationship pericles marina"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_pericles_prince_of_tyre_3cbb28b1",
+    "chunk_type": "character_relationship",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Relationship of Marina and Lysimachus in Pericles, Prince of Tyre are romantic. Marina, having endured many hardships, meets Lysimachus, the Governor of Mytilene. Their relationship develops into a romantic one, culminating in their marriage and a new beginning.",
+    "metadata": {
+      "character_1": "Marina",
+      "character_2": "Lysimachus",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "marina lysimachus",
+        "relationship marina lysimachus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_pericles_prince_of_tyre_7579fc44",
+    "chunk_type": "character_relationship",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Relationship of Cleon and Dionysia in Pericles, Prince of Tyre are husband-wife/conspirators. Cleon and Dionysia are the Governor and his wife in Tarsus, initially kind to Pericles. However, Dionysia later plots to murder Marina out of jealousy for her daughter, implicating Cleon in her villainy.",
+    "metadata": {
+      "character_1": "Cleon",
+      "character_2": "Dionysia",
+      "relationship_type": "husband-wife/conspirators",
+      "query_patterns": [
+        "cleon dionysia",
+        "relationship cleon dionysia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_pericles_prince_of_tyre_d0f30c4a",
+    "chunk_type": "character_relationship",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Relationship of Simonides and Thaisa in Pericles, Prince of Tyre are father-daughter. Simonides is King of Pentapolis and Thaisa's father. He holds a tournament where Pericles wins Thaisa's hand, and he is later reunited with his daughter and son-in-law.",
+    "metadata": {
+      "character_1": "Simonides",
+      "character_2": "Thaisa",
+      "relationship_type": "father-daughter",
+      "query_patterns": [
+        "simonides thaisa",
+        "relationship simonides thaisa"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_richard_ii_95970e90",
+    "chunk_type": "character_relationship",
+    "play_title": "King Richard II",
+    "content": "Relationship of King Richard II and Bolingbroke (Henry IV) in King Richard II are king-rival/usurper. King Richard II is the reigning monarch, and Bolingbroke (his cousin) is a banished nobleman who returns to claim his inheritance and ultimately usurps the throne, leading to Richard's downfall.",
+    "metadata": {
+      "character_1": "King Richard II",
+      "character_2": "Bolingbroke (Henry IV)",
+      "relationship_type": "king-rival/usurper",
+      "query_patterns": [
+        "king richard ii bolingbroke (henry iv)",
+        "relationship king richard ii bolingbroke (henry iv)"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_richard_ii_43e056a2",
+    "chunk_type": "character_relationship",
+    "play_title": "King Richard II",
+    "content": "Relationship of King Richard II and John of Gaunt in King Richard II are king-uncle. John of Gaunt is King Richard II's uncle and Bolingbroke's father. He is a loyal but critical figure who delivers a famous speech lamenting England's decline under Richard's rule.",
+    "metadata": {
+      "character_1": "King Richard II",
+      "character_2": "John of Gaunt",
+      "relationship_type": "king-uncle",
+      "query_patterns": [
+        "king richard ii john of gaunt",
+        "relationship king richard ii john of gaunt"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_richard_ii_451a274f",
+    "chunk_type": "character_relationship",
+    "play_title": "King Richard II",
+    "content": "Relationship of King Richard II and Duchess of Gloucester in King Richard II are king-aunt. The Duchess of Gloucester is Richard's aunt, grieving the murder of her husband (Thomas of Woodstock), which she believes Richard orchestrated. She seeks justice from him.",
+    "metadata": {
+      "character_1": "King Richard II",
+      "character_2": "Duchess of Gloucester",
+      "relationship_type": "king-aunt",
+      "query_patterns": [
+        "king richard ii duchess of gloucester",
+        "relationship king richard ii duchess of gloucester"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_richard_ii_279d10dc",
+    "chunk_type": "character_relationship",
+    "play_title": "King Richard II",
+    "content": "Relationship of Bolingbroke (Henry IV) and Duke of York in King Richard II are nephew-uncle. The Duke of York is King Richard II's and Bolingbroke's uncle. He initially tries to remain neutral but ultimately sides with Bolingbroke after Richard's misrule.",
+    "metadata": {
+      "character_1": "Bolingbroke (Henry IV)",
+      "character_2": "Duke of York",
+      "relationship_type": "nephew-uncle",
+      "query_patterns": [
+        "bolingbroke (henry iv) duke of york",
+        "relationship bolingbroke (henry iv) duke of york"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_richard_ii_229844e7",
+    "chunk_type": "character_relationship",
+    "play_title": "King Richard II",
+    "content": "Relationship of King Richard II and Queen Isabel in King Richard II are husband-wife. Queen Isabel is King Richard II's devoted young wife, who shares his sorrow and is deeply affected by his deposition and imprisonment.",
+    "metadata": {
+      "character_1": "King Richard II",
+      "character_2": "Queen Isabel",
+      "relationship_type": "husband-wife",
+      "query_patterns": [
+        "king richard ii queen isabel",
+        "relationship king richard ii queen isabel"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_richard_ii_1963d693",
+    "chunk_type": "character_relationship",
+    "play_title": "King Richard II",
+    "content": "Relationship of Aumerle and Duke of York in King Richard II are son-father. Aumerle is the Duke of York's son and a loyal supporter of King Richard II. He is involved in a conspiracy against Bolingbroke, leading to a dramatic plea for his life by his parents.",
+    "metadata": {
+      "character_1": "Aumerle",
+      "character_2": "Duke of York",
+      "relationship_type": "son-father",
+      "query_patterns": [
+        "aumerle duke of york",
+        "relationship aumerle duke of york"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_richard_iii_47af255e",
+    "chunk_type": "character_relationship",
+    "play_title": "King Richard III",
+    "content": "Relationship of Richard III and Lady Anne in King Richard III are husband-wife (manipulative). Richard III cynically woos and marries Lady Anne, the widow of a man he murdered. Their relationship is built on his manipulation and her initial revulsion, ending tragically for her.",
+    "metadata": {
+      "character_1": "Richard III",
+      "character_2": "Lady Anne",
+      "relationship_type": "husband-wife (manipulative)",
+      "query_patterns": [
+        "richard iii lady anne",
+        "relationship richard iii lady anne"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_richard_iii_d860a02c",
+    "chunk_type": "character_relationship",
+    "play_title": "King Richard III",
+    "content": "Relationship of Richard III and Buckingham in King Richard III are allies/betrayed. Buckingham is Richard III's chief accomplice and loyal supporter in his rise to power. Their alliance is based on mutual ambition, but Richard eventually betrays and executes Buckingham.",
+    "metadata": {
+      "character_1": "Richard III",
+      "character_2": "Buckingham",
+      "relationship_type": "allies/betrayed",
+      "query_patterns": [
+        "richard iii buckingham",
+        "relationship richard iii buckingham"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_richard_iii_04e5ab16",
+    "chunk_type": "character_relationship",
+    "play_title": "King Richard III",
+    "content": "Relationship of Richard III and Elizabeth (Queen Dowager) in King Richard III are adversaries. Elizabeth is the widow of King Edward IV and Richard III's bitter adversary. She grieves the loss of her family members at Richard's hands and curses him, ultimately outliving him.",
+    "metadata": {
+      "character_1": "Richard III",
+      "character_2": "Elizabeth (Queen Dowager)",
+      "relationship_type": "adversaries",
+      "query_patterns": [
+        "richard iii elizabeth (queen dowager)",
+        "relationship richard iii elizabeth (queen dowager)"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_richard_iii_3f22dcc8",
+    "chunk_type": "character_relationship",
+    "play_title": "King Richard III",
+    "content": "Relationship of Richard III and Clarence in King Richard III are brothers/victim. Clarence is Richard III's brother, whom Richard orchestrates to be imprisoned and then murdered early in the play, eliminating a potential obstacle to his ambition.",
+    "metadata": {
+      "character_1": "Richard III",
+      "character_2": "Clarence",
+      "relationship_type": "brothers/victim",
+      "query_patterns": [
+        "richard iii clarence",
+        "relationship richard iii clarence"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_richard_iii_81fe08a3",
+    "chunk_type": "character_relationship",
+    "play_title": "King Richard III",
+    "content": "Relationship of Richard III and Richmond (Henry VII) in King Richard III are rivals. Richmond is the Lancastrian claimant to the throne who ultimately defeats Richard III at the Battle of Bosworth Field, ending the Wars of the Roses and founding the Tudor dynasty.",
+    "metadata": {
+      "character_1": "Richard III",
+      "character_2": "Richmond (Henry VII)",
+      "relationship_type": "rivals",
+      "query_patterns": [
+        "richard iii richmond (henry vii)",
+        "relationship richard iii richmond (henry vii)"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_king_richard_iii_45813e28",
+    "chunk_type": "character_relationship",
+    "play_title": "King Richard III",
+    "content": "Relationship of Duchess of York and Richard III in King Richard III are mother-son (disapproving). The Duchess of York is Richard III's mother. She is deeply disapproving of his villainy and curses him, lamenting his monstrous nature and the evil he brings upon their family.",
+    "metadata": {
+      "character_1": "Duchess of York",
+      "character_2": "Richard III",
+      "relationship_type": "mother-son (disapproving)",
+      "query_patterns": [
+        "duchess of york richard iii",
+        "relationship duchess of york richard iii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_romeo_and_juliet_8336d8fa",
+    "chunk_type": "character_relationship",
+    "play_title": "Romeo and Juliet",
+    "content": "Relationship of Romeo and Juliet in Romeo and Juliet are romantic. Romeo and Juliet are young lovers from feuding families whose passionate, secret relationship ultimately leads to their tragic deaths.",
+    "metadata": {
+      "character_1": "Romeo",
+      "character_2": "Juliet",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "romeo juliet",
+        "relationship romeo juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_romeo_and_juliet_a0400a90",
+    "chunk_type": "character_relationship",
+    "play_title": "Romeo and Juliet",
+    "content": "Relationship of Romeo and Mercutio in Romeo and Juliet are friends. Mercutio is Romeo's witty and cynical friend. His death at Tybalt's hand is a turning point, provoking Romeo's revenge and escalating the play's tragic events.",
+    "metadata": {
+      "character_1": "Romeo",
+      "character_2": "Mercutio",
+      "relationship_type": "friends",
+      "query_patterns": [
+        "romeo mercutio",
+        "relationship romeo mercutio"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_romeo_and_juliet_22f2b94e",
+    "chunk_type": "character_relationship",
+    "play_title": "Romeo and Juliet",
+    "content": "Relationship of Juliet and Nurse in Romeo and Juliet are mistress-confidante/surrogate mother. The Nurse is Juliet's loyal and affectionate confidante, acting as a go-between for the lovers, though her pragmatic advice later causes a rift with Juliet.",
+    "metadata": {
+      "character_1": "Juliet",
+      "character_2": "Nurse",
+      "relationship_type": "mistress-confidante/surrogate mother",
+      "query_patterns": [
+        "juliet nurse",
+        "relationship juliet nurse"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_romeo_and_juliet_467567f7",
+    "chunk_type": "character_relationship",
+    "play_title": "Romeo and Juliet",
+    "content": "Relationship of Tybalt and Romeo in Romeo and Juliet are rivals/enemies. Tybalt is Juliet's hot-headed and aggressive cousin, who harbors a deep hatred for Montagues. His antagonism towards Romeo leads to a fatal duel.",
+    "metadata": {
+      "character_1": "Tybalt",
+      "character_2": "Romeo",
+      "relationship_type": "rivals/enemies",
+      "query_patterns": [
+        "tybalt romeo",
+        "relationship tybalt romeo"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_romeo_and_juliet_060e0999",
+    "chunk_type": "character_relationship",
+    "play_title": "Romeo and Juliet",
+    "content": "Relationship of Friar Laurence and Romeo in Romeo and Juliet are mentor/confidant. Friar Laurence is a Franciscan friar who acts as a spiritual advisor and confidant to Romeo. He secretly marries Romeo and Juliet, hoping to end the family feud.",
+    "metadata": {
+      "character_1": "Friar Laurence",
+      "character_2": "Romeo",
+      "relationship_type": "mentor/confidant",
+      "query_patterns": [
+        "friar laurence romeo",
+        "relationship friar laurence romeo"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_romeo_and_juliet_100284a9",
+    "chunk_type": "character_relationship",
+    "play_title": "Romeo and Juliet",
+    "content": "Relationship of Lord Capulet and Juliet in Romeo and Juliet are father-daughter. Lord Capulet is Juliet's father. He initially seems benevolent but becomes tyrannical when Juliet defies his wishes for her to marry Paris, leading to conflict.",
+    "metadata": {
+      "character_1": "Lord Capulet",
+      "character_2": "Juliet",
+      "relationship_type": "father-daughter",
+      "query_patterns": [
+        "lord capulet juliet",
+        "relationship lord capulet juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_romeo_and_juliet_d34c1a85",
+    "chunk_type": "character_relationship",
+    "play_title": "Romeo and Juliet",
+    "content": "Relationship of Montague and Capulet in Romeo and Juliet are rival family heads. Lord Montague and Lord Capulet are the heads of the two feuding families in Verona. Their ancient hatred drives the central conflict, leading to the deaths of their children.",
+    "metadata": {
+      "character_1": "Montague",
+      "character_2": "Capulet",
+      "relationship_type": "rival family heads",
+      "query_patterns": [
+        "montague capulet",
+        "relationship montague capulet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_taming_of_the_shrew_5b2a6d5a",
+    "chunk_type": "character_relationship",
+    "play_title": "The Taming of the Shrew",
+    "content": "Relationship of Petruchio and Katherine in The Taming of the Shrew are husband-wife (tamer-shrew). Petruchio is a boisterous gentleman who undertakes to 'tame' the strong-willed and famously ill-tempered Katherine. Their relationship is a central comedic battle of wills, leading to her eventual submission.",
+    "metadata": {
+      "character_1": "Petruchio",
+      "character_2": "Katherine",
+      "relationship_type": "husband-wife (tamer-shrew)",
+      "query_patterns": [
+        "petruchio katherine",
+        "relationship petruchio katherine"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_taming_of_the_shrew_ca782559",
+    "chunk_type": "character_relationship",
+    "play_title": "The Taming of the Shrew",
+    "content": "Relationship of Bianca and Lucentio in The Taming of the Shrew are romantic. Bianca is Katherine's younger, seemingly mild-mannered sister, and Lucentio is a student who falls in love with her. Their courtship involves disguises and trickery, contrasting with Katherine's more tumultuous romance.",
+    "metadata": {
+      "character_1": "Bianca",
+      "character_2": "Lucentio",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "bianca lucentio",
+        "relationship bianca lucentio"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_taming_of_the_shrew_b7cd966b",
+    "chunk_type": "character_relationship",
+    "play_title": "The Taming of the Shrew",
+    "content": "Relationship of Baptista Minola and Katherine in The Taming of the Shrew are father-daughter. Baptista Minola is the wealthy father of Katherine and Bianca. He is eager to marry off Katherine before Bianca, setting the stage for Petruchio's arrival.",
+    "metadata": {
+      "character_1": "Baptista Minola",
+      "character_2": "Katherine",
+      "relationship_type": "father-daughter",
+      "query_patterns": [
+        "baptista minola katherine",
+        "relationship baptista minola katherine"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_taming_of_the_shrew_0013f8f6",
+    "chunk_type": "character_relationship",
+    "play_title": "The Taming of the Shrew",
+    "content": "Relationship of Tranio and Lucentio in The Taming of the Shrew are servant-master. Tranio is Lucentio's clever and loyal servant, who disguises himself as Lucentio to help his master woo Bianca, demonstrating his quick wit and devotion.",
+    "metadata": {
+      "character_1": "Tranio",
+      "character_2": "Lucentio",
+      "relationship_type": "servant-master",
+      "query_patterns": [
+        "tranio lucentio",
+        "relationship tranio lucentio"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_taming_of_the_shrew_0c21d389",
+    "chunk_type": "character_relationship",
+    "play_title": "The Taming of the Shrew",
+    "content": "Relationship of Hortensio and Bianca in The Taming of the Shrew are suitor. Hortensio is one of Bianca's suitors, who disguises himself as a music tutor to gain access to her. He eventually gives up on Bianca and marries the Widow.",
+    "metadata": {
+      "character_1": "Hortensio",
+      "character_2": "Bianca",
+      "relationship_type": "suitor",
+      "query_patterns": [
+        "hortensio bianca",
+        "relationship hortensio bianca"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_taming_of_the_shrew_89acb04d",
+    "chunk_type": "character_relationship",
+    "play_title": "The Taming of the Shrew",
+    "content": "Relationship of Gremio and Bianca in The Taming of the Shrew are suitor. Gremio is an old, wealthy suitor for Bianca, who attempts to win her hand through his riches. He is a comical figure, often outwitted by the younger suitors.",
+    "metadata": {
+      "character_1": "Gremio",
+      "character_2": "Bianca",
+      "relationship_type": "suitor",
+      "query_patterns": [
+        "gremio bianca",
+        "relationship gremio bianca"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tempest_c1351c47",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tempest",
+    "content": "Relationship of Prospero and Miranda in The Tempest are father-daughter. Prospero is Miranda's loving but controlling father, who uses his magic to protect her and orchestrate her marriage to Ferdinand, thereby restoring his dukedom.",
+    "metadata": {
+      "character_1": "Prospero",
+      "character_2": "Miranda",
+      "relationship_type": "father-daughter",
+      "query_patterns": [
+        "prospero miranda",
+        "relationship prospero miranda"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tempest_d275b2cb",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tempest",
+    "content": "Relationship of Prospero and Ariel in The Tempest are master-spirit servant. Ariel is a loyal and powerful spirit, bound to serve Prospero until his freedom is granted. Their relationship is one of command and obedience, but also affection and mutual respect.",
+    "metadata": {
+      "character_1": "Prospero",
+      "character_2": "Ariel",
+      "relationship_type": "master-spirit servant",
+      "query_patterns": [
+        "prospero ariel",
+        "relationship prospero ariel"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tempest_0c0e0fc7",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tempest",
+    "content": "Relationship of Prospero and Caliban in The Tempest are master-slave/oppressor-oppressed. Caliban is a native inhabitant of the island, whom Prospero enslaved after Caliban attempted to rape Miranda. Their relationship is marked by resentment, rebellion, and Prospero's harsh control.",
+    "metadata": {
+      "character_1": "Prospero",
+      "character_2": "Caliban",
+      "relationship_type": "master-slave/oppressor-oppressed",
+      "query_patterns": [
+        "prospero caliban",
+        "relationship prospero caliban"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tempest_df7ce0fb",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tempest",
+    "content": "Relationship of Ferdinand and Miranda in The Tempest are romantic. Ferdinand and Miranda fall in love at first sight. Their pure and innocent love is central to Prospero's plan for reconciliation and forms the hopeful future of the play.",
+    "metadata": {
+      "character_1": "Ferdinand",
+      "character_2": "Miranda",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "ferdinand miranda",
+        "relationship ferdinand miranda"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tempest_3b215f75",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tempest",
+    "content": "Relationship of Alonso and Prospero in The Tempest are king-usurped duke/reconciled. Alonso is the King of Naples, who conspired with Antonio to usurp Prospero's dukedom. He is brought to the island and eventually reconciled with Prospero, experiencing remorse for his past actions.",
+    "metadata": {
+      "character_1": "Alonso",
+      "character_2": "Prospero",
+      "relationship_type": "king-usurped duke/reconciled",
+      "query_patterns": [
+        "alonso prospero",
+        "relationship alonso prospero"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tempest_45fa8362",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tempest",
+    "content": "Relationship of Antonio and Prospero in The Tempest are brothers/usurper-victim. Antonio is Prospero's treacherous brother, who usurped his dukedom. Their relationship is one of deep betrayal, though Prospero ultimately chooses to forgive him.",
+    "metadata": {
+      "character_1": "Antonio",
+      "character_2": "Prospero",
+      "relationship_type": "brothers/usurper-victim",
+      "query_patterns": [
+        "antonio prospero",
+        "relationship antonio prospero"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tempest_7803bcf7",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tempest",
+    "content": "Relationship of Stephano and Trinculo in The Tempest are comic allies/drunkards. Stephano and Trinculo are drunken shipwrecked servants who encounter Caliban. They form a comic alliance, plotting to overthrow Prospero, highlighting their foolishness and ambition.",
+    "metadata": {
+      "character_1": "Stephano",
+      "character_2": "Trinculo",
+      "relationship_type": "comic allies/drunkards",
+      "query_patterns": [
+        "stephano trinculo",
+        "relationship stephano trinculo"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_two_gentlemen_of_verona_cea7fdb0",
+    "chunk_type": "character_relationship",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Relationship of Valentine and Proteus in The Two Gentlemen of Verona are friends. Valentine and Proteus are close friends. Their friendship is tested by Proteus's betrayal, as he attempts to steal Valentine's beloved Silvia, leading to conflict and eventual reconciliation.",
+    "metadata": {
+      "character_1": "Valentine",
+      "character_2": "Proteus",
+      "relationship_type": "friends",
+      "query_patterns": [
+        "valentine proteus",
+        "relationship valentine proteus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_two_gentlemen_of_verona_48bec299",
+    "chunk_type": "character_relationship",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Relationship of Proteus and Julia in The Two Gentlemen of Verona are romantic. Proteus and Julia are lovers. Proteus initially abandons Julia for Silvia, but Julia, disguised as a page, follows him, leading to his eventual repentance and their reunion.",
+    "metadata": {
+      "character_1": "Proteus",
+      "character_2": "Julia",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "proteus julia",
+        "relationship proteus julia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_two_gentlemen_of_verona_e742030e",
+    "chunk_type": "character_relationship",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Relationship of Valentine and Silvia in The Two Gentlemen of Verona are romantic. Valentine and Silvia are lovers. Their relationship is threatened by Proteus's betrayal and Silvia's father's disapproval, but they ultimately overcome obstacles to be together.",
+    "metadata": {
+      "character_1": "Valentine",
+      "character_2": "Silvia",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "valentine silvia",
+        "relationship valentine silvia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_two_gentlemen_of_verona_def598c2",
+    "chunk_type": "character_relationship",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Relationship of Duke of Milan and Silvia in The Two Gentlemen of Verona are father-daughter. The Duke of Milan is Silvia's father, who disapproves of her love for Valentine and attempts to force her to marry Thurio, leading to conflict and her eventual elopement.",
+    "metadata": {
+      "character_1": "Duke of Milan",
+      "character_2": "Silvia",
+      "relationship_type": "father-daughter",
+      "query_patterns": [
+        "duke of milan silvia",
+        "relationship duke of milan silvia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_two_gentlemen_of_verona_d2b03e7f",
+    "chunk_type": "character_relationship",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Relationship of Launce and Speed in The Two Gentlemen of Verona are comic servants. Launce and Speed are comic servants to Proteus and Valentine, respectively. They provide much of the play's humor through their witty banter, observations, and interactions with their dogs.",
+    "metadata": {
+      "character_1": "Launce",
+      "character_2": "Speed",
+      "relationship_type": "comic servants",
+      "query_patterns": [
+        "launce speed",
+        "relationship launce speed"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_two_gentlemen_of_verona_21f8aa1d",
+    "chunk_type": "character_relationship",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Relationship of Thurio and Silvia in The Two Gentlemen of Verona are unwanted suitor. Thurio is a wealthy but foolish nobleman whom the Duke of Milan favors as a suitor for Silvia. He is an unwanted rival to Valentine and a source of comic relief.",
+    "metadata": {
+      "character_1": "Thurio",
+      "character_2": "Silvia",
+      "relationship_type": "unwanted suitor",
+      "query_patterns": [
+        "thurio silvia",
+        "relationship thurio silvia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_timon_of_athens_e6adfe82",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Relationship of Timon and Alcibiades in The Life of Timon of Athens are friends/disillusioned. Timon is a wealthy Athenian nobleman, and Alcibiades is a military captain. Timon initially supports Alcibiades, but both become disillusioned with Athens's corruption, leading Alcibiades to seek revenge.",
+    "metadata": {
+      "character_1": "Timon",
+      "character_2": "Alcibiades",
+      "relationship_type": "friends/disillusioned",
+      "query_patterns": [
+        "timon alcibiades",
+        "relationship timon alcibiades"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_timon_of_athens_d424354f",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Relationship of Timon and Apemantus in The Life of Timon of Athens are misanthropic companions. Apemantus is a cynical philosopher and misanthrope who constantly criticizes Timon's generosity. He later becomes Timon's companion in his bitter exile, sharing his hatred of humanity.",
+    "metadata": {
+      "character_1": "Timon",
+      "character_2": "Apemantus",
+      "relationship_type": "misanthropic companions",
+      "query_patterns": [
+        "timon apemantus",
+        "relationship timon apemantus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_timon_of_athens_3a3ec0e9",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Relationship of Timon and Flavius in The Life of Timon of Athens are master-loyal steward. Flavius is Timon's loyal and honest steward, who tries to warn Timon about his impending financial ruin and remains faithful to him even after Timon's fall into misanthropy.",
+    "metadata": {
+      "character_1": "Timon",
+      "character_2": "Flavius",
+      "relationship_type": "master-loyal steward",
+      "query_patterns": [
+        "timon flavius",
+        "relationship timon flavius"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_timon_of_athens_b2f06545",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Relationship of Timon and Sempronius in The Life of Timon of Athens are benefactor-false friend. Sempronius is one of Timon's many false friends who eagerly accepts his generosity but abandons him completely when Timon falls into debt, highlighting the theme of ingratitude.",
+    "metadata": {
+      "character_1": "Timon",
+      "character_2": "Sempronius",
+      "relationship_type": "benefactor-false friend",
+      "query_patterns": [
+        "timon sempronius",
+        "relationship timon sempronius"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_life_of_timon_of_athens_4bdd2086",
+    "chunk_type": "character_relationship",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Relationship of Timon and Ventidius in The Life of Timon of Athens are benefactor-false friend. Ventidius is another of Timon's false friends, whom Timon bails out of prison. He later refuses to help Timon in his time of need, demonstrating the hypocrisy of fair-weather friendships.",
+    "metadata": {
+      "character_1": "Timon",
+      "character_2": "Ventidius",
+      "relationship_type": "benefactor-false friend",
+      "query_patterns": [
+        "timon ventidius",
+        "relationship timon ventidius"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_titus_andronicus_4c7cd572",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Relationship of Titus Andronicus and Tamora in The Tragedy of Titus Andronicus are general-queen/enemies. Titus Andronicus is a Roman general, and Tamora is the Queen of the Goths. Their relationship is one of bitter vengeance, as Titus sacrifices her son, leading to her relentless pursuit of revenge against his family.",
+    "metadata": {
+      "character_1": "Titus Andronicus",
+      "character_2": "Tamora",
+      "relationship_type": "general-queen/enemies",
+      "query_patterns": [
+        "titus andronicus tamora",
+        "relationship titus andronicus tamora"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_titus_andronicus_5a9729a7",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Relationship of Titus Andronicus and Lavinia in The Tragedy of Titus Andronicus are father-daughter. Lavinia is Titus's daughter, who suffers horrific mutilation at the hands of Tamora's sons. Their relationship is one of profound grief and a shared desire for vengeance.",
+    "metadata": {
+      "character_1": "Titus Andronicus",
+      "character_2": "Lavinia",
+      "relationship_type": "father-daughter",
+      "query_patterns": [
+        "titus andronicus lavinia",
+        "relationship titus andronicus lavinia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_titus_andronicus_5d3579ce",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Relationship of Aaron and Tamora in The Tragedy of Titus Andronicus are lover/accomplice. Aaron is a villainous Moor and Tamora's secret lover and chief accomplice in her schemes of revenge. He is the mastermind behind many of the play's atrocities.",
+    "metadata": {
+      "character_1": "Aaron",
+      "character_2": "Tamora",
+      "relationship_type": "lover/accomplice",
+      "query_patterns": [
+        "aaron tamora",
+        "relationship aaron tamora"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_titus_andronicus_b1fe488e",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Relationship of Saturninus and Tamora in The Tragedy of Titus Andronicus are emperor-empress. Saturninus is the Roman Emperor who marries Tamora. He is easily manipulated by her and Aaron, becoming complicit in their cruel acts against the Andronici family.",
+    "metadata": {
+      "character_1": "Saturninus",
+      "character_2": "Tamora",
+      "relationship_type": "emperor-empress",
+      "query_patterns": [
+        "saturninus tamora",
+        "relationship saturninus tamora"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_titus_andronicus_83e1d912",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Relationship of Lucius and Titus Andronicus in The Tragedy of Titus Andronicus are son-father. Lucius is Titus's son, who is banished but later returns with a Gothic army to avenge his family's wrongs and ultimately restores order to Rome.",
+    "metadata": {
+      "character_1": "Lucius",
+      "character_2": "Titus Andronicus",
+      "relationship_type": "son-father",
+      "query_patterns": [
+        "lucius titus andronicus",
+        "relationship lucius titus andronicus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_the_tragedy_of_titus_andronicus_97b22a65",
+    "chunk_type": "character_relationship",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Relationship of Demetrius and Chiron in The Tragedy of Titus Andronicus are brothers/rapists. Demetrius and Chiron are Tamora's sons and brothers. They are both cruel and villainous, jointly responsible for the rape and mutilation of Lavinia.",
+    "metadata": {
+      "character_1": "Demetrius",
+      "character_2": "Chiron",
+      "relationship_type": "brothers/rapists",
+      "query_patterns": [
+        "demetrius chiron",
+        "relationship demetrius chiron"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_troilus_and_cressida_0b6908d8",
+    "chunk_type": "character_relationship",
+    "play_title": "Troilus and Cressida",
+    "content": "Relationship of Troilus and Cressida in Troilus and Cressida are romantic. Troilus and Cressida are young Trojan lovers whose passionate but ultimately fragile relationship is central to the play. Their love is tested by war, political maneuvering, and Cressida's perceived infidelity.",
+    "metadata": {
+      "character_1": "Troilus",
+      "character_2": "Cressida",
+      "relationship_type": "romantic",
+      "query_patterns": [
+        "troilus cressida",
+        "relationship troilus cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_troilus_and_cressida_289a6125",
+    "chunk_type": "character_relationship",
+    "play_title": "Troilus and Cressida",
+    "content": "Relationship of Hector and Achilles in Troilus and Cressida are rival warriors. Hector and Achilles are the greatest warriors of the Trojan and Greek armies, respectively. Their rivalry is a central aspect of the war, culminating in their fatal confrontation.",
+    "metadata": {
+      "character_1": "Hector",
+      "character_2": "Achilles",
+      "relationship_type": "rival warriors",
+      "query_patterns": [
+        "hector achilles",
+        "relationship hector achilles"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_troilus_and_cressida_08697674",
+    "chunk_type": "character_relationship",
+    "play_title": "Troilus and Cressida",
+    "content": "Relationship of Pandarus and Cressida in Troilus and Cressida are uncle-niece/pander. Pandarus is Cressida's uncle, who acts as a go-between and pander for Troilus and Cressida's affair. He is a cynical and self-serving character who facilitates their romance.",
+    "metadata": {
+      "character_1": "Pandarus",
+      "character_2": "Cressida",
+      "relationship_type": "uncle-niece/pander",
+      "query_patterns": [
+        "pandarus cressida",
+        "relationship pandarus cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_troilus_and_cressida_0b1ed76e",
+    "chunk_type": "character_relationship",
+    "play_title": "Troilus and Cressida",
+    "content": "Relationship of Agamemnon and Ulysses in Troilus and Cressida are commander-chief strategist. Agamemnon is the supreme commander of the Greek forces, and Ulysses is his chief strategist and advisor. Their relationship highlights the political and military complexities of the Trojan War.",
+    "metadata": {
+      "character_1": "Agamemnon",
+      "character_2": "Ulysses",
+      "relationship_type": "commander-chief strategist",
+      "query_patterns": [
+        "agamemnon ulysses",
+        "relationship agamemnon ulysses"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_troilus_and_cressida_651a79ce",
+    "chunk_type": "character_relationship",
+    "play_title": "Troilus and Cressida",
+    "content": "Relationship of Diomedes and Cressida in Troilus and Cressida are romantic (new lover). Diomedes is a Greek commander who becomes Cressida's new lover after she is exchanged to the Greek camp. His relationship with Cressida fuels Troilus's disillusionment.",
+    "metadata": {
+      "character_1": "Diomedes",
+      "character_2": "Cressida",
+      "relationship_type": "romantic (new lover)",
+      "query_patterns": [
+        "diomedes cressida",
+        "relationship diomedes cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_troilus_and_cressida_61779a3c",
+    "chunk_type": "character_relationship",
+    "play_title": "Troilus and Cressida",
+    "content": "Relationship of Ajax and Thersites in Troilus and Cressida are general-cynic/observer. Ajax is a strong but foolish Greek general, and Thersites is a cynical, foul-mouthed observer who constantly mocks the heroes and the futility of the war, serving as a bitter commentator.",
+    "metadata": {
+      "character_1": "Ajax",
+      "character_2": "Thersites",
+      "relationship_type": "general-cynic/observer",
+      "query_patterns": [
+        "ajax thersites",
+        "relationship ajax thersites"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_twelfth_night;_or_what_you_will_316afe6a",
+    "chunk_type": "character_relationship",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Relationship of Viola and Duke Orsino in Twelfth Night; Or, What You Will are romantic (disguised). Viola, disguised as Cesario, falls in love with Duke Orsino while serving as his messenger to Olivia. Their relationship is a central romantic complication, resolved when Viola's true identity is revealed.",
+    "metadata": {
+      "character_1": "Viola",
+      "character_2": "Duke Orsino",
+      "relationship_type": "romantic (disguised)",
+      "query_patterns": [
+        "viola duke orsino",
+        "relationship viola duke orsino"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_twelfth_night;_or_what_you_will_ad3feebb",
+    "chunk_type": "character_relationship",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Relationship of Olivia and Cesario (Viola in disguise) in Twelfth Night; Or, What You Will are romantic (mistaken identity). Olivia falls in love with Cesario, believing him to be a man, unaware that 'he' is Viola in disguise. This mistaken identity drives much of the play's comedic and romantic plot.",
+    "metadata": {
+      "character_1": "Olivia",
+      "character_2": "Cesario (Viola in disguise)",
+      "relationship_type": "romantic (mistaken identity)",
+      "query_patterns": [
+        "olivia cesario (viola in disguise)",
+        "relationship olivia cesario (viola in disguise)"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_twelfth_night;_or_what_you_will_e1539883",
+    "chunk_type": "character_relationship",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Relationship of Sebastian and Viola in Twelfth Night; Or, What You Will are twin siblings. Sebastian and Viola are identical twin siblings, separated by a shipwreck. Their eventual reunion is crucial to resolving the mistaken identities and bringing about the play's happy ending.",
+    "metadata": {
+      "character_1": "Sebastian",
+      "character_2": "Viola",
+      "relationship_type": "twin siblings",
+      "query_patterns": [
+        "sebastian viola",
+        "relationship sebastian viola"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_twelfth_night;_or_what_you_will_cf3c0973",
+    "chunk_type": "character_relationship",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Relationship of Malvolio and Olivia in Twelfth Night; Or, What You Will are steward-mistress. Malvolio is Olivia's puritanical and self-important steward, who secretly harbors romantic ambitions towards her. He is the victim of a cruel prank orchestrated by Sir Toby and Maria.",
+    "metadata": {
+      "character_1": "Malvolio",
+      "character_2": "Olivia",
+      "relationship_type": "steward-mistress",
+      "query_patterns": [
+        "malvolio olivia",
+        "relationship malvolio olivia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_twelfth_night;_or_what_you_will_3fe6eaa3",
+    "chunk_type": "character_relationship",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Relationship of Sir Toby Belch and Maria in Twelfth Night; Or, What You Will are allies/romantic. Sir Toby Belch is Olivia's boisterous and drunken uncle, and Maria is Olivia's witty lady-in-waiting. They are allies in pranking Malvolio and eventually marry.",
+    "metadata": {
+      "character_1": "Sir Toby Belch",
+      "character_2": "Maria",
+      "relationship_type": "allies/romantic",
+      "query_patterns": [
+        "sir toby belch maria",
+        "relationship sir toby belch maria"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_twelfth_night;_or_what_you_will_fdd5bfe2",
+    "chunk_type": "character_relationship",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Relationship of Feste and Olivia in Twelfth Night; Or, What You Will are fool-mistress. Feste is Olivia's witty and philosophical Fool or clown. He provides comic relief and insightful commentary, often serving as a voice of truth that others overlook.",
+    "metadata": {
+      "character_1": "Feste",
+      "character_2": "Olivia",
+      "relationship_type": "fool-mistress",
+      "query_patterns": [
+        "feste olivia",
+        "relationship feste olivia"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_relationship_twelfth_night;_or_what_you_will_14710cc1",
+    "chunk_type": "character_relationship",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Relationship of Sir Andrew Aguecheek and Sir Toby Belch in Twelfth Night; Or, What You Will are friends/dupes. Sir Andrew Aguecheek is a foolish and cowardly knight who is Sir Toby Belch's companion. Sir Toby exploits Andrew's wealth and gullibility for his own amusement.",
+    "metadata": {
+      "character_1": "Sir Andrew Aguecheek",
+      "character_2": "Sir Toby Belch",
+      "relationship_type": "friends/dupes",
+      "query_patterns": [
+        "sir andrew aguecheek sir toby belch",
+        "relationship sir andrew aguecheek sir toby belch"
+      ]
+    },
+    "embedding": null
+  }
+]

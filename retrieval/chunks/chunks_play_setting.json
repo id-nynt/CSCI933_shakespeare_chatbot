@@ -1,0 +1,520 @@
+[
+  {
+    "chunk_id": "play_setting_all's_well_that_ends_well_8d4ddd26",
+    "chunk_type": "play_setting",
+    "play_title": "All's Well That Ends Well",
+    "content": "All's Well That Ends Well takes place in France and Italy.",
+    "metadata": {
+      "setting": "France and Italy",
+      "query_patterns": [
+        "where does all's well that ends well take place",
+        "where was all's well that ends well"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_antony_and_cleopatra_f9964704",
+    "chunk_type": "play_setting",
+    "play_title": "Antony and Cleopatra",
+    "content": "Antony and Cleopatra takes place in Rome and Egypt.",
+    "metadata": {
+      "setting": "Rome and Egypt",
+      "query_patterns": [
+        "where does antony and cleopatra take place",
+        "where was antony and cleopatra"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_as_you_like_it_a5bd6712",
+    "chunk_type": "play_setting",
+    "play_title": "As You Like It",
+    "content": "As You Like It takes place in Court and Forest of Arden.",
+    "metadata": {
+      "setting": "Court and Forest of Arden",
+      "query_patterns": [
+        "where does as you like it take place",
+        "where was as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_the_comedy_of_errors_a4c0f557",
+    "chunk_type": "play_setting",
+    "play_title": "The Comedy of Errors",
+    "content": "The Comedy of Errors takes place in Ephesus.",
+    "metadata": {
+      "setting": "Ephesus",
+      "query_patterns": [
+        "where does the comedy of errors take place",
+        "where was the comedy of errors"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_the_tragedy_of_coriolanus_29e8033d",
+    "chunk_type": "play_setting",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "The Tragedy of Coriolanus takes place in Rome and its surrounding territories.",
+    "metadata": {
+      "setting": "Rome and its surrounding territories",
+      "query_patterns": [
+        "where does the tragedy of coriolanus take place",
+        "where was the tragedy of coriolanus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_cymbeline_20a98576",
+    "chunk_type": "play_setting",
+    "play_title": "Cymbeline",
+    "content": "Cymbeline takes place in Ancient Britain and Rome.",
+    "metadata": {
+      "setting": "Ancient Britain and Rome",
+      "query_patterns": [
+        "where does cymbeline take place",
+        "where was cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_hamlet_prince_of_denmark_e68ceb4a",
+    "chunk_type": "play_setting",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Hamlet, Prince of Denmark takes place in Elsinore Castle, Denmark.",
+    "metadata": {
+      "setting": "Elsinore Castle, Denmark",
+      "query_patterns": [
+        "where does hamlet, prince of denmark take place",
+        "where was hamlet, prince of denmark"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_king_henry_iv_the_first_part_11584b4f",
+    "chunk_type": "play_setting",
+    "play_title": "King Henry IV, the First Part",
+    "content": "King Henry IV, the First Part takes place in England, early 15th century.",
+    "metadata": {
+      "setting": "England, early 15th century",
+      "query_patterns": [
+        "where does king henry iv, the first part take place",
+        "where was king henry iv, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_king_henry_iv_the_second_part_64a58efa",
+    "chunk_type": "play_setting",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "King Henry IV, the Second Part takes place in England, early 15th century.",
+    "metadata": {
+      "setting": "England, early 15th century",
+      "query_patterns": [
+        "where does king henry iv, the second part take place",
+        "where was king henry iv, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_the_life_of_king_henry_v_3a50232d",
+    "chunk_type": "play_setting",
+    "play_title": "The Life of King Henry V",
+    "content": "The Life of King Henry V takes place in England and France, early 15th century.",
+    "metadata": {
+      "setting": "England and France, early 15th century",
+      "query_patterns": [
+        "where does the life of king henry v take place",
+        "where was the life of king henry v"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_the_life_of_henry_the_eighth_25f6dfac",
+    "chunk_type": "play_setting",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "The Life of Henry the Eighth takes place in England, early 16th century.",
+    "metadata": {
+      "setting": "England, early 16th century",
+      "query_patterns": [
+        "where does the life of henry the eighth take place",
+        "where was the life of henry the eighth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_king_henry_vi_the_first_part_0a62a81c",
+    "chunk_type": "play_setting",
+    "play_title": "King Henry VI, the first part",
+    "content": "King Henry VI, the first part takes place in England and France, 15th century.",
+    "metadata": {
+      "setting": "England and France, 15th century",
+      "query_patterns": [
+        "where does king henry vi, the first part take place",
+        "where was king henry vi, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_king_henry_vi_the_second_part_082e5458",
+    "chunk_type": "play_setting",
+    "play_title": "King Henry VI, the second part",
+    "content": "King Henry VI, the second part takes place in England, 15th century.",
+    "metadata": {
+      "setting": "England, 15th century",
+      "query_patterns": [
+        "where does king henry vi, the second part take place",
+        "where was king henry vi, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_king_henry_vi_the_third_part_f5f79522",
+    "chunk_type": "play_setting",
+    "play_title": "King Henry VI, the third part",
+    "content": "King Henry VI, the third part takes place in England, 15th century.",
+    "metadata": {
+      "setting": "England, 15th century",
+      "query_patterns": [
+        "where does king henry vi, the third part take place",
+        "where was king henry vi, the third part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_julius_caesar_a2a74c52",
+    "chunk_type": "play_setting",
+    "play_title": "Julius Caesar",
+    "content": "Julius Caesar takes place in Ancient Rome.",
+    "metadata": {
+      "setting": "Ancient Rome",
+      "query_patterns": [
+        "where does julius caesar take place",
+        "where was julius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_king_john_2036c8b9",
+    "chunk_type": "play_setting",
+    "play_title": "King John",
+    "content": "King John takes place in England and France, 13th century.",
+    "metadata": {
+      "setting": "England and France, 13th century",
+      "query_patterns": [
+        "where does king john take place",
+        "where was king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_the_tragedy_of_king_lear_29e94903",
+    "chunk_type": "play_setting",
+    "play_title": "The Tragedy of King Lear",
+    "content": "The Tragedy of King Lear takes place in Ancient Britain.",
+    "metadata": {
+      "setting": "Ancient Britain",
+      "query_patterns": [
+        "where does the tragedy of king lear take place",
+        "where was the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_love's_labour's_lost_89327a83",
+    "chunk_type": "play_setting",
+    "play_title": "Love's Labour's Lost",
+    "content": "Love's Labour's Lost takes place in Navarre, Spain.",
+    "metadata": {
+      "setting": "Navarre, Spain",
+      "query_patterns": [
+        "where does love's labour's lost take place",
+        "where was love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_macbeth_9ba7306f",
+    "chunk_type": "play_setting",
+    "play_title": "Macbeth",
+    "content": "Macbeth takes place in Scotland and England.",
+    "metadata": {
+      "setting": "Scotland and England",
+      "query_patterns": [
+        "where does macbeth take place",
+        "where was macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_measure_for_measure_58d32af8",
+    "chunk_type": "play_setting",
+    "play_title": "Measure for Measure",
+    "content": "Measure for Measure takes place in Vienna.",
+    "metadata": {
+      "setting": "Vienna",
+      "query_patterns": [
+        "where does measure for measure take place",
+        "where was measure for measure"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_the_merchant_of_venice_a0885982",
+    "chunk_type": "play_setting",
+    "play_title": "The Merchant of Venice",
+    "content": "The Merchant of Venice takes place in Venice and Belmont, Italy.",
+    "metadata": {
+      "setting": "Venice and Belmont, Italy",
+      "query_patterns": [
+        "where does the merchant of venice take place",
+        "where was the merchant of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_the_merry_wives_of_windsor_c1b882b7",
+    "chunk_type": "play_setting",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "The Merry Wives of Windsor takes place in Windsor, England.",
+    "metadata": {
+      "setting": "Windsor, England",
+      "query_patterns": [
+        "where does the merry wives of windsor take place",
+        "where was the merry wives of windsor"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_a_midsummer_night's_dream_aba55d78",
+    "chunk_type": "play_setting",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "A Midsummer Night's Dream takes place in Athens and nearby enchanted forest.",
+    "metadata": {
+      "setting": "Athens and nearby enchanted forest",
+      "query_patterns": [
+        "where does a midsummer night's dream take place",
+        "where was a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_much_ado_about_nothing_7ce1cf22",
+    "chunk_type": "play_setting",
+    "play_title": "Much Ado About Nothing",
+    "content": "Much Ado About Nothing takes place in Messina, Sicily.",
+    "metadata": {
+      "setting": "Messina, Sicily",
+      "query_patterns": [
+        "where does much ado about nothing take place",
+        "where was much ado about nothing"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_othello_the_moor_of_venice_fe602cc2",
+    "chunk_type": "play_setting",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Othello, the Moor of Venice takes place in Venice and Cyprus.",
+    "metadata": {
+      "setting": "Venice and Cyprus",
+      "query_patterns": [
+        "where does othello, the moor of venice take place",
+        "where was othello, the moor of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_pericles_prince_of_tyre_8a021cb9",
+    "chunk_type": "play_setting",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Pericles, Prince of Tyre takes place in Various Mediterranean locations.",
+    "metadata": {
+      "setting": "Various Mediterranean locations",
+      "query_patterns": [
+        "where does pericles, prince of tyre take place",
+        "where was pericles, prince of tyre"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_king_richard_ii_436a00d6",
+    "chunk_type": "play_setting",
+    "play_title": "King Richard II",
+    "content": "King Richard II takes place in England, late 14th century.",
+    "metadata": {
+      "setting": "England, late 14th century",
+      "query_patterns": [
+        "where does king richard ii take place",
+        "where was king richard ii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_king_richard_iii_c7f30d5b",
+    "chunk_type": "play_setting",
+    "play_title": "King Richard III",
+    "content": "King Richard III takes place in England, late 15th century.",
+    "metadata": {
+      "setting": "England, late 15th century",
+      "query_patterns": [
+        "where does king richard iii take place",
+        "where was king richard iii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_romeo_and_juliet_54df2285",
+    "chunk_type": "play_setting",
+    "play_title": "Romeo and Juliet",
+    "content": "Romeo and Juliet takes place in Verona, Italy.",
+    "metadata": {
+      "setting": "Verona, Italy",
+      "query_patterns": [
+        "where does romeo and juliet take place",
+        "where was romeo and juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_the_taming_of_the_shrew_55791d7e",
+    "chunk_type": "play_setting",
+    "play_title": "The Taming of the Shrew",
+    "content": "The Taming of the Shrew takes place in Padua, Italy.",
+    "metadata": {
+      "setting": "Padua, Italy",
+      "query_patterns": [
+        "where does the taming of the shrew take place",
+        "where was the taming of the shrew"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_the_tempest_1a132b45",
+    "chunk_type": "play_setting",
+    "play_title": "The Tempest",
+    "content": "The Tempest takes place in A remote island.",
+    "metadata": {
+      "setting": "A remote island",
+      "query_patterns": [
+        "where does the tempest take place",
+        "where was the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_the_two_gentlemen_of_verona_2d18805c",
+    "chunk_type": "play_setting",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "The Two Gentlemen of Verona takes place in Verona and Milan, Italy.",
+    "metadata": {
+      "setting": "Verona and Milan, Italy",
+      "query_patterns": [
+        "where does the two gentlemen of verona take place",
+        "where was the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_the_life_of_timon_of_athens_0d1684e3",
+    "chunk_type": "play_setting",
+    "play_title": "The Life of Timon of Athens",
+    "content": "The Life of Timon of Athens takes place in Athens, Greece.",
+    "metadata": {
+      "setting": "Athens, Greece",
+      "query_patterns": [
+        "where does the life of timon of athens take place",
+        "where was the life of timon of athens"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_the_tragedy_of_titus_andronicus_3d45b2aa",
+    "chunk_type": "play_setting",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "The Tragedy of Titus Andronicus takes place in Rome.",
+    "metadata": {
+      "setting": "Rome",
+      "query_patterns": [
+        "where does the tragedy of titus andronicus take place",
+        "where was the tragedy of titus andronicus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_troilus_and_cressida_354f3dd0",
+    "chunk_type": "play_setting",
+    "play_title": "Troilus and Cressida",
+    "content": "Troilus and Cressida takes place in Troy and the Greek camp, during the Trojan War.",
+    "metadata": {
+      "setting": "Troy and the Greek camp, during the Trojan War",
+      "query_patterns": [
+        "where does troilus and cressida take place",
+        "where was troilus and cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_twelfth_night;_or_what_you_will_8e640997",
+    "chunk_type": "play_setting",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Twelfth Night; Or, What You Will takes place in Illyria, an ancient region on the Adriatic Sea.",
+    "metadata": {
+      "setting": "Illyria, an ancient region on the Adriatic Sea",
+      "query_patterns": [
+        "where does twelfth night; or, what you will take place",
+        "where was twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_setting_the_winter's_tale_1f85a68b",
+    "chunk_type": "play_setting",
+    "play_title": "The Winter's Tale",
+    "content": "The Winter's Tale takes place in Sicilia and Bohemia.",
+    "metadata": {
+      "setting": "Sicilia and Bohemia",
+      "query_patterns": [
+        "where does the winter's tale take place",
+        "where was the winter's tale"
+      ]
+    },
+    "embedding": null
+  }
+]

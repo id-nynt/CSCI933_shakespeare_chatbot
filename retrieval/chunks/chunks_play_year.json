@@ -1,0 +1,483 @@
+[
+  {
+    "chunk_id": "play_year_all's_well_that_ends_well_689b076a",
+    "chunk_type": "play_year",
+    "play_title": "All's Well That Ends Well",
+    "content": "All's Well That Ends Well was written in 1604-1605.",
+    "metadata": {
+      "year": "1604-1605",
+      "query_patterns": [
+        "when was all's well that ends well written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_antony_and_cleopatra_0e6b7702",
+    "chunk_type": "play_year",
+    "play_title": "Antony and Cleopatra",
+    "content": "Antony and Cleopatra was written in 1606.",
+    "metadata": {
+      "year": "1606",
+      "query_patterns": [
+        "when was antony and cleopatra written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_as_you_like_it_67cbb784",
+    "chunk_type": "play_year",
+    "play_title": "As You Like It",
+    "content": "As You Like It was written in 1599-1600.",
+    "metadata": {
+      "year": "1599-1600",
+      "query_patterns": [
+        "when was as you like it written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_the_comedy_of_errors_832681b0",
+    "chunk_type": "play_year",
+    "play_title": "The Comedy of Errors",
+    "content": "The Comedy of Errors was written in 1594.",
+    "metadata": {
+      "year": "1594",
+      "query_patterns": [
+        "when was the comedy of errors written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_the_tragedy_of_coriolanus_4f63f169",
+    "chunk_type": "play_year",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "The Tragedy of Coriolanus was written in 1608-1609.",
+    "metadata": {
+      "year": "1608-1609",
+      "query_patterns": [
+        "when was the tragedy of coriolanus written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_cymbeline_7566d12b",
+    "chunk_type": "play_year",
+    "play_title": "Cymbeline",
+    "content": "Cymbeline was written in 1609-1610.",
+    "metadata": {
+      "year": "1609-1610",
+      "query_patterns": [
+        "when was cymbeline written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_hamlet_prince_of_denmark_884eb1e7",
+    "chunk_type": "play_year",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Hamlet, Prince of Denmark was written in 1600-1601.",
+    "metadata": {
+      "year": "1600-1601",
+      "query_patterns": [
+        "when was hamlet, prince of denmark written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_king_henry_iv_the_first_part_e8222ab1",
+    "chunk_type": "play_year",
+    "play_title": "King Henry IV, the First Part",
+    "content": "King Henry IV, the First Part was written in 1596-1597.",
+    "metadata": {
+      "year": "1596-1597",
+      "query_patterns": [
+        "when was king henry iv, the first part written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_king_henry_iv_the_second_part_a694660b",
+    "chunk_type": "play_year",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "King Henry IV, the Second Part was written in 1597-1598.",
+    "metadata": {
+      "year": "1597-1598",
+      "query_patterns": [
+        "when was king henry iv, the second part written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_the_life_of_king_henry_v_784f0a22",
+    "chunk_type": "play_year",
+    "play_title": "The Life of King Henry V",
+    "content": "The Life of King Henry V was written in 1599.",
+    "metadata": {
+      "year": "1599",
+      "query_patterns": [
+        "when was the life of king henry v written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_the_life_of_henry_the_eighth_aed6d20c",
+    "chunk_type": "play_year",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "The Life of Henry the Eighth was written in 1613.",
+    "metadata": {
+      "year": "1613",
+      "query_patterns": [
+        "when was the life of henry the eighth written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_king_henry_vi_the_first_part_dde3a081",
+    "chunk_type": "play_year",
+    "play_title": "King Henry VI, the first part",
+    "content": "King Henry VI, the first part was written in 1591-1592.",
+    "metadata": {
+      "year": "1591-1592",
+      "query_patterns": [
+        "when was king henry vi, the first part written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_king_henry_vi_the_second_part_87817ac1",
+    "chunk_type": "play_year",
+    "play_title": "King Henry VI, the second part",
+    "content": "King Henry VI, the second part was written in 1590-1591.",
+    "metadata": {
+      "year": "1590-1591",
+      "query_patterns": [
+        "when was king henry vi, the second part written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_king_henry_vi_the_third_part_d7b13e7c",
+    "chunk_type": "play_year",
+    "play_title": "King Henry VI, the third part",
+    "content": "King Henry VI, the third part was written in 1591-1592.",
+    "metadata": {
+      "year": "1591-1592",
+      "query_patterns": [
+        "when was king henry vi, the third part written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_julius_caesar_621af0f2",
+    "chunk_type": "play_year",
+    "play_title": "Julius Caesar",
+    "content": "Julius Caesar was written in 1599.",
+    "metadata": {
+      "year": "1599",
+      "query_patterns": [
+        "when was julius caesar written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_king_john_7181cf31",
+    "chunk_type": "play_year",
+    "play_title": "King John",
+    "content": "King John was written in 1595-1596.",
+    "metadata": {
+      "year": "1595-1596",
+      "query_patterns": [
+        "when was king john written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_the_tragedy_of_king_lear_b0065a47",
+    "chunk_type": "play_year",
+    "play_title": "The Tragedy of King Lear",
+    "content": "The Tragedy of King Lear was written in 1605-1606.",
+    "metadata": {
+      "year": "1605-1606",
+      "query_patterns": [
+        "when was the tragedy of king lear written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_love's_labour's_lost_834abcf6",
+    "chunk_type": "play_year",
+    "play_title": "Love's Labour's Lost",
+    "content": "Love's Labour's Lost was written in 1594-1595.",
+    "metadata": {
+      "year": "1594-1595",
+      "query_patterns": [
+        "when was love's labour's lost written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_macbeth_06863e52",
+    "chunk_type": "play_year",
+    "play_title": "Macbeth",
+    "content": "Macbeth was written in 1606.",
+    "metadata": {
+      "year": "1606",
+      "query_patterns": [
+        "when was macbeth written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_measure_for_measure_edc0ea5b",
+    "chunk_type": "play_year",
+    "play_title": "Measure for Measure",
+    "content": "Measure for Measure was written in 1604.",
+    "metadata": {
+      "year": "1604",
+      "query_patterns": [
+        "when was measure for measure written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_the_merchant_of_venice_b8e9a46a",
+    "chunk_type": "play_year",
+    "play_title": "The Merchant of Venice",
+    "content": "The Merchant of Venice was written in 1596-1597.",
+    "metadata": {
+      "year": "1596-1597",
+      "query_patterns": [
+        "when was the merchant of venice written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_the_merry_wives_of_windsor_319c8b5d",
+    "chunk_type": "play_year",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "The Merry Wives of Windsor was written in 1597-1601.",
+    "metadata": {
+      "year": "1597-1601",
+      "query_patterns": [
+        "when was the merry wives of windsor written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_a_midsummer_night's_dream_c2cb9b05",
+    "chunk_type": "play_year",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "A Midsummer Night's Dream was written in 1595-1596.",
+    "metadata": {
+      "year": "1595-1596",
+      "query_patterns": [
+        "when was a midsummer night's dream written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_much_ado_about_nothing_6f153a5b",
+    "chunk_type": "play_year",
+    "play_title": "Much Ado About Nothing",
+    "content": "Much Ado About Nothing was written in 1598-1599.",
+    "metadata": {
+      "year": "1598-1599",
+      "query_patterns": [
+        "when was much ado about nothing written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_othello_the_moor_of_venice_b9b7f1d7",
+    "chunk_type": "play_year",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Othello, the Moor of Venice was written in 1603-1604.",
+    "metadata": {
+      "year": "1603-1604",
+      "query_patterns": [
+        "when was othello, the moor of venice written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_pericles_prince_of_tyre_01a4529d",
+    "chunk_type": "play_year",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Pericles, Prince of Tyre was written in 1607-1608.",
+    "metadata": {
+      "year": "1607-1608",
+      "query_patterns": [
+        "when was pericles, prince of tyre written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_king_richard_ii_c384b023",
+    "chunk_type": "play_year",
+    "play_title": "King Richard II",
+    "content": "King Richard II was written in 1595.",
+    "metadata": {
+      "year": "1595",
+      "query_patterns": [
+        "when was king richard ii written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_king_richard_iii_f8b43e81",
+    "chunk_type": "play_year",
+    "play_title": "King Richard III",
+    "content": "King Richard III was written in 1592-1593.",
+    "metadata": {
+      "year": "1592-1593",
+      "query_patterns": [
+        "when was king richard iii written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_romeo_and_juliet_37b9aa02",
+    "chunk_type": "play_year",
+    "play_title": "Romeo and Juliet",
+    "content": "Romeo and Juliet was written in 1595-1596.",
+    "metadata": {
+      "year": "1595-1596",
+      "query_patterns": [
+        "when was romeo and juliet written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_the_taming_of_the_shrew_b59b9e0f",
+    "chunk_type": "play_year",
+    "play_title": "The Taming of the Shrew",
+    "content": "The Taming of the Shrew was written in 1590-1592.",
+    "metadata": {
+      "year": "1590-1592",
+      "query_patterns": [
+        "when was the taming of the shrew written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_the_tempest_10239e54",
+    "chunk_type": "play_year",
+    "play_title": "The Tempest",
+    "content": "The Tempest was written in 1610-1611.",
+    "metadata": {
+      "year": "1610-1611",
+      "query_patterns": [
+        "when was the tempest written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_the_two_gentlemen_of_verona_9d130271",
+    "chunk_type": "play_year",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "The Two Gentlemen of Verona was written in 1590–1593.",
+    "metadata": {
+      "year": "1590–1593",
+      "query_patterns": [
+        "when was the two gentlemen of verona written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_the_life_of_timon_of_athens_b3e58f46",
+    "chunk_type": "play_year",
+    "play_title": "The Life of Timon of Athens",
+    "content": "The Life of Timon of Athens was written in 1605-1608.",
+    "metadata": {
+      "year": "1605-1608",
+      "query_patterns": [
+        "when was the life of timon of athens written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_the_tragedy_of_titus_andronicus_0bf142e3",
+    "chunk_type": "play_year",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "The Tragedy of Titus Andronicus was written in 1593-1594.",
+    "metadata": {
+      "year": "1593-1594",
+      "query_patterns": [
+        "when was the tragedy of titus andronicus written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_troilus_and_cressida_9a8722c5",
+    "chunk_type": "play_year",
+    "play_title": "Troilus and Cressida",
+    "content": "Troilus and Cressida was written in 1601-1602.",
+    "metadata": {
+      "year": "1601-1602",
+      "query_patterns": [
+        "when was troilus and cressida written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_twelfth_night;_or_what_you_will_b13f37b7",
+    "chunk_type": "play_year",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Twelfth Night; Or, What You Will was written in 1601-1602.",
+    "metadata": {
+      "year": "1601-1602",
+      "query_patterns": [
+        "when was twelfth night; or, what you will written"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_year_the_winter's_tale_25e8dcae",
+    "chunk_type": "play_year",
+    "play_title": "The Winter's Tale",
+    "content": "The Winter's Tale was written in 1610-1611.",
+    "metadata": {
+      "year": "1610-1611",
+      "query_patterns": [
+        "when was the winter's tale written"
+      ]
+    },
+    "embedding": null
+  }
+]

@@ -1,0 +1,520 @@
+[
+  {
+    "chunk_id": "play_category_all's_well_that_ends_well_97043089",
+    "chunk_type": "play_category",
+    "play_title": "All's Well That Ends Well",
+    "content": "The category of All's Well That Ends Well is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is all's well that ends well",
+        "what type of play is all's well that ends well"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_antony_and_cleopatra_681ba40e",
+    "chunk_type": "play_category",
+    "play_title": "Antony and Cleopatra",
+    "content": "The category of Antony and Cleopatra is tragedy.",
+    "metadata": {
+      "category": "tragedy",
+      "query_patterns": [
+        "what category is antony and cleopatra",
+        "what type of play is antony and cleopatra"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_as_you_like_it_357599a4",
+    "chunk_type": "play_category",
+    "play_title": "As You Like It",
+    "content": "The category of As You Like It is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is as you like it",
+        "what type of play is as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_the_comedy_of_errors_ef4bb869",
+    "chunk_type": "play_category",
+    "play_title": "The Comedy of Errors",
+    "content": "The category of The Comedy of Errors is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is the comedy of errors",
+        "what type of play is the comedy of errors"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_the_tragedy_of_coriolanus_e8bfcc46",
+    "chunk_type": "play_category",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "The category of The Tragedy of Coriolanus is tragedy.",
+    "metadata": {
+      "category": "tragedy",
+      "query_patterns": [
+        "what category is the tragedy of coriolanus",
+        "what type of play is the tragedy of coriolanus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_cymbeline_d000f570",
+    "chunk_type": "play_category",
+    "play_title": "Cymbeline",
+    "content": "The category of Cymbeline is tragedy.",
+    "metadata": {
+      "category": "tragedy",
+      "query_patterns": [
+        "what category is cymbeline",
+        "what type of play is cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_hamlet_prince_of_denmark_97d621f5",
+    "chunk_type": "play_category",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "The category of Hamlet, Prince of Denmark is tragedy.",
+    "metadata": {
+      "category": "tragedy",
+      "query_patterns": [
+        "what category is hamlet, prince of denmark",
+        "what type of play is hamlet, prince of denmark"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_king_henry_iv_the_first_part_552bc9e5",
+    "chunk_type": "play_category",
+    "play_title": "King Henry IV, the First Part",
+    "content": "The category of King Henry IV, the First Part is history.",
+    "metadata": {
+      "category": "history",
+      "query_patterns": [
+        "what category is king henry iv, the first part",
+        "what type of play is king henry iv, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_king_henry_iv_the_second_part_1448606f",
+    "chunk_type": "play_category",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "The category of King Henry IV, the Second Part is history.",
+    "metadata": {
+      "category": "history",
+      "query_patterns": [
+        "what category is king henry iv, the second part",
+        "what type of play is king henry iv, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_the_life_of_king_henry_v_d25c71bc",
+    "chunk_type": "play_category",
+    "play_title": "The Life of King Henry V",
+    "content": "The category of The Life of King Henry V is history.",
+    "metadata": {
+      "category": "history",
+      "query_patterns": [
+        "what category is the life of king henry v",
+        "what type of play is the life of king henry v"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_the_life_of_henry_the_eighth_40c96522",
+    "chunk_type": "play_category",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "The category of The Life of Henry the Eighth is history.",
+    "metadata": {
+      "category": "history",
+      "query_patterns": [
+        "what category is the life of henry the eighth",
+        "what type of play is the life of henry the eighth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_king_henry_vi_the_first_part_b5caf95b",
+    "chunk_type": "play_category",
+    "play_title": "King Henry VI, the first part",
+    "content": "The category of King Henry VI, the first part is history.",
+    "metadata": {
+      "category": "history",
+      "query_patterns": [
+        "what category is king henry vi, the first part",
+        "what type of play is king henry vi, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_king_henry_vi_the_second_part_127994b4",
+    "chunk_type": "play_category",
+    "play_title": "King Henry VI, the second part",
+    "content": "The category of King Henry VI, the second part is history.",
+    "metadata": {
+      "category": "history",
+      "query_patterns": [
+        "what category is king henry vi, the second part",
+        "what type of play is king henry vi, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_king_henry_vi_the_third_part_cebaff98",
+    "chunk_type": "play_category",
+    "play_title": "King Henry VI, the third part",
+    "content": "The category of King Henry VI, the third part is history.",
+    "metadata": {
+      "category": "history",
+      "query_patterns": [
+        "what category is king henry vi, the third part",
+        "what type of play is king henry vi, the third part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_julius_caesar_965035b1",
+    "chunk_type": "play_category",
+    "play_title": "Julius Caesar",
+    "content": "The category of Julius Caesar is tragedy.",
+    "metadata": {
+      "category": "tragedy",
+      "query_patterns": [
+        "what category is julius caesar",
+        "what type of play is julius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_king_john_d350a7a7",
+    "chunk_type": "play_category",
+    "play_title": "King John",
+    "content": "The category of King John is history.",
+    "metadata": {
+      "category": "history",
+      "query_patterns": [
+        "what category is king john",
+        "what type of play is king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_the_tragedy_of_king_lear_bb9d7fad",
+    "chunk_type": "play_category",
+    "play_title": "The Tragedy of King Lear",
+    "content": "The category of The Tragedy of King Lear is tragedy.",
+    "metadata": {
+      "category": "tragedy",
+      "query_patterns": [
+        "what category is the tragedy of king lear",
+        "what type of play is the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_love's_labour's_lost_306af6d3",
+    "chunk_type": "play_category",
+    "play_title": "Love's Labour's Lost",
+    "content": "The category of Love's Labour's Lost is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is love's labour's lost",
+        "what type of play is love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_macbeth_0b415a4b",
+    "chunk_type": "play_category",
+    "play_title": "Macbeth",
+    "content": "The category of Macbeth is tragedy.",
+    "metadata": {
+      "category": "tragedy",
+      "query_patterns": [
+        "what category is macbeth",
+        "what type of play is macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_measure_for_measure_e37e7472",
+    "chunk_type": "play_category",
+    "play_title": "Measure for Measure",
+    "content": "The category of Measure for Measure is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is measure for measure",
+        "what type of play is measure for measure"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_the_merchant_of_venice_249b98cb",
+    "chunk_type": "play_category",
+    "play_title": "The Merchant of Venice",
+    "content": "The category of The Merchant of Venice is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is the merchant of venice",
+        "what type of play is the merchant of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_the_merry_wives_of_windsor_5d753cee",
+    "chunk_type": "play_category",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "The category of The Merry Wives of Windsor is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is the merry wives of windsor",
+        "what type of play is the merry wives of windsor"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_a_midsummer_night's_dream_5c6989a5",
+    "chunk_type": "play_category",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "The category of A Midsummer Night's Dream is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is a midsummer night's dream",
+        "what type of play is a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_much_ado_about_nothing_43ad5d28",
+    "chunk_type": "play_category",
+    "play_title": "Much Ado About Nothing",
+    "content": "The category of Much Ado About Nothing is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is much ado about nothing",
+        "what type of play is much ado about nothing"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_othello_the_moor_of_venice_2344c809",
+    "chunk_type": "play_category",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "The category of Othello, the Moor of Venice is tragedy.",
+    "metadata": {
+      "category": "tragedy",
+      "query_patterns": [
+        "what category is othello, the moor of venice",
+        "what type of play is othello, the moor of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_pericles_prince_of_tyre_dbca4bfb",
+    "chunk_type": "play_category",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "The category of Pericles, Prince of Tyre is history.",
+    "metadata": {
+      "category": "history",
+      "query_patterns": [
+        "what category is pericles, prince of tyre",
+        "what type of play is pericles, prince of tyre"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_king_richard_ii_153a384a",
+    "chunk_type": "play_category",
+    "play_title": "King Richard II",
+    "content": "The category of King Richard II is history.",
+    "metadata": {
+      "category": "history",
+      "query_patterns": [
+        "what category is king richard ii",
+        "what type of play is king richard ii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_king_richard_iii_7853266d",
+    "chunk_type": "play_category",
+    "play_title": "King Richard III",
+    "content": "The category of King Richard III is history.",
+    "metadata": {
+      "category": "history",
+      "query_patterns": [
+        "what category is king richard iii",
+        "what type of play is king richard iii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_romeo_and_juliet_2e2f36d0",
+    "chunk_type": "play_category",
+    "play_title": "Romeo and Juliet",
+    "content": "The category of Romeo and Juliet is tragedy.",
+    "metadata": {
+      "category": "tragedy",
+      "query_patterns": [
+        "what category is romeo and juliet",
+        "what type of play is romeo and juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_the_taming_of_the_shrew_01781282",
+    "chunk_type": "play_category",
+    "play_title": "The Taming of the Shrew",
+    "content": "The category of The Taming of the Shrew is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is the taming of the shrew",
+        "what type of play is the taming of the shrew"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_the_tempest_558acee2",
+    "chunk_type": "play_category",
+    "play_title": "The Tempest",
+    "content": "The category of The Tempest is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is the tempest",
+        "what type of play is the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_the_two_gentlemen_of_verona_31046e37",
+    "chunk_type": "play_category",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "The category of The Two Gentlemen of Verona is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is the two gentlemen of verona",
+        "what type of play is the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_the_life_of_timon_of_athens_44f32905",
+    "chunk_type": "play_category",
+    "play_title": "The Life of Timon of Athens",
+    "content": "The category of The Life of Timon of Athens is tragedy.",
+    "metadata": {
+      "category": "tragedy",
+      "query_patterns": [
+        "what category is the life of timon of athens",
+        "what type of play is the life of timon of athens"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_the_tragedy_of_titus_andronicus_c3e5a8a9",
+    "chunk_type": "play_category",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "The category of The Tragedy of Titus Andronicus is tragedy.",
+    "metadata": {
+      "category": "tragedy",
+      "query_patterns": [
+        "what category is the tragedy of titus andronicus",
+        "what type of play is the tragedy of titus andronicus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_troilus_and_cressida_da366a1b",
+    "chunk_type": "play_category",
+    "play_title": "Troilus and Cressida",
+    "content": "The category of Troilus and Cressida is tragedy.",
+    "metadata": {
+      "category": "tragedy",
+      "query_patterns": [
+        "what category is troilus and cressida",
+        "what type of play is troilus and cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_twelfth_night;_or_what_you_will_5c86288b",
+    "chunk_type": "play_category",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "The category of Twelfth Night; Or, What You Will is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is twelfth night; or, what you will",
+        "what type of play is twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_category_the_winter's_tale_481d648e",
+    "chunk_type": "play_category",
+    "play_title": "The Winter's Tale",
+    "content": "The category of The Winter's Tale is comedy.",
+    "metadata": {
+      "category": "comedy",
+      "query_patterns": [
+        "what category is the winter's tale",
+        "what type of play is the winter's tale"
+      ]
+    },
+    "embedding": null
+  }
+]

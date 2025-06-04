@@ -1,0 +1,40 @@
+{
+  "total_chunks": 63082,
+  "chunks_by_type": {
+    "character_identity": 280,
+    "play_year": 37,
+    "play_setting": 37,
+    "play_category": 37,
+    "main_characters": 37,
+    "line_speaker": 30784,
+    "next_speaker": 30034,
+    "quote_meaning": 211,
+    "quote_to_play": 211,
+    "quotes_list": 37,
+    "themes_list": 37,
+    "theme_exploration": 226,
+    "play_summary": 36,
+    "act_summary": 166,
+    "scene_summary": 687,
+    "character_relationship": 225
+  },
+  "processed_timestamp": "2025-06-05T00:27:14.353855",
+  "chunk_types": [
+    "character_identity",
+    "play_year",
+    "play_setting",
+    "play_category",
+    "main_characters",
+    "line_speaker",
+    "next_speaker",
+    "quote_meaning",
+    "quote_to_play",
+    "quotes_list",
+    "themes_list",
+    "theme_exploration",
+    "play_summary",
+    "act_summary",
+    "scene_summary",
+    "character_relationship"
+  ]
+}

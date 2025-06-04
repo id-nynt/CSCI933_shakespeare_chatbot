@@ -1,0 +1,24 @@
+{
+  "total_chunks": 63082,
+  "embedding_dim": 384,
+  "model_name": "unknown",
+  "index_type": "IndexFlatL2",
+  "chunk_types": [
+    "scene_summary",
+    "main_characters",
+    "quote_to_play",
+    "play_summary",
+    "quotes_list",
+    "next_speaker",
+    "act_summary",
+    "theme_exploration",
+    "themes_list",
+    "quote_meaning",
+    "play_category",
+    "play_setting",
+    "character_relationship",
+    "character_identity",
+    "play_year",
+    "line_speaker"
+  ]
+}

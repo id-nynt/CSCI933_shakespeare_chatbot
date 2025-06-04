@@ -1,0 +1,3922 @@
+[
+  {
+    "chunk_id": "character_identity_all's_well_that_ends_well_be1d69c6",
+    "chunk_type": "character_identity",
+    "play_title": "All's Well That Ends Well",
+    "content": "Helena is Physician's daughter, loves Bertram, heals king",
+    "metadata": {
+      "character_name": "Helena",
+      "query_patterns": [
+        "who is helena",
+        "who is helena in all's well that ends well"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_all's_well_that_ends_well_4b9b9431",
+    "chunk_type": "character_identity",
+    "play_title": "All's Well That Ends Well",
+    "content": "Bertram is Nobleman, reluctant husband of Helena",
+    "metadata": {
+      "character_name": "Bertram",
+      "query_patterns": [
+        "who is bertram",
+        "who is bertram in all's well that ends well"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_all's_well_that_ends_well_82802899",
+    "chunk_type": "character_identity",
+    "play_title": "All's Well That Ends Well",
+    "content": "Countess of Roussillon is Bertram's mother, supports Helena",
+    "metadata": {
+      "character_name": "Countess of Roussillon",
+      "query_patterns": [
+        "who is countess of roussillon",
+        "who is countess of roussillon in all's well that ends well"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_all's_well_that_ends_well_17c70083",
+    "chunk_type": "character_identity",
+    "play_title": "All's Well That Ends Well",
+    "content": "King of France is Ruler, healed by Helena, grants marriage",
+    "metadata": {
+      "character_name": "King of France",
+      "query_patterns": [
+        "who is king of france",
+        "who is king of france in all's well that ends well"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_all's_well_that_ends_well_fd47976b",
+    "chunk_type": "character_identity",
+    "play_title": "All's Well That Ends Well",
+    "content": "Parolles is Bertram's boastful, disloyal companion",
+    "metadata": {
+      "character_name": "Parolles",
+      "query_patterns": [
+        "who is parolles",
+        "who is parolles in all's well that ends well"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_all's_well_that_ends_well_a1c32ebf",
+    "chunk_type": "character_identity",
+    "play_title": "All's Well That Ends Well",
+    "content": "Diana is Young woman, aids Helena's plan",
+    "metadata": {
+      "character_name": "Diana",
+      "query_patterns": [
+        "who is diana",
+        "who is diana in all's well that ends well"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_antony_and_cleopatra_86b67995",
+    "chunk_type": "character_identity",
+    "play_title": "Antony and Cleopatra",
+    "content": "Mark Antony is Roman general, lover of Cleopatra",
+    "metadata": {
+      "character_name": "Mark Antony",
+      "query_patterns": [
+        "who is mark antony",
+        "who is mark antony in antony and cleopatra"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_antony_and_cleopatra_7a67cc86",
+    "chunk_type": "character_identity",
+    "play_title": "Antony and Cleopatra",
+    "content": "Cleopatra is Queen of Egypt, Antony's lover",
+    "metadata": {
+      "character_name": "Cleopatra",
+      "query_patterns": [
+        "who is cleopatra",
+        "who is cleopatra in antony and cleopatra"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_antony_and_cleopatra_f144fc12",
+    "chunk_type": "character_identity",
+    "play_title": "Antony and Cleopatra",
+    "content": "Octavius Caesar is Roman leader, Antony's rival",
+    "metadata": {
+      "character_name": "Octavius Caesar",
+      "query_patterns": [
+        "who is octavius caesar",
+        "who is octavius caesar in antony and cleopatra"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_antony_and_cleopatra_fe83f1dd",
+    "chunk_type": "character_identity",
+    "play_title": "Antony and Cleopatra",
+    "content": "Enobarbus is Antony's loyal officer, defects later",
+    "metadata": {
+      "character_name": "Enobarbus",
+      "query_patterns": [
+        "who is enobarbus",
+        "who is enobarbus in antony and cleopatra"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_antony_and_cleopatra_a2ea0416",
+    "chunk_type": "character_identity",
+    "play_title": "Antony and Cleopatra",
+    "content": "Charmian is Cleopatra's devoted attendant",
+    "metadata": {
+      "character_name": "Charmian",
+      "query_patterns": [
+        "who is charmian",
+        "who is charmian in antony and cleopatra"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_as_you_like_it_26c97e5b",
+    "chunk_type": "character_identity",
+    "play_title": "As You Like It",
+    "content": "Rosalind is Duke Senior's daughter, disguises as Ganymede",
+    "metadata": {
+      "character_name": "Rosalind",
+      "query_patterns": [
+        "who is rosalind",
+        "who is rosalind in as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_as_you_like_it_dae916b4",
+    "chunk_type": "character_identity",
+    "play_title": "As You Like It",
+    "content": "Orlando is Young noble, loves Rosalind",
+    "metadata": {
+      "character_name": "Orlando",
+      "query_patterns": [
+        "who is orlando",
+        "who is orlando in as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_as_you_like_it_34ce436a",
+    "chunk_type": "character_identity",
+    "play_title": "As You Like It",
+    "content": "Celia is Duke Frederick's daughter, Rosalind's cousin",
+    "metadata": {
+      "character_name": "Celia",
+      "query_patterns": [
+        "who is celia",
+        "who is celia in as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_as_you_like_it_3abf8c19",
+    "chunk_type": "character_identity",
+    "play_title": "As You Like It",
+    "content": "Duke Senior is Exiled duke, lives in Arden",
+    "metadata": {
+      "character_name": "Duke Senior",
+      "query_patterns": [
+        "who is duke senior",
+        "who is duke senior in as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_as_you_like_it_cf087bd6",
+    "chunk_type": "character_identity",
+    "play_title": "As You Like It",
+    "content": "Duke Frederick is Usurping duke, banishes Rosalind",
+    "metadata": {
+      "character_name": "Duke Frederick",
+      "query_patterns": [
+        "who is duke frederick",
+        "who is duke frederick in as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_as_you_like_it_4419f418",
+    "chunk_type": "character_identity",
+    "play_title": "As You Like It",
+    "content": "Jaques is Melancholy lord, follows Duke Senior",
+    "metadata": {
+      "character_name": "Jaques",
+      "query_patterns": [
+        "who is jaques",
+        "who is jaques in as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_as_you_like_it_4c126f28",
+    "chunk_type": "character_identity",
+    "play_title": "As You Like It",
+    "content": "Touchstone is Court fool, joins Rosalind's exile",
+    "metadata": {
+      "character_name": "Touchstone",
+      "query_patterns": [
+        "who is touchstone",
+        "who is touchstone in as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_as_you_like_it_2689d8bf",
+    "chunk_type": "character_identity",
+    "play_title": "As You Like It",
+    "content": "Oliver is Orlando's brother, initially hostile",
+    "metadata": {
+      "character_name": "Oliver",
+      "query_patterns": [
+        "who is oliver",
+        "who is oliver in as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_as_you_like_it_c6f78f75",
+    "chunk_type": "character_identity",
+    "play_title": "As You Like It",
+    "content": "Silvius is Shepherd, loves Phebe",
+    "metadata": {
+      "character_name": "Silvius",
+      "query_patterns": [
+        "who is silvius",
+        "who is silvius in as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_as_you_like_it_918d0761",
+    "chunk_type": "character_identity",
+    "play_title": "As You Like It",
+    "content": "Phebe is Shepherdess, loves Ganymede",
+    "metadata": {
+      "character_name": "Phebe",
+      "query_patterns": [
+        "who is phebe",
+        "who is phebe in as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_comedy_of_errors_6dcf47cf",
+    "chunk_type": "character_identity",
+    "play_title": "The Comedy of Errors",
+    "content": "Antipholus of Syracuse is Twin merchant, searches for brother",
+    "metadata": {
+      "character_name": "Antipholus of Syracuse",
+      "query_patterns": [
+        "who is antipholus of syracuse",
+        "who is antipholus of syracuse in the comedy of errors"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_comedy_of_errors_4e3a00b5",
+    "chunk_type": "character_identity",
+    "play_title": "The Comedy of Errors",
+    "content": "Antipholus of Ephesus is Twin merchant, resident of Ephesus",
+    "metadata": {
+      "character_name": "Antipholus of Ephesus",
+      "query_patterns": [
+        "who is antipholus of ephesus",
+        "who is antipholus of ephesus in the comedy of errors"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_comedy_of_errors_4eb4f1fb",
+    "chunk_type": "character_identity",
+    "play_title": "The Comedy of Errors",
+    "content": "Dromio of Syracuse is Servant to Antipholus of Syracuse",
+    "metadata": {
+      "character_name": "Dromio of Syracuse",
+      "query_patterns": [
+        "who is dromio of syracuse",
+        "who is dromio of syracuse in the comedy of errors"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_comedy_of_errors_603ca6c5",
+    "chunk_type": "character_identity",
+    "play_title": "The Comedy of Errors",
+    "content": "Dromio of Ephesus is Servant to Antipholus of Ephesus",
+    "metadata": {
+      "character_name": "Dromio of Ephesus",
+      "query_patterns": [
+        "who is dromio of ephesus",
+        "who is dromio of ephesus in the comedy of errors"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_comedy_of_errors_49b042c8",
+    "chunk_type": "character_identity",
+    "play_title": "The Comedy of Errors",
+    "content": "Adriana is Wife of Antipholus of Ephesus",
+    "metadata": {
+      "character_name": "Adriana",
+      "query_patterns": [
+        "who is adriana",
+        "who is adriana in the comedy of errors"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_comedy_of_errors_e2fc5c77",
+    "chunk_type": "character_identity",
+    "play_title": "The Comedy of Errors",
+    "content": "Luciana is Adriana's sister, courted by Syracuse twin",
+    "metadata": {
+      "character_name": "Luciana",
+      "query_patterns": [
+        "who is luciana",
+        "who is luciana in the comedy of errors"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_coriolanus_dcc30cd0",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Caius Martius Coriolanus is Roman general, banished, seeks revenge",
+    "metadata": {
+      "character_name": "Caius Martius Coriolanus",
+      "query_patterns": [
+        "who is caius martius coriolanus",
+        "who is caius martius coriolanus in the tragedy of coriolanus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_coriolanus_3fc634fa",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Volumnia is Coriolanus's mother, influences his actions",
+    "metadata": {
+      "character_name": "Volumnia",
+      "query_patterns": [
+        "who is volumnia",
+        "who is volumnia in the tragedy of coriolanus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_coriolanus_7187fa12",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Menenius Agrippa is Roman patrician, Coriolanus's ally",
+    "metadata": {
+      "character_name": "Menenius Agrippa",
+      "query_patterns": [
+        "who is menenius agrippa",
+        "who is menenius agrippa in the tragedy of coriolanus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_coriolanus_682b133a",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Tullus Aufidius is Volscian general, allies with Coriolanus",
+    "metadata": {
+      "character_name": "Tullus Aufidius",
+      "query_patterns": [
+        "who is tullus aufidius",
+        "who is tullus aufidius in the tragedy of coriolanus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_coriolanus_af0664e4",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Sicinius Velutus is Tribune, opposes Coriolanus",
+    "metadata": {
+      "character_name": "Sicinius Velutus",
+      "query_patterns": [
+        "who is sicinius velutus",
+        "who is sicinius velutus in the tragedy of coriolanus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_coriolanus_03ef29b9",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Junius Brutus is Tribune, seeks Coriolanus's banishment",
+    "metadata": {
+      "character_name": "Junius Brutus",
+      "query_patterns": [
+        "who is junius brutus",
+        "who is junius brutus in the tragedy of coriolanus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_coriolanus_7aa637d4",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Virgilia is Coriolanus's wife, loyal supporter",
+    "metadata": {
+      "character_name": "Virgilia",
+      "query_patterns": [
+        "who is virgilia",
+        "who is virgilia in the tragedy of coriolanus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_coriolanus_68140bb2",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Young Martius is Coriolanus's son, minor role",
+    "metadata": {
+      "character_name": "Young Martius",
+      "query_patterns": [
+        "who is young martius",
+        "who is young martius in the tragedy of coriolanus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_cymbeline_6c2dc6a1",
+    "chunk_type": "character_identity",
+    "play_title": "Cymbeline",
+    "content": "Cymbeline is King of Britain, Imogen's father",
+    "metadata": {
+      "character_name": "Cymbeline",
+      "query_patterns": [
+        "who is cymbeline",
+        "who is cymbeline in cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_cymbeline_a55df95d",
+    "chunk_type": "character_identity",
+    "play_title": "Cymbeline",
+    "content": "Imogen is Cymbeline's daughter, loves Posthumus",
+    "metadata": {
+      "character_name": "Imogen",
+      "query_patterns": [
+        "who is imogen",
+        "who is imogen in cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_cymbeline_b163ed43",
+    "chunk_type": "character_identity",
+    "play_title": "Cymbeline",
+    "content": "Posthumus Leonatus is Imogen's husband, exiled noble",
+    "metadata": {
+      "character_name": "Posthumus Leonatus",
+      "query_patterns": [
+        "who is posthumus leonatus",
+        "who is posthumus leonatus in cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_cymbeline_b81f023c",
+    "chunk_type": "character_identity",
+    "play_title": "Cymbeline",
+    "content": "Iachimo is Italian noble, deceives Posthumus",
+    "metadata": {
+      "character_name": "Iachimo",
+      "query_patterns": [
+        "who is iachimo",
+        "who is iachimo in cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_cymbeline_6911e566",
+    "chunk_type": "character_identity",
+    "play_title": "Cymbeline",
+    "content": "Cloten is Queen's son, seeks Imogen",
+    "metadata": {
+      "character_name": "Cloten",
+      "query_patterns": [
+        "who is cloten",
+        "who is cloten in cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_cymbeline_295ba4fe",
+    "chunk_type": "character_identity",
+    "play_title": "Cymbeline",
+    "content": "Queen is Cymbeline's wife, Imogen's stepmother",
+    "metadata": {
+      "character_name": "Queen",
+      "query_patterns": [
+        "who is queen",
+        "who is queen in cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_cymbeline_fb0fc6cd",
+    "chunk_type": "character_identity",
+    "play_title": "Cymbeline",
+    "content": "Belarius is Exiled lord, raises king's sons",
+    "metadata": {
+      "character_name": "Belarius",
+      "query_patterns": [
+        "who is belarius",
+        "who is belarius in cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_cymbeline_5956adf1",
+    "chunk_type": "character_identity",
+    "play_title": "Cymbeline",
+    "content": "Guiderius is Cymbeline's son, raised by Belarius",
+    "metadata": {
+      "character_name": "Guiderius",
+      "query_patterns": [
+        "who is guiderius",
+        "who is guiderius in cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_cymbeline_7726c508",
+    "chunk_type": "character_identity",
+    "play_title": "Cymbeline",
+    "content": "Arviragus is Cymbeline's son, raised by Belarius",
+    "metadata": {
+      "character_name": "Arviragus",
+      "query_patterns": [
+        "who is arviragus",
+        "who is arviragus in cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_hamlet_prince_of_denmark_dd488f46",
+    "chunk_type": "character_identity",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Hamlet is Prince of Denmark, seeks revenge",
+    "metadata": {
+      "character_name": "Hamlet",
+      "query_patterns": [
+        "who is hamlet",
+        "who is hamlet in hamlet, prince of denmark"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_hamlet_prince_of_denmark_7de5174c",
+    "chunk_type": "character_identity",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Claudius is King of Denmark, Hamlet's uncle, murderer",
+    "metadata": {
+      "character_name": "Claudius",
+      "query_patterns": [
+        "who is claudius",
+        "who is claudius in hamlet, prince of denmark"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_hamlet_prince_of_denmark_4fe6ff30",
+    "chunk_type": "character_identity",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Gertrude is Queen of Denmark, Hamlet's mother",
+    "metadata": {
+      "character_name": "Gertrude",
+      "query_patterns": [
+        "who is gertrude",
+        "who is gertrude in hamlet, prince of denmark"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_hamlet_prince_of_denmark_8f889143",
+    "chunk_type": "character_identity",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Ophelia is Polonius's daughter, Hamlet's love interest",
+    "metadata": {
+      "character_name": "Ophelia",
+      "query_patterns": [
+        "who is ophelia",
+        "who is ophelia in hamlet, prince of denmark"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_hamlet_prince_of_denmark_d3c922c0",
+    "chunk_type": "character_identity",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Polonius is King's advisor, Ophelia's father",
+    "metadata": {
+      "character_name": "Polonius",
+      "query_patterns": [
+        "who is polonius",
+        "who is polonius in hamlet, prince of denmark"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_hamlet_prince_of_denmark_96b82d89",
+    "chunk_type": "character_identity",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Horatio is Hamlet's loyal friend and confidant",
+    "metadata": {
+      "character_name": "Horatio",
+      "query_patterns": [
+        "who is horatio",
+        "who is horatio in hamlet, prince of denmark"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_hamlet_prince_of_denmark_3a6ca4dd",
+    "chunk_type": "character_identity",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Laertes is Polonius's son, seeks vengeance",
+    "metadata": {
+      "character_name": "Laertes",
+      "query_patterns": [
+        "who is laertes",
+        "who is laertes in hamlet, prince of denmark"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_hamlet_prince_of_denmark_ecde7b60",
+    "chunk_type": "character_identity",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Ghost of Hamlet's father is Spirit, urges Hamlet to avenge murder",
+    "metadata": {
+      "character_name": "Ghost of Hamlet's father",
+      "query_patterns": [
+        "who is ghost of hamlet's father",
+        "who is ghost of hamlet's father in hamlet, prince of denmark"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_first_part_674535ca",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the First Part",
+    "content": "King Henry IV is King of England, faces rebellion",
+    "metadata": {
+      "character_name": "King Henry IV",
+      "query_patterns": [
+        "who is king henry iv",
+        "who is king henry iv in king henry iv, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_first_part_1386e709",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Prince Hal is Heir to throne, proves worth",
+    "metadata": {
+      "character_name": "Prince Hal",
+      "query_patterns": [
+        "who is prince hal",
+        "who is prince hal in king henry iv, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_first_part_38718200",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Sir John Falstaff is Prince Hal's roguish companion",
+    "metadata": {
+      "character_name": "Sir John Falstaff",
+      "query_patterns": [
+        "who is sir john falstaff",
+        "who is sir john falstaff in king henry iv, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_first_part_db79f6d7",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Hotspur (Henry Percy) is Rebel leader, Percy family heir",
+    "metadata": {
+      "character_name": "Hotspur (Henry Percy)",
+      "query_patterns": [
+        "who is hotspur (henry percy)",
+        "who is hotspur (henry percy) in king henry iv, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_first_part_a933450d",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Earl of Worcester is Rebel noble, Hotspur's uncle",
+    "metadata": {
+      "character_name": "Earl of Worcester",
+      "query_patterns": [
+        "who is earl of worcester",
+        "who is earl of worcester in king henry iv, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_first_part_5004bcfe",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Earl of Northumberland is Hotspur's father, supports rebellion",
+    "metadata": {
+      "character_name": "Earl of Northumberland",
+      "query_patterns": [
+        "who is earl of northumberland",
+        "who is earl of northumberland in king henry iv, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_first_part_858abffa",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Lady Percy is Hotspur's wife, supports husband",
+    "metadata": {
+      "character_name": "Lady Percy",
+      "query_patterns": [
+        "who is lady percy",
+        "who is lady percy in king henry iv, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_second_part_794add5a",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "King Henry IV is King of England, nearing death",
+    "metadata": {
+      "character_name": "King Henry IV",
+      "query_patterns": [
+        "who is king henry iv",
+        "who is king henry iv in king henry iv, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_second_part_2835e404",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Prince Hal is Heir, becomes King Henry V",
+    "metadata": {
+      "character_name": "Prince Hal",
+      "query_patterns": [
+        "who is prince hal",
+        "who is prince hal in king henry iv, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_second_part_8c8d2d98",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Sir John Falstaff is Prince Hal's companion, later rejected",
+    "metadata": {
+      "character_name": "Sir John Falstaff",
+      "query_patterns": [
+        "who is sir john falstaff",
+        "who is sir john falstaff in king henry iv, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_second_part_e90ebea9",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Lord Chief Justice is Legal authority, opposes Falstaff",
+    "metadata": {
+      "character_name": "Lord Chief Justice",
+      "query_patterns": [
+        "who is lord chief justice",
+        "who is lord chief justice in king henry iv, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_second_part_1ffe4910",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Archbishop of York is Rebel leader, opposes king",
+    "metadata": {
+      "character_name": "Archbishop of York",
+      "query_patterns": [
+        "who is archbishop of york",
+        "who is archbishop of york in king henry iv, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_second_part_f0b31970",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Earl of Northumberland is Rebel noble, Hotspur's father",
+    "metadata": {
+      "character_name": "Earl of Northumberland",
+      "query_patterns": [
+        "who is earl of northumberland",
+        "who is earl of northumberland in king henry iv, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_iv_the_second_part_8ec434ce",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Prince John is Hal's brother, loyal to king",
+    "metadata": {
+      "character_name": "Prince John",
+      "query_patterns": [
+        "who is prince john",
+        "who is prince john in king henry iv, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_king_henry_v_6c9c661a",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of King Henry V",
+    "content": "King Henry V is King of England, leads Agincourt victory",
+    "metadata": {
+      "character_name": "King Henry V",
+      "query_patterns": [
+        "who is king henry v",
+        "who is king henry v in the life of king henry v"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_king_henry_v_465fe01d",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of King Henry V",
+    "content": "Chorus is Narrator, guides audience through story",
+    "metadata": {
+      "character_name": "Chorus",
+      "query_patterns": [
+        "who is chorus",
+        "who is chorus in the life of king henry v"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_king_henry_v_1b383608",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of King Henry V",
+    "content": "Duke of Exeter is Henry's uncle, loyal military advisor",
+    "metadata": {
+      "character_name": "Duke of Exeter",
+      "query_patterns": [
+        "who is duke of exeter",
+        "who is duke of exeter in the life of king henry v"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_king_henry_v_23cb7dc6",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of King Henry V",
+    "content": "Fluellen is Welsh captain, enforces military discipline",
+    "metadata": {
+      "character_name": "Fluellen",
+      "query_patterns": [
+        "who is fluellen",
+        "who is fluellen in the life of king henry v"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_king_henry_v_a5a752e5",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of King Henry V",
+    "content": "Pistol is Boastful soldier, Falstaff's former companion",
+    "metadata": {
+      "character_name": "Pistol",
+      "query_patterns": [
+        "who is pistol",
+        "who is pistol in the life of king henry v"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_king_henry_v_b73a585c",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of King Henry V",
+    "content": "Katherine is French princess, marries Henry V",
+    "metadata": {
+      "character_name": "Katherine",
+      "query_patterns": [
+        "who is katherine",
+        "who is katherine in the life of king henry v"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_king_henry_v_78e60aac",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of King Henry V",
+    "content": "Dauphin of France is French heir, opposes Henry",
+    "metadata": {
+      "character_name": "Dauphin of France",
+      "query_patterns": [
+        "who is dauphin of france",
+        "who is dauphin of france in the life of king henry v"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_henry_the_eighth_9b0d2379",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "King Henry VIII is King of England, seeks divorce",
+    "metadata": {
+      "character_name": "King Henry VIII",
+      "query_patterns": [
+        "who is king henry viii",
+        "who is king henry viii in the life of henry the eighth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_henry_the_eighth_976058b7",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Cardinal Wolsey is Ambitious advisor, falls from power",
+    "metadata": {
+      "character_name": "Cardinal Wolsey",
+      "query_patterns": [
+        "who is cardinal wolsey",
+        "who is cardinal wolsey in the life of henry the eighth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_henry_the_eighth_b2debc6c",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Katherine of Aragon is Henry's first wife, faces divorce",
+    "metadata": {
+      "character_name": "Katherine of Aragon",
+      "query_patterns": [
+        "who is katherine of aragon",
+        "who is katherine of aragon in the life of henry the eighth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_henry_the_eighth_5cc02414",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Anne Boleyn is Henry's second wife, bears Elizabeth",
+    "metadata": {
+      "character_name": "Anne Boleyn",
+      "query_patterns": [
+        "who is anne boleyn",
+        "who is anne boleyn in the life of henry the eighth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_henry_the_eighth_383809a5",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Thomas Cranmer is Archbishop, supports Henry's reforms",
+    "metadata": {
+      "character_name": "Thomas Cranmer",
+      "query_patterns": [
+        "who is thomas cranmer",
+        "who is thomas cranmer in the life of henry the eighth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_henry_the_eighth_d7306acd",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Duke of Norfolk is Noble, opposes Wolsey's influence",
+    "metadata": {
+      "character_name": "Duke of Norfolk",
+      "query_patterns": [
+        "who is duke of norfolk",
+        "who is duke of norfolk in the life of henry the eighth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_henry_the_eighth_e886154f",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Duke of Buckingham is Noble, executed for treason",
+    "metadata": {
+      "character_name": "Duke of Buckingham",
+      "query_patterns": [
+        "who is duke of buckingham",
+        "who is duke of buckingham in the life of henry the eighth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_first_part_4a3f2a93",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the first part",
+    "content": "King Henry VI is Young king of England, weak ruler",
+    "metadata": {
+      "character_name": "King Henry VI",
+      "query_patterns": [
+        "who is king henry vi",
+        "who is king henry vi in king henry vi, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_first_part_4189edf9",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the first part",
+    "content": "Joan of Arc is French leader, inspires resistance",
+    "metadata": {
+      "character_name": "Joan of Arc",
+      "query_patterns": [
+        "who is joan of arc",
+        "who is joan of arc in king henry vi, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_first_part_9624d7fc",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the first part",
+    "content": "Talbot is English general, fights for France",
+    "metadata": {
+      "character_name": "Talbot",
+      "query_patterns": [
+        "who is talbot",
+        "who is talbot in king henry vi, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_first_part_c4c61963",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the first part",
+    "content": "Duke of Gloucester is Henry's uncle, protects crown",
+    "metadata": {
+      "character_name": "Duke of Gloucester",
+      "query_patterns": [
+        "who is duke of gloucester",
+        "who is duke of gloucester in king henry vi, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_first_part_4ae59b97",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the first part",
+    "content": "Cardinal Beaufort is Ambitious cleric, rivals Gloucester",
+    "metadata": {
+      "character_name": "Cardinal Beaufort",
+      "query_patterns": [
+        "who is cardinal beaufort",
+        "who is cardinal beaufort in king henry vi, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_first_part_79b27223",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the first part",
+    "content": "Margaret of Anjou is French noble, marries Henry VI",
+    "metadata": {
+      "character_name": "Margaret of Anjou",
+      "query_patterns": [
+        "who is margaret of anjou",
+        "who is margaret of anjou in king henry vi, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_first_part_bb2c2235",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the first part",
+    "content": "Duke of York is Noble, claims throne, stirs discord",
+    "metadata": {
+      "character_name": "Duke of York",
+      "query_patterns": [
+        "who is duke of york",
+        "who is duke of york in king henry vi, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_second_part_43a2acae",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the second part",
+    "content": "King Henry VI is Weak king, struggles with factions",
+    "metadata": {
+      "character_name": "King Henry VI",
+      "query_patterns": [
+        "who is king henry vi",
+        "who is king henry vi in king henry vi, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_second_part_9bd97319",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the second part",
+    "content": "Queen Margaret is Henry's wife, seeks power",
+    "metadata": {
+      "character_name": "Queen Margaret",
+      "query_patterns": [
+        "who is queen margaret",
+        "who is queen margaret in king henry vi, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_second_part_681d393b",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the second part",
+    "content": "Duke of York is Noble, claims throne, leads rebellion",
+    "metadata": {
+      "character_name": "Duke of York",
+      "query_patterns": [
+        "who is duke of york",
+        "who is duke of york in king henry vi, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_second_part_bda7042c",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the second part",
+    "content": "Duke of Suffolk is Margaret's ally, plots against Gloucester",
+    "metadata": {
+      "character_name": "Duke of Suffolk",
+      "query_patterns": [
+        "who is duke of suffolk",
+        "who is duke of suffolk in king henry vi, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_second_part_1b2ccf5d",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the second part",
+    "content": "Jack Cade is Rebel leader, incites uprising",
+    "metadata": {
+      "character_name": "Jack Cade",
+      "query_patterns": [
+        "who is jack cade",
+        "who is jack cade in king henry vi, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_second_part_54e51fe7",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the second part",
+    "content": "Humphrey, Duke of Gloucester is Henry's uncle, targeted by rivals",
+    "metadata": {
+      "character_name": "Humphrey, Duke of Gloucester",
+      "query_patterns": [
+        "who is humphrey, duke of gloucester",
+        "who is humphrey, duke of gloucester in king henry vi, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_second_part_3c440110",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the second part",
+    "content": "Cardinal Beaufort is Ambitious cleric, conspires against Gloucester",
+    "metadata": {
+      "character_name": "Cardinal Beaufort",
+      "query_patterns": [
+        "who is cardinal beaufort",
+        "who is cardinal beaufort in king henry vi, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_third_part_23d19628",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the third part",
+    "content": "King Henry VI is Deposed king, seeks to reclaim throne",
+    "metadata": {
+      "character_name": "King Henry VI",
+      "query_patterns": [
+        "who is king henry vi",
+        "who is king henry vi in king henry vi, the third part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_third_part_11bf46c4",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the third part",
+    "content": "Queen Margaret is Henry's wife, leads Lancaster forces",
+    "metadata": {
+      "character_name": "Queen Margaret",
+      "query_patterns": [
+        "who is queen margaret",
+        "who is queen margaret in king henry vi, the third part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_third_part_6d13b1b4",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the third part",
+    "content": "Richard, Duke of York is Yorkist leader, claims crown",
+    "metadata": {
+      "character_name": "Richard, Duke of York",
+      "query_patterns": [
+        "who is richard, duke of york",
+        "who is richard, duke of york in king henry vi, the third part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_third_part_d981f1f5",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the third part",
+    "content": "Edward IV is Yorkist king, defeats Lancasters",
+    "metadata": {
+      "character_name": "Edward IV",
+      "query_patterns": [
+        "who is edward iv",
+        "who is edward iv in king henry vi, the third part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_third_part_bcb58248",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the third part",
+    "content": "Richard (later Richard III) is Yorkist, schemes for power",
+    "metadata": {
+      "character_name": "Richard (later Richard III)",
+      "query_patterns": [
+        "who is richard (later richard iii)",
+        "who is richard (later richard iii) in king henry vi, the third part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_third_part_2f31a3c0",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the third part",
+    "content": "Warwick is Noble, shifts allegiance, influences war",
+    "metadata": {
+      "character_name": "Warwick",
+      "query_patterns": [
+        "who is warwick",
+        "who is warwick in king henry vi, the third part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_henry_vi_the_third_part_f7e25e2a",
+    "chunk_type": "character_identity",
+    "play_title": "King Henry VI, the third part",
+    "content": "Clarence is Edward's brother, betrays then rejoins York",
+    "metadata": {
+      "character_name": "Clarence",
+      "query_patterns": [
+        "who is clarence",
+        "who is clarence in king henry vi, the third part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_julius_caesar_60eab2a0",
+    "chunk_type": "character_identity",
+    "play_title": "Julius Caesar",
+    "content": "Julius Caesar is Roman dictator, assassinated by conspirators",
+    "metadata": {
+      "character_name": "Julius Caesar",
+      "query_patterns": [
+        "who is julius caesar",
+        "who is julius caesar in julius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_julius_caesar_8963a4fa",
+    "chunk_type": "character_identity",
+    "play_title": "Julius Caesar",
+    "content": "Brutus is Roman noble, leads conspiracy against Caesar",
+    "metadata": {
+      "character_name": "Brutus",
+      "query_patterns": [
+        "who is brutus",
+        "who is brutus in julius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_julius_caesar_ef82affe",
+    "chunk_type": "character_identity",
+    "play_title": "Julius Caesar",
+    "content": "Cassius is Conspirator, manipulates Brutus against Caesar",
+    "metadata": {
+      "character_name": "Cassius",
+      "query_patterns": [
+        "who is cassius",
+        "who is cassius in julius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_julius_caesar_03c49a00",
+    "chunk_type": "character_identity",
+    "play_title": "Julius Caesar",
+    "content": "Mark Antony is Caesar's ally, opposes conspirators",
+    "metadata": {
+      "character_name": "Mark Antony",
+      "query_patterns": [
+        "who is mark antony",
+        "who is mark antony in julius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_julius_caesar_912f9cc1",
+    "chunk_type": "character_identity",
+    "play_title": "Julius Caesar",
+    "content": "Octavius is Caesar's heir, joins Antony",
+    "metadata": {
+      "character_name": "Octavius",
+      "query_patterns": [
+        "who is octavius",
+        "who is octavius in julius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_julius_caesar_98a0e8f2",
+    "chunk_type": "character_identity",
+    "play_title": "Julius Caesar",
+    "content": "Calpurnia is Caesar's wife, warns of danger",
+    "metadata": {
+      "character_name": "Calpurnia",
+      "query_patterns": [
+        "who is calpurnia",
+        "who is calpurnia in julius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_julius_caesar_d56ec2e5",
+    "chunk_type": "character_identity",
+    "play_title": "Julius Caesar",
+    "content": "Portia is Brutus's wife, seeks his confidence",
+    "metadata": {
+      "character_name": "Portia",
+      "query_patterns": [
+        "who is portia",
+        "who is portia in julius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_john_5595b42d",
+    "chunk_type": "character_identity",
+    "play_title": "King John",
+    "content": "King John is King of England, faces rebellion",
+    "metadata": {
+      "character_name": "King John",
+      "query_patterns": [
+        "who is king john",
+        "who is king john in king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_john_66df0430",
+    "chunk_type": "character_identity",
+    "play_title": "King John",
+    "content": "Philip the Bastard is John's loyal illegitimate nephew",
+    "metadata": {
+      "character_name": "Philip the Bastard",
+      "query_patterns": [
+        "who is philip the bastard",
+        "who is philip the bastard in king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_john_9c8c5f16",
+    "chunk_type": "character_identity",
+    "play_title": "King John",
+    "content": "Constance is Arthur's mother, seeks son's crown",
+    "metadata": {
+      "character_name": "Constance",
+      "query_patterns": [
+        "who is constance",
+        "who is constance in king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_john_7bef19f7",
+    "chunk_type": "character_identity",
+    "play_title": "King John",
+    "content": "King Philip of France is French king, supports Arthur",
+    "metadata": {
+      "character_name": "King Philip of France",
+      "query_patterns": [
+        "who is king philip of france",
+        "who is king philip of france in king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_john_9f775081",
+    "chunk_type": "character_identity",
+    "play_title": "King John",
+    "content": "Prince Arthur is John's nephew, claims throne",
+    "metadata": {
+      "character_name": "Prince Arthur",
+      "query_patterns": [
+        "who is prince arthur",
+        "who is prince arthur in king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_john_9983e892",
+    "chunk_type": "character_identity",
+    "play_title": "King John",
+    "content": "Hubert is John's servant, spares Arthur",
+    "metadata": {
+      "character_name": "Hubert",
+      "query_patterns": [
+        "who is hubert",
+        "who is hubert in king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_john_3d6745b8",
+    "chunk_type": "character_identity",
+    "play_title": "King John",
+    "content": "Cardinal Pandulph is Papal legate, stirs conflict",
+    "metadata": {
+      "character_name": "Cardinal Pandulph",
+      "query_patterns": [
+        "who is cardinal pandulph",
+        "who is cardinal pandulph in king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_king_lear_60b2e489",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of King Lear",
+    "content": "King Lear is King of Britain, divides kingdom",
+    "metadata": {
+      "character_name": "King Lear",
+      "query_patterns": [
+        "who is king lear",
+        "who is king lear in the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_king_lear_371602ca",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Cordelia is Lear's youngest daughter, disowned, loyal",
+    "metadata": {
+      "character_name": "Cordelia",
+      "query_patterns": [
+        "who is cordelia",
+        "who is cordelia in the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_king_lear_a8bd224f",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Goneril is Lear's eldest daughter, betrays him",
+    "metadata": {
+      "character_name": "Goneril",
+      "query_patterns": [
+        "who is goneril",
+        "who is goneril in the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_king_lear_f2be8336",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Regan is Lear's middle daughter, betrays him",
+    "metadata": {
+      "character_name": "Regan",
+      "query_patterns": [
+        "who is regan",
+        "who is regan in the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_king_lear_5f939b3f",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Edmund is Gloucester's illegitimate son, schemes power",
+    "metadata": {
+      "character_name": "Edmund",
+      "query_patterns": [
+        "who is edmund",
+        "who is edmund in the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_king_lear_e3afac8e",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Edgar is Gloucester's legitimate son, disguises himself",
+    "metadata": {
+      "character_name": "Edgar",
+      "query_patterns": [
+        "who is edgar",
+        "who is edgar in the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_king_lear_0c5984c6",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Gloucester is Earl, betrayed by Edmund",
+    "metadata": {
+      "character_name": "Gloucester",
+      "query_patterns": [
+        "who is gloucester",
+        "who is gloucester in the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_king_lear_a328c407",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Kent is Loyal nobleman, serves Lear in disguise",
+    "metadata": {
+      "character_name": "Kent",
+      "query_patterns": [
+        "who is kent",
+        "who is kent in the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_king_lear_a0fdffb3",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Fool is Lear's jester, speaks truth",
+    "metadata": {
+      "character_name": "Fool",
+      "query_patterns": [
+        "who is fool",
+        "who is fool in the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_love's_labour's_lost_bb475eab",
+    "chunk_type": "character_identity",
+    "play_title": "Love's Labour's Lost",
+    "content": "King of Navarre is King, vows to study, loves Princess",
+    "metadata": {
+      "character_name": "King of Navarre",
+      "query_patterns": [
+        "who is king of navarre",
+        "who is king of navarre in love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_love's_labour's_lost_546ca06c",
+    "chunk_type": "character_identity",
+    "play_title": "Love's Labour's Lost",
+    "content": "Princess of France is French noble, courts Navarre",
+    "metadata": {
+      "character_name": "Princess of France",
+      "query_patterns": [
+        "who is princess of france",
+        "who is princess of france in love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_love's_labour's_lost_1f465ba5",
+    "chunk_type": "character_identity",
+    "play_title": "Love's Labour's Lost",
+    "content": "Berowne is Lord, loves Rosaline, witty",
+    "metadata": {
+      "character_name": "Berowne",
+      "query_patterns": [
+        "who is berowne",
+        "who is berowne in love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_love's_labour's_lost_a580ae6f",
+    "chunk_type": "character_identity",
+    "play_title": "Love's Labour's Lost",
+    "content": "Rosaline is Princess's lady, loves Berowne",
+    "metadata": {
+      "character_name": "Rosaline",
+      "query_patterns": [
+        "who is rosaline",
+        "who is rosaline in love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_love's_labour's_lost_289e5494",
+    "chunk_type": "character_identity",
+    "play_title": "Love's Labour's Lost",
+    "content": "Longaville is Lord, loves Maria",
+    "metadata": {
+      "character_name": "Longaville",
+      "query_patterns": [
+        "who is longaville",
+        "who is longaville in love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_love's_labour's_lost_29bfcfaf",
+    "chunk_type": "character_identity",
+    "play_title": "Love's Labour's Lost",
+    "content": "Maria is Princess's lady, loves Longaville",
+    "metadata": {
+      "character_name": "Maria",
+      "query_patterns": [
+        "who is maria",
+        "who is maria in love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_love's_labour's_lost_e3477dbd",
+    "chunk_type": "character_identity",
+    "play_title": "Love's Labour's Lost",
+    "content": "Dumaine is Lord, loves Katherine",
+    "metadata": {
+      "character_name": "Dumaine",
+      "query_patterns": [
+        "who is dumaine",
+        "who is dumaine in love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_love's_labour's_lost_ab744b24",
+    "chunk_type": "character_identity",
+    "play_title": "Love's Labour's Lost",
+    "content": "Katherine is Princess's lady, loves Dumaine",
+    "metadata": {
+      "character_name": "Katherine",
+      "query_patterns": [
+        "who is katherine",
+        "who is katherine in love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_love's_labour's_lost_7c9cbbb8",
+    "chunk_type": "character_identity",
+    "play_title": "Love's Labour's Lost",
+    "content": "Don Armado is Spanish noble, comically woos Jaquenetta",
+    "metadata": {
+      "character_name": "Don Armado",
+      "query_patterns": [
+        "who is don armado",
+        "who is don armado in love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_macbeth_37f8c364",
+    "chunk_type": "character_identity",
+    "play_title": "Macbeth",
+    "content": "Macbeth is Scottish general, usurps throne, becomes king",
+    "metadata": {
+      "character_name": "Macbeth",
+      "query_patterns": [
+        "who is macbeth",
+        "who is macbeth in macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_macbeth_80e25e97",
+    "chunk_type": "character_identity",
+    "play_title": "Macbeth",
+    "content": "Lady Macbeth is Macbeth's wife, drives his ambition",
+    "metadata": {
+      "character_name": "Lady Macbeth",
+      "query_patterns": [
+        "who is lady macbeth",
+        "who is lady macbeth in macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_macbeth_3b677ac6",
+    "chunk_type": "character_identity",
+    "play_title": "Macbeth",
+    "content": "Three Witches is Supernatural beings, prophesy Macbeth's fate",
+    "metadata": {
+      "character_name": "Three Witches",
+      "query_patterns": [
+        "who is three witches",
+        "who is three witches in macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_macbeth_c4f5e71e",
+    "chunk_type": "character_identity",
+    "play_title": "Macbeth",
+    "content": "Banquo is Macbeth's friend, general, later murdered",
+    "metadata": {
+      "character_name": "Banquo",
+      "query_patterns": [
+        "who is banquo",
+        "who is banquo in macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_macbeth_707656b5",
+    "chunk_type": "character_identity",
+    "play_title": "Macbeth",
+    "content": "Macduff is Scottish noble, avenges Duncan's murder",
+    "metadata": {
+      "character_name": "Macduff",
+      "query_patterns": [
+        "who is macduff",
+        "who is macduff in macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_macbeth_d1d15f3e",
+    "chunk_type": "character_identity",
+    "play_title": "Macbeth",
+    "content": "Duncan is King of Scotland, murdered by Macbeth",
+    "metadata": {
+      "character_name": "Duncan",
+      "query_patterns": [
+        "who is duncan",
+        "who is duncan in macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_macbeth_694bd2a5",
+    "chunk_type": "character_identity",
+    "play_title": "Macbeth",
+    "content": "Malcolm is Duncan's son, rightful heir",
+    "metadata": {
+      "character_name": "Malcolm",
+      "query_patterns": [
+        "who is malcolm",
+        "who is malcolm in macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_measure_for_measure_700f2d02",
+    "chunk_type": "character_identity",
+    "play_title": "Measure for Measure",
+    "content": "Duke Vincentio is Ruler of Vienna, disguises to observe",
+    "metadata": {
+      "character_name": "Duke Vincentio",
+      "query_patterns": [
+        "who is duke vincentio",
+        "who is duke vincentio in measure for measure"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_measure_for_measure_d7502f12",
+    "chunk_type": "character_identity",
+    "play_title": "Measure for Measure",
+    "content": "Angelo is Deputy, enforces strict laws",
+    "metadata": {
+      "character_name": "Angelo",
+      "query_patterns": [
+        "who is angelo",
+        "who is angelo in measure for measure"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_measure_for_measure_d4eeeaff",
+    "chunk_type": "character_identity",
+    "play_title": "Measure for Measure",
+    "content": "Isabella is Novice nun, pleads for Claudio",
+    "metadata": {
+      "character_name": "Isabella",
+      "query_patterns": [
+        "who is isabella",
+        "who is isabella in measure for measure"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_measure_for_measure_b0799e0c",
+    "chunk_type": "character_identity",
+    "play_title": "Measure for Measure",
+    "content": "Claudio is Isabella's brother, sentenced to death",
+    "metadata": {
+      "character_name": "Claudio",
+      "query_patterns": [
+        "who is claudio",
+        "who is claudio in measure for measure"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_measure_for_measure_7926f93f",
+    "chunk_type": "character_identity",
+    "play_title": "Measure for Measure",
+    "content": "Lucio is Claudio's friend, spreads gossip",
+    "metadata": {
+      "character_name": "Lucio",
+      "query_patterns": [
+        "who is lucio",
+        "who is lucio in measure for measure"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_measure_for_measure_ceacbb22",
+    "chunk_type": "character_identity",
+    "play_title": "Measure for Measure",
+    "content": "Mariana is Angelo's former fiancée, aids plot",
+    "metadata": {
+      "character_name": "Mariana",
+      "query_patterns": [
+        "who is mariana",
+        "who is mariana in measure for measure"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_measure_for_measure_2255bdfe",
+    "chunk_type": "character_identity",
+    "play_title": "Measure for Measure",
+    "content": "Escalus is Wise advisor, serves Duke",
+    "metadata": {
+      "character_name": "Escalus",
+      "query_patterns": [
+        "who is escalus",
+        "who is escalus in measure for measure"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merchant_of_venice_1318afc1",
+    "chunk_type": "character_identity",
+    "play_title": "The Merchant of Venice",
+    "content": "Antonio is Venetian merchant, borrows from Shylock",
+    "metadata": {
+      "character_name": "Antonio",
+      "query_patterns": [
+        "who is antonio",
+        "who is antonio in the merchant of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merchant_of_venice_65d3337b",
+    "chunk_type": "character_identity",
+    "play_title": "The Merchant of Venice",
+    "content": "Shylock is Jewish moneylender, demands pound of flesh",
+    "metadata": {
+      "character_name": "Shylock",
+      "query_patterns": [
+        "who is shylock",
+        "who is shylock in the merchant of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merchant_of_venice_5c6d7306",
+    "chunk_type": "character_identity",
+    "play_title": "The Merchant of Venice",
+    "content": "Portia is Heiress of Belmont, disguises as lawyer",
+    "metadata": {
+      "character_name": "Portia",
+      "query_patterns": [
+        "who is portia",
+        "who is portia in the merchant of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merchant_of_venice_1fa459e7",
+    "chunk_type": "character_identity",
+    "play_title": "The Merchant of Venice",
+    "content": "Bassanio is Portia's suitor, Antonio's friend",
+    "metadata": {
+      "character_name": "Bassanio",
+      "query_patterns": [
+        "who is bassanio",
+        "who is bassanio in the merchant of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merchant_of_venice_1513fd09",
+    "chunk_type": "character_identity",
+    "play_title": "The Merchant of Venice",
+    "content": "Jessica is Shylock's daughter, elopes with Lorenzo",
+    "metadata": {
+      "character_name": "Jessica",
+      "query_patterns": [
+        "who is jessica",
+        "who is jessica in the merchant of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merchant_of_venice_ab4d2286",
+    "chunk_type": "character_identity",
+    "play_title": "The Merchant of Venice",
+    "content": "Lorenzo is Jessica's lover, Bassanio's friend",
+    "metadata": {
+      "character_name": "Lorenzo",
+      "query_patterns": [
+        "who is lorenzo",
+        "who is lorenzo in the merchant of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merchant_of_venice_52b01c3a",
+    "chunk_type": "character_identity",
+    "play_title": "The Merchant of Venice",
+    "content": "Gratiano is Bassanio's friend, loves Nerissa",
+    "metadata": {
+      "character_name": "Gratiano",
+      "query_patterns": [
+        "who is gratiano",
+        "who is gratiano in the merchant of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merchant_of_venice_178da6f9",
+    "chunk_type": "character_identity",
+    "play_title": "The Merchant of Venice",
+    "content": "Nerissa is Portia's maid, marries Gratiano",
+    "metadata": {
+      "character_name": "Nerissa",
+      "query_patterns": [
+        "who is nerissa",
+        "who is nerissa in the merchant of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merry_wives_of_windsor_0a0d5621",
+    "chunk_type": "character_identity",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Sir John Falstaff is Rogue, woos wives for money",
+    "metadata": {
+      "character_name": "Sir John Falstaff",
+      "query_patterns": [
+        "who is sir john falstaff",
+        "who is sir john falstaff in the merry wives of windsor"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merry_wives_of_windsor_a543f4a1",
+    "chunk_type": "character_identity",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Mistress Ford is Wife, outwits Falstaff's advances",
+    "metadata": {
+      "character_name": "Mistress Ford",
+      "query_patterns": [
+        "who is mistress ford",
+        "who is mistress ford in the merry wives of windsor"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merry_wives_of_windsor_096357d0",
+    "chunk_type": "character_identity",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Mistress Page is Wife, plots against Falstaff",
+    "metadata": {
+      "character_name": "Mistress Page",
+      "query_patterns": [
+        "who is mistress page",
+        "who is mistress page in the merry wives of windsor"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merry_wives_of_windsor_680d8d2b",
+    "chunk_type": "character_identity",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Ford is Mistress Ford's jealous husband",
+    "metadata": {
+      "character_name": "Ford",
+      "query_patterns": [
+        "who is ford",
+        "who is ford in the merry wives of windsor"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merry_wives_of_windsor_eabbab5d",
+    "chunk_type": "character_identity",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Page is Mistress Page's husband, trusts wife",
+    "metadata": {
+      "character_name": "Page",
+      "query_patterns": [
+        "who is page",
+        "who is page in the merry wives of windsor"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merry_wives_of_windsor_724b3d78",
+    "chunk_type": "character_identity",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Anne Page is Page's daughter, loves Fenton",
+    "metadata": {
+      "character_name": "Anne Page",
+      "query_patterns": [
+        "who is anne page",
+        "who is anne page in the merry wives of windsor"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merry_wives_of_windsor_7d000a2b",
+    "chunk_type": "character_identity",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Fenton is Gentleman, marries Anne Page",
+    "metadata": {
+      "character_name": "Fenton",
+      "query_patterns": [
+        "who is fenton",
+        "who is fenton in the merry wives of windsor"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_merry_wives_of_windsor_6323ee65",
+    "chunk_type": "character_identity",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Doctor Caius is French suitor, competes for Anne",
+    "metadata": {
+      "character_name": "Doctor Caius",
+      "query_patterns": [
+        "who is doctor caius",
+        "who is doctor caius in the merry wives of windsor"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_a_midsummer_night's_dream_fb7032e1",
+    "chunk_type": "character_identity",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Lysander is Athenian lover, pursues Hermia",
+    "metadata": {
+      "character_name": "Lysander",
+      "query_patterns": [
+        "who is lysander",
+        "who is lysander in a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_a_midsummer_night's_dream_07b66780",
+    "chunk_type": "character_identity",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Hermia is Athenian woman, loves Lysander",
+    "metadata": {
+      "character_name": "Hermia",
+      "query_patterns": [
+        "who is hermia",
+        "who is hermia in a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_a_midsummer_night's_dream_505a8858",
+    "chunk_type": "character_identity",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Demetrius is Athenian man, initially loves Hermia",
+    "metadata": {
+      "character_name": "Demetrius",
+      "query_patterns": [
+        "who is demetrius",
+        "who is demetrius in a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_a_midsummer_night's_dream_9dfd2204",
+    "chunk_type": "character_identity",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Helena is Athenian woman, loves Demetrius",
+    "metadata": {
+      "character_name": "Helena",
+      "query_patterns": [
+        "who is helena",
+        "who is helena in a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_a_midsummer_night's_dream_95fc20e2",
+    "chunk_type": "character_identity",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Oberon is Fairy king, manipulates lovers",
+    "metadata": {
+      "character_name": "Oberon",
+      "query_patterns": [
+        "who is oberon",
+        "who is oberon in a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_a_midsummer_night's_dream_4543c763",
+    "chunk_type": "character_identity",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Titania is Fairy queen, enchanted by Oberon",
+    "metadata": {
+      "character_name": "Titania",
+      "query_patterns": [
+        "who is titania",
+        "who is titania in a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_a_midsummer_night's_dream_a79f8c2e",
+    "chunk_type": "character_identity",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Puck is Oberon's mischievous fairy servant",
+    "metadata": {
+      "character_name": "Puck",
+      "query_patterns": [
+        "who is puck",
+        "who is puck in a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_a_midsummer_night's_dream_50f75598",
+    "chunk_type": "character_identity",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Bottom is Weaver, transformed into donkey",
+    "metadata": {
+      "character_name": "Bottom",
+      "query_patterns": [
+        "who is bottom",
+        "who is bottom in a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_a_midsummer_night's_dream_01f9d133",
+    "chunk_type": "character_identity",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Theseus is Duke of Athens, marries Hippolyta",
+    "metadata": {
+      "character_name": "Theseus",
+      "query_patterns": [
+        "who is theseus",
+        "who is theseus in a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_a_midsummer_night's_dream_43540ea6",
+    "chunk_type": "character_identity",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Hippolyta is Amazon queen, Theseus's bride",
+    "metadata": {
+      "character_name": "Hippolyta",
+      "query_patterns": [
+        "who is hippolyta",
+        "who is hippolyta in a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_much_ado_about_nothing_13ce88cc",
+    "chunk_type": "character_identity",
+    "play_title": "Much Ado About Nothing",
+    "content": "Beatrice is Witty noblewoman, loves Benedick",
+    "metadata": {
+      "character_name": "Beatrice",
+      "query_patterns": [
+        "who is beatrice",
+        "who is beatrice in much ado about nothing"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_much_ado_about_nothing_b7ca6d5f",
+    "chunk_type": "character_identity",
+    "play_title": "Much Ado About Nothing",
+    "content": "Benedick is Witty soldier, loves Beatrice",
+    "metadata": {
+      "character_name": "Benedick",
+      "query_patterns": [
+        "who is benedick",
+        "who is benedick in much ado about nothing"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_much_ado_about_nothing_1cb2318f",
+    "chunk_type": "character_identity",
+    "play_title": "Much Ado About Nothing",
+    "content": "Claudio is Young lord, loves Hero",
+    "metadata": {
+      "character_name": "Claudio",
+      "query_patterns": [
+        "who is claudio",
+        "who is claudio in much ado about nothing"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_much_ado_about_nothing_69b8ed0b",
+    "chunk_type": "character_identity",
+    "play_title": "Much Ado About Nothing",
+    "content": "Hero is Leonato's daughter, loves Claudio",
+    "metadata": {
+      "character_name": "Hero",
+      "query_patterns": [
+        "who is hero",
+        "who is hero in much ado about nothing"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_much_ado_about_nothing_d99a5f67",
+    "chunk_type": "character_identity",
+    "play_title": "Much Ado About Nothing",
+    "content": "Don Pedro is Prince, aids Claudio's courtship",
+    "metadata": {
+      "character_name": "Don Pedro",
+      "query_patterns": [
+        "who is don pedro",
+        "who is don pedro in much ado about nothing"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_much_ado_about_nothing_2c197919",
+    "chunk_type": "character_identity",
+    "play_title": "Much Ado About Nothing",
+    "content": "Don John is Pedro's brother, slanders Hero",
+    "metadata": {
+      "character_name": "Don John",
+      "query_patterns": [
+        "who is don john",
+        "who is don john in much ado about nothing"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_much_ado_about_nothing_4113c213",
+    "chunk_type": "character_identity",
+    "play_title": "Much Ado About Nothing",
+    "content": "Leonato is Governor, Hero's father",
+    "metadata": {
+      "character_name": "Leonato",
+      "query_patterns": [
+        "who is leonato",
+        "who is leonato in much ado about nothing"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_othello_the_moor_of_venice_4f921612",
+    "chunk_type": "character_identity",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Othello is Moorish general, marries Desdemona",
+    "metadata": {
+      "character_name": "Othello",
+      "query_patterns": [
+        "who is othello",
+        "who is othello in othello, the moor of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_othello_the_moor_of_venice_0debd62e",
+    "chunk_type": "character_identity",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Desdemona is Othello's wife, Brabantio's daughter",
+    "metadata": {
+      "character_name": "Desdemona",
+      "query_patterns": [
+        "who is desdemona",
+        "who is desdemona in othello, the moor of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_othello_the_moor_of_venice_cf72757b",
+    "chunk_type": "character_identity",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Iago is Othello's ensign, orchestrates deception",
+    "metadata": {
+      "character_name": "Iago",
+      "query_patterns": [
+        "who is iago",
+        "who is iago in othello, the moor of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_othello_the_moor_of_venice_75455a44",
+    "chunk_type": "character_identity",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Cassio is Othello's lieutenant, accused of affair",
+    "metadata": {
+      "character_name": "Cassio",
+      "query_patterns": [
+        "who is cassio",
+        "who is cassio in othello, the moor of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_othello_the_moor_of_venice_25fae28c",
+    "chunk_type": "character_identity",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Emilia is Iago's wife, Desdemona's attendant",
+    "metadata": {
+      "character_name": "Emilia",
+      "query_patterns": [
+        "who is emilia",
+        "who is emilia in othello, the moor of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_othello_the_moor_of_venice_29a5137a",
+    "chunk_type": "character_identity",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Roderigo is Desdemona's suitor, manipulated by Iago",
+    "metadata": {
+      "character_name": "Roderigo",
+      "query_patterns": [
+        "who is roderigo",
+        "who is roderigo in othello, the moor of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_othello_the_moor_of_venice_8718527d",
+    "chunk_type": "character_identity",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Brabantio is Desdemona's father, Venetian senator",
+    "metadata": {
+      "character_name": "Brabantio",
+      "query_patterns": [
+        "who is brabantio",
+        "who is brabantio in othello, the moor of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_pericles_prince_of_tyre_f487da35",
+    "chunk_type": "character_identity",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Pericles is Prince of Tyre, seeks family",
+    "metadata": {
+      "character_name": "Pericles",
+      "query_patterns": [
+        "who is pericles",
+        "who is pericles in pericles, prince of tyre"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_pericles_prince_of_tyre_f1ac9148",
+    "chunk_type": "character_identity",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Marina is Pericles's daughter, survives hardship",
+    "metadata": {
+      "character_name": "Marina",
+      "query_patterns": [
+        "who is marina",
+        "who is marina in pericles, prince of tyre"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_pericles_prince_of_tyre_d46a94e6",
+    "chunk_type": "character_identity",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Thaisa is Pericles's wife, presumed dead",
+    "metadata": {
+      "character_name": "Thaisa",
+      "query_patterns": [
+        "who is thaisa",
+        "who is thaisa in pericles, prince of tyre"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_pericles_prince_of_tyre_3764fd63",
+    "chunk_type": "character_identity",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Gower is Narrator, guides play's story",
+    "metadata": {
+      "character_name": "Gower",
+      "query_patterns": [
+        "who is gower",
+        "who is gower in pericles, prince of tyre"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_pericles_prince_of_tyre_3778995f",
+    "chunk_type": "character_identity",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Cleon is Governor, raises Marina",
+    "metadata": {
+      "character_name": "Cleon",
+      "query_patterns": [
+        "who is cleon",
+        "who is cleon in pericles, prince of tyre"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_pericles_prince_of_tyre_ce442701",
+    "chunk_type": "character_identity",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Dionyza is Cleon's wife, plots against Marina",
+    "metadata": {
+      "character_name": "Dionyza",
+      "query_patterns": [
+        "who is dionyza",
+        "who is dionyza in pericles, prince of tyre"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_pericles_prince_of_tyre_c6c6c71a",
+    "chunk_type": "character_identity",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Lysimachus is Governor, loves Marina",
+    "metadata": {
+      "character_name": "Lysimachus",
+      "query_patterns": [
+        "who is lysimachus",
+        "who is lysimachus in pericles, prince of tyre"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_ii_cf77274d",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard II",
+    "content": "King Richard II is King of England, deposed",
+    "metadata": {
+      "character_name": "King Richard II",
+      "query_patterns": [
+        "who is king richard ii",
+        "who is king richard ii in king richard ii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_ii_7caa9b76",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard II",
+    "content": "Henry Bolingbroke is Rebel, becomes Henry IV",
+    "metadata": {
+      "character_name": "Henry Bolingbroke",
+      "query_patterns": [
+        "who is henry bolingbroke",
+        "who is henry bolingbroke in king richard ii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_ii_dfc02a8f",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard II",
+    "content": "John of Gaunt is Richard's uncle, loyal noble",
+    "metadata": {
+      "character_name": "John of Gaunt",
+      "query_patterns": [
+        "who is john of gaunt",
+        "who is john of gaunt in king richard ii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_ii_ae6d14ca",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard II",
+    "content": "Duke of York is Richard's uncle, supports Bolingbroke",
+    "metadata": {
+      "character_name": "Duke of York",
+      "query_patterns": [
+        "who is duke of york",
+        "who is duke of york in king richard ii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_ii_17d7e9a2",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard II",
+    "content": "Duchess of Gloucester is Widow, seeks justice",
+    "metadata": {
+      "character_name": "Duchess of Gloucester",
+      "query_patterns": [
+        "who is duchess of gloucester",
+        "who is duchess of gloucester in king richard ii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_ii_3897f242",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard II",
+    "content": "Aumerle is York's son, loyal to Richard",
+    "metadata": {
+      "character_name": "Aumerle",
+      "query_patterns": [
+        "who is aumerle",
+        "who is aumerle in king richard ii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_ii_9f76f999",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard II",
+    "content": "Mowbray is Noble, exiled for dispute",
+    "metadata": {
+      "character_name": "Mowbray",
+      "query_patterns": [
+        "who is mowbray",
+        "who is mowbray in king richard ii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_iii_527d84fd",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard III",
+    "content": "Richard III is Scheming duke, becomes king",
+    "metadata": {
+      "character_name": "Richard III",
+      "query_patterns": [
+        "who is richard iii",
+        "who is richard iii in king richard iii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_iii_91d55b1e",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard III",
+    "content": "Duke of Buckingham is Richard's ally, later betrayed",
+    "metadata": {
+      "character_name": "Duke of Buckingham",
+      "query_patterns": [
+        "who is duke of buckingham",
+        "who is duke of buckingham in king richard iii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_iii_a6c1cb64",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard III",
+    "content": "Queen Margaret is Lancastrian widow, curses Richard",
+    "metadata": {
+      "character_name": "Queen Margaret",
+      "query_patterns": [
+        "who is queen margaret",
+        "who is queen margaret in king richard iii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_iii_78052ef2",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard III",
+    "content": "Lady Anne is Widow, reluctantly marries Richard",
+    "metadata": {
+      "character_name": "Lady Anne",
+      "query_patterns": [
+        "who is lady anne",
+        "who is lady anne in king richard iii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_iii_5e2fc673",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard III",
+    "content": "King Edward IV is Yorkist king, Richard's brother",
+    "metadata": {
+      "character_name": "King Edward IV",
+      "query_patterns": [
+        "who is king edward iv",
+        "who is king edward iv in king richard iii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_iii_e018f152",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard III",
+    "content": "Clarence is Richard's brother, murdered by him",
+    "metadata": {
+      "character_name": "Clarence",
+      "query_patterns": [
+        "who is clarence",
+        "who is clarence in king richard iii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_king_richard_iii_e587527b",
+    "chunk_type": "character_identity",
+    "play_title": "King Richard III",
+    "content": "Richmond is Rebel, becomes Henry VII",
+    "metadata": {
+      "character_name": "Richmond",
+      "query_patterns": [
+        "who is richmond",
+        "who is richmond in king richard iii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_romeo_and_juliet_3e1475d8",
+    "chunk_type": "character_identity",
+    "play_title": "Romeo and Juliet",
+    "content": "Romeo Montague is Montague heir, loves Juliet",
+    "metadata": {
+      "character_name": "Romeo Montague",
+      "query_patterns": [
+        "who is romeo montague",
+        "who is romeo montague in romeo and juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_romeo_and_juliet_d0b64255",
+    "chunk_type": "character_identity",
+    "play_title": "Romeo and Juliet",
+    "content": "Juliet Capulet is Capulet daughter, loves Romeo",
+    "metadata": {
+      "character_name": "Juliet Capulet",
+      "query_patterns": [
+        "who is juliet capulet",
+        "who is juliet capulet in romeo and juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_romeo_and_juliet_6bfd983a",
+    "chunk_type": "character_identity",
+    "play_title": "Romeo and Juliet",
+    "content": "Mercutio is Romeo's friend, kinsman to Prince",
+    "metadata": {
+      "character_name": "Mercutio",
+      "query_patterns": [
+        "who is mercutio",
+        "who is mercutio in romeo and juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_romeo_and_juliet_a7bdfad2",
+    "chunk_type": "character_identity",
+    "play_title": "Romeo and Juliet",
+    "content": "Tybalt is Juliet's cousin, aggressive Capulet",
+    "metadata": {
+      "character_name": "Tybalt",
+      "query_patterns": [
+        "who is tybalt",
+        "who is tybalt in romeo and juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_romeo_and_juliet_24600fcc",
+    "chunk_type": "character_identity",
+    "play_title": "Romeo and Juliet",
+    "content": "Friar Lawrence is Priest, marries Romeo and Juliet",
+    "metadata": {
+      "character_name": "Friar Lawrence",
+      "query_patterns": [
+        "who is friar lawrence",
+        "who is friar lawrence in romeo and juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_romeo_and_juliet_e25c36cd",
+    "chunk_type": "character_identity",
+    "play_title": "Romeo and Juliet",
+    "content": "Nurse is Juliet's caretaker, aids lovers",
+    "metadata": {
+      "character_name": "Nurse",
+      "query_patterns": [
+        "who is nurse",
+        "who is nurse in romeo and juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_romeo_and_juliet_c3dd8060",
+    "chunk_type": "character_identity",
+    "play_title": "Romeo and Juliet",
+    "content": "Benvolio is Romeo's cousin, seeks peace",
+    "metadata": {
+      "character_name": "Benvolio",
+      "query_patterns": [
+        "who is benvolio",
+        "who is benvolio in romeo and juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_romeo_and_juliet_63af1eb9",
+    "chunk_type": "character_identity",
+    "play_title": "Romeo and Juliet",
+    "content": "Paris is Nobleman, seeks to marry Juliet",
+    "metadata": {
+      "character_name": "Paris",
+      "query_patterns": [
+        "who is paris",
+        "who is paris in romeo and juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_taming_of_the_shrew_b899c3cf",
+    "chunk_type": "character_identity",
+    "play_title": "The Taming of the Shrew",
+    "content": "Katherina is Baptista's daughter, tamed by Petruchio",
+    "metadata": {
+      "character_name": "Katherina",
+      "query_patterns": [
+        "who is katherina",
+        "who is katherina in the taming of the shrew"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_taming_of_the_shrew_ec804cfe",
+    "chunk_type": "character_identity",
+    "play_title": "The Taming of the Shrew",
+    "content": "Petruchio is Gentleman, marries Katherina for dowry",
+    "metadata": {
+      "character_name": "Petruchio",
+      "query_patterns": [
+        "who is petruchio",
+        "who is petruchio in the taming of the shrew"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_taming_of_the_shrew_419b8e7d",
+    "chunk_type": "character_identity",
+    "play_title": "The Taming of the Shrew",
+    "content": "Bianca is Katherina's sister, sought by suitors",
+    "metadata": {
+      "character_name": "Bianca",
+      "query_patterns": [
+        "who is bianca",
+        "who is bianca in the taming of the shrew"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_taming_of_the_shrew_5fd86298",
+    "chunk_type": "character_identity",
+    "play_title": "The Taming of the Shrew",
+    "content": "Lucentio is Gentleman, loves and marries Bianca",
+    "metadata": {
+      "character_name": "Lucentio",
+      "query_patterns": [
+        "who is lucentio",
+        "who is lucentio in the taming of the shrew"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_taming_of_the_shrew_7de066ec",
+    "chunk_type": "character_identity",
+    "play_title": "The Taming of the Shrew",
+    "content": "Baptista is Wealthy father of Katherina, Bianca",
+    "metadata": {
+      "character_name": "Baptista",
+      "query_patterns": [
+        "who is baptista",
+        "who is baptista in the taming of the shrew"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_taming_of_the_shrew_6686feb2",
+    "chunk_type": "character_identity",
+    "play_title": "The Taming of the Shrew",
+    "content": "Tranio is Lucentio's servant, aids disguise",
+    "metadata": {
+      "character_name": "Tranio",
+      "query_patterns": [
+        "who is tranio",
+        "who is tranio in the taming of the shrew"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_taming_of_the_shrew_a25cd67f",
+    "chunk_type": "character_identity",
+    "play_title": "The Taming of the Shrew",
+    "content": "Grumio is Petruchio's servant, comic assistant",
+    "metadata": {
+      "character_name": "Grumio",
+      "query_patterns": [
+        "who is grumio",
+        "who is grumio in the taming of the shrew"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tempest_5de8e9de",
+    "chunk_type": "character_identity",
+    "play_title": "The Tempest",
+    "content": "Prospero is Exiled Duke of Milan, magician",
+    "metadata": {
+      "character_name": "Prospero",
+      "query_patterns": [
+        "who is prospero",
+        "who is prospero in the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tempest_c460240b",
+    "chunk_type": "character_identity",
+    "play_title": "The Tempest",
+    "content": "Miranda is Prospero's daughter, loves Ferdinand",
+    "metadata": {
+      "character_name": "Miranda",
+      "query_patterns": [
+        "who is miranda",
+        "who is miranda in the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tempest_d224de50",
+    "chunk_type": "character_identity",
+    "play_title": "The Tempest",
+    "content": "Ariel is Prospero's spirit servant, seeks freedom",
+    "metadata": {
+      "character_name": "Ariel",
+      "query_patterns": [
+        "who is ariel",
+        "who is ariel in the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tempest_73487067",
+    "chunk_type": "character_identity",
+    "play_title": "The Tempest",
+    "content": "Caliban is Island native, Prospero's enslaved servant",
+    "metadata": {
+      "character_name": "Caliban",
+      "query_patterns": [
+        "who is caliban",
+        "who is caliban in the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tempest_2929db18",
+    "chunk_type": "character_identity",
+    "play_title": "The Tempest",
+    "content": "Ferdinand is Naples prince, loves Miranda",
+    "metadata": {
+      "character_name": "Ferdinand",
+      "query_patterns": [
+        "who is ferdinand",
+        "who is ferdinand in the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tempest_fe8e9a5d",
+    "chunk_type": "character_identity",
+    "play_title": "The Tempest",
+    "content": "Alonso is King of Naples, shipwrecked",
+    "metadata": {
+      "character_name": "Alonso",
+      "query_patterns": [
+        "who is alonso",
+        "who is alonso in the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tempest_121c6c67",
+    "chunk_type": "character_identity",
+    "play_title": "The Tempest",
+    "content": "Antonio is Prospero's brother, usurped his dukedom",
+    "metadata": {
+      "character_name": "Antonio",
+      "query_patterns": [
+        "who is antonio",
+        "who is antonio in the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tempest_b5be7649",
+    "chunk_type": "character_identity",
+    "play_title": "The Tempest",
+    "content": "Sebastian is Alonso's brother, plots against him",
+    "metadata": {
+      "character_name": "Sebastian",
+      "query_patterns": [
+        "who is sebastian",
+        "who is sebastian in the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tempest_d3ef0b54",
+    "chunk_type": "character_identity",
+    "play_title": "The Tempest",
+    "content": "Stephano is Drunken butler, plots with Caliban",
+    "metadata": {
+      "character_name": "Stephano",
+      "query_patterns": [
+        "who is stephano",
+        "who is stephano in the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tempest_8e97dbf2",
+    "chunk_type": "character_identity",
+    "play_title": "The Tempest",
+    "content": "Trinculo is Jester, joins Stephano's plot",
+    "metadata": {
+      "character_name": "Trinculo",
+      "query_patterns": [
+        "who is trinculo",
+        "who is trinculo in the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_two_gentlemen_of_verona_4af715ea",
+    "chunk_type": "character_identity",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Valentine is Gentleman, loves Silvia",
+    "metadata": {
+      "character_name": "Valentine",
+      "query_patterns": [
+        "who is valentine",
+        "who is valentine in the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_two_gentlemen_of_verona_1c72c4c5",
+    "chunk_type": "character_identity",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Proteus is Gentleman, betrays Valentine, loves Silvia",
+    "metadata": {
+      "character_name": "Proteus",
+      "query_patterns": [
+        "who is proteus",
+        "who is proteus in the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_two_gentlemen_of_verona_51d37d24",
+    "chunk_type": "character_identity",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Julia is Proteus's lover, disguises as page",
+    "metadata": {
+      "character_name": "Julia",
+      "query_patterns": [
+        "who is julia",
+        "who is julia in the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_two_gentlemen_of_verona_9fce2fd5",
+    "chunk_type": "character_identity",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Silvia is Duke's daughter, loves Valentine",
+    "metadata": {
+      "character_name": "Silvia",
+      "query_patterns": [
+        "who is silvia",
+        "who is silvia in the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_two_gentlemen_of_verona_a1777fcb",
+    "chunk_type": "character_identity",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Duke of Milan is Silvia's father, plans her marriage",
+    "metadata": {
+      "character_name": "Duke of Milan",
+      "query_patterns": [
+        "who is duke of milan",
+        "who is duke of milan in the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_two_gentlemen_of_verona_23cb71da",
+    "chunk_type": "character_identity",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Lucetta is Julia's maid, aids disguise",
+    "metadata": {
+      "character_name": "Lucetta",
+      "query_patterns": [
+        "who is lucetta",
+        "who is lucetta in the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_two_gentlemen_of_verona_21fbe75c",
+    "chunk_type": "character_identity",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Thurio is Silvia's suitor, Duke's choice",
+    "metadata": {
+      "character_name": "Thurio",
+      "query_patterns": [
+        "who is thurio",
+        "who is thurio in the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_two_gentlemen_of_verona_9d523a20",
+    "chunk_type": "character_identity",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Launce is Proteus's servant, comic figure",
+    "metadata": {
+      "character_name": "Launce",
+      "query_patterns": [
+        "who is launce",
+        "who is launce in the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_two_gentlemen_of_verona_9d568252",
+    "chunk_type": "character_identity",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Speed is Valentine's servant, witty assistant",
+    "metadata": {
+      "character_name": "Speed",
+      "query_patterns": [
+        "who is speed",
+        "who is speed in the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_timon_of_athens_b9a1a0dd",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Timon is Wealthy Athenian, becomes misanthrope",
+    "metadata": {
+      "character_name": "Timon",
+      "query_patterns": [
+        "who is timon",
+        "who is timon in the life of timon of athens"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_timon_of_athens_390ba6d4",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Apemantus is Cynical philosopher, criticizes society",
+    "metadata": {
+      "character_name": "Apemantus",
+      "query_patterns": [
+        "who is apemantus",
+        "who is apemantus in the life of timon of athens"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_timon_of_athens_a250dafd",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Alcibiades is General, rebels against Athens",
+    "metadata": {
+      "character_name": "Alcibiades",
+      "query_patterns": [
+        "who is alcibiades",
+        "who is alcibiades in the life of timon of athens"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_timon_of_athens_d1ce7946",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Flavius is Timon's loyal steward",
+    "metadata": {
+      "character_name": "Flavius",
+      "query_patterns": [
+        "who is flavius",
+        "who is flavius in the life of timon of athens"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_timon_of_athens_b002d612",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Ventidius is False friend, abandons Timon",
+    "metadata": {
+      "character_name": "Ventidius",
+      "query_patterns": [
+        "who is ventidius",
+        "who is ventidius in the life of timon of athens"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_timon_of_athens_55562020",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Lucius is False friend, rejects Timon",
+    "metadata": {
+      "character_name": "Lucius",
+      "query_patterns": [
+        "who is lucius",
+        "who is lucius in the life of timon of athens"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_life_of_timon_of_athens_b1f5bff0",
+    "chunk_type": "character_identity",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Sempronius is False friend, betrays Timon",
+    "metadata": {
+      "character_name": "Sempronius",
+      "query_patterns": [
+        "who is sempronius",
+        "who is sempronius in the life of timon of athens"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_titus_andronicus_36d4db88",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Titus Andronicus is Roman general, seeks revenge",
+    "metadata": {
+      "character_name": "Titus Andronicus",
+      "query_patterns": [
+        "who is titus andronicus",
+        "who is titus andronicus in the tragedy of titus andronicus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_titus_andronicus_25bfe562",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Tamora is Goth queen, plots against Titus",
+    "metadata": {
+      "character_name": "Tamora",
+      "query_patterns": [
+        "who is tamora",
+        "who is tamora in the tragedy of titus andronicus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_titus_andronicus_ece87f0e",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Aaron is Tamora's lover, orchestrates villainy",
+    "metadata": {
+      "character_name": "Aaron",
+      "query_patterns": [
+        "who is aaron",
+        "who is aaron in the tragedy of titus andronicus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_titus_andronicus_594b6d8e",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Lavinia is Titus's daughter, brutally assaulted",
+    "metadata": {
+      "character_name": "Lavinia",
+      "query_patterns": [
+        "who is lavinia",
+        "who is lavinia in the tragedy of titus andronicus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_titus_andronicus_55265b06",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Saturninus is Roman emperor, marries Tamora",
+    "metadata": {
+      "character_name": "Saturninus",
+      "query_patterns": [
+        "who is saturninus",
+        "who is saturninus in the tragedy of titus andronicus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_titus_andronicus_9ec063c8",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Bassianus is Saturninus's brother, loves Lavinia",
+    "metadata": {
+      "character_name": "Bassianus",
+      "query_patterns": [
+        "who is bassianus",
+        "who is bassianus in the tragedy of titus andronicus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_tragedy_of_titus_andronicus_8ca54628",
+    "chunk_type": "character_identity",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Lucius is Titus's son, avenges family",
+    "metadata": {
+      "character_name": "Lucius",
+      "query_patterns": [
+        "who is lucius",
+        "who is lucius in the tragedy of titus andronicus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_troilus_and_cressida_6aee3bfe",
+    "chunk_type": "character_identity",
+    "play_title": "Troilus and Cressida",
+    "content": "Troilus is Trojan prince, loves Cressida",
+    "metadata": {
+      "character_name": "Troilus",
+      "query_patterns": [
+        "who is troilus",
+        "who is troilus in troilus and cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_troilus_and_cressida_86c961ed",
+    "chunk_type": "character_identity",
+    "play_title": "Troilus and Cressida",
+    "content": "Cressida is Trojan woman, betrays Troilus",
+    "metadata": {
+      "character_name": "Cressida",
+      "query_patterns": [
+        "who is cressida",
+        "who is cressida in troilus and cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_troilus_and_cressida_ff72d744",
+    "chunk_type": "character_identity",
+    "play_title": "Troilus and Cressida",
+    "content": "Pandarus is Cressida's uncle, facilitates romance",
+    "metadata": {
+      "character_name": "Pandarus",
+      "query_patterns": [
+        "who is pandarus",
+        "who is pandarus in troilus and cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_troilus_and_cressida_2c47530d",
+    "chunk_type": "character_identity",
+    "play_title": "Troilus and Cressida",
+    "content": "Hector is Trojan warrior, killed by Achilles",
+    "metadata": {
+      "character_name": "Hector",
+      "query_patterns": [
+        "who is hector",
+        "who is hector in troilus and cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_troilus_and_cressida_b334c2c5",
+    "chunk_type": "character_identity",
+    "play_title": "Troilus and Cressida",
+    "content": "Achilles is Greek warrior, kills Hector",
+    "metadata": {
+      "character_name": "Achilles",
+      "query_patterns": [
+        "who is achilles",
+        "who is achilles in troilus and cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_troilus_and_cressida_23f29e1c",
+    "chunk_type": "character_identity",
+    "play_title": "Troilus and Cressida",
+    "content": "Ulysses is Greek leader, manipulates Achilles",
+    "metadata": {
+      "character_name": "Ulysses",
+      "query_patterns": [
+        "who is ulysses",
+        "who is ulysses in troilus and cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_troilus_and_cressida_acc319ae",
+    "chunk_type": "character_identity",
+    "play_title": "Troilus and Cressida",
+    "content": "Diomedes is Greek warrior, wins Cressida",
+    "metadata": {
+      "character_name": "Diomedes",
+      "query_patterns": [
+        "who is diomedes",
+        "who is diomedes in troilus and cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_twelfth_night;_or_what_you_will_e9650518",
+    "chunk_type": "character_identity",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Viola is Shipwrecked woman, disguises as Cesario",
+    "metadata": {
+      "character_name": "Viola",
+      "query_patterns": [
+        "who is viola",
+        "who is viola in twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_twelfth_night;_or_what_you_will_eb0e0142",
+    "chunk_type": "character_identity",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Sebastian is Viola's twin brother, presumed dead",
+    "metadata": {
+      "character_name": "Sebastian",
+      "query_patterns": [
+        "who is sebastian",
+        "who is sebastian in twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_twelfth_night;_or_what_you_will_7ae5057c",
+    "chunk_type": "character_identity",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Orsino is Duke of Illyria, loves Olivia",
+    "metadata": {
+      "character_name": "Orsino",
+      "query_patterns": [
+        "who is orsino",
+        "who is orsino in twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_twelfth_night;_or_what_you_will_52613020",
+    "chunk_type": "character_identity",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Olivia is Countess, loves Cesario, then Sebastian",
+    "metadata": {
+      "character_name": "Olivia",
+      "query_patterns": [
+        "who is olivia",
+        "who is olivia in twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_twelfth_night;_or_what_you_will_d85a581c",
+    "chunk_type": "character_identity",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Malvolio is Olivia's steward, humiliated by prank",
+    "metadata": {
+      "character_name": "Malvolio",
+      "query_patterns": [
+        "who is malvolio",
+        "who is malvolio in twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_twelfth_night;_or_what_you_will_2b124b19",
+    "chunk_type": "character_identity",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Sir Toby Belch is Olivia's drunken uncle, plots prank",
+    "metadata": {
+      "character_name": "Sir Toby Belch",
+      "query_patterns": [
+        "who is sir toby belch",
+        "who is sir toby belch in twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_twelfth_night;_or_what_you_will_3c56ab8b",
+    "chunk_type": "character_identity",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Sir Andrew Aguecheek is Toby's foolish friend, courts Olivia",
+    "metadata": {
+      "character_name": "Sir Andrew Aguecheek",
+      "query_patterns": [
+        "who is sir andrew aguecheek",
+        "who is sir andrew aguecheek in twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_twelfth_night;_or_what_you_will_4c79fc29",
+    "chunk_type": "character_identity",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Maria is Olivia's maid, orchestrates Malvolio prank",
+    "metadata": {
+      "character_name": "Maria",
+      "query_patterns": [
+        "who is maria",
+        "who is maria in twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_twelfth_night;_or_what_you_will_b96f6402",
+    "chunk_type": "character_identity",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Feste is Olivia's witty fool, sings and jests",
+    "metadata": {
+      "character_name": "Feste",
+      "query_patterns": [
+        "who is feste",
+        "who is feste in twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_winter's_tale_5f83bb69",
+    "chunk_type": "character_identity",
+    "play_title": "The Winter's Tale",
+    "content": "Leontes is King of Sicilia, jealous husband",
+    "metadata": {
+      "character_name": "Leontes",
+      "query_patterns": [
+        "who is leontes",
+        "who is leontes in the winter's tale"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_winter's_tale_e2bf493a",
+    "chunk_type": "character_identity",
+    "play_title": "The Winter's Tale",
+    "content": "Hermione is Leontes's wife, falsely accused",
+    "metadata": {
+      "character_name": "Hermione",
+      "query_patterns": [
+        "who is hermione",
+        "who is hermione in the winter's tale"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_winter's_tale_8cade828",
+    "chunk_type": "character_identity",
+    "play_title": "The Winter's Tale",
+    "content": "Perdita is Leontes's daughter, raised in Bohemia",
+    "metadata": {
+      "character_name": "Perdita",
+      "query_patterns": [
+        "who is perdita",
+        "who is perdita in the winter's tale"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_winter's_tale_b1b8a34c",
+    "chunk_type": "character_identity",
+    "play_title": "The Winter's Tale",
+    "content": "Polixenes is King of Bohemia, Leontes's friend",
+    "metadata": {
+      "character_name": "Polixenes",
+      "query_patterns": [
+        "who is polixenes",
+        "who is polixenes in the winter's tale"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_winter's_tale_274bb93b",
+    "chunk_type": "character_identity",
+    "play_title": "The Winter's Tale",
+    "content": "Camillo is Loyal advisor, serves both kings",
+    "metadata": {
+      "character_name": "Camillo",
+      "query_patterns": [
+        "who is camillo",
+        "who is camillo in the winter's tale"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_winter's_tale_b39b2a4e",
+    "chunk_type": "character_identity",
+    "play_title": "The Winter's Tale",
+    "content": "Paulina is Hermione's friend, seeks justice",
+    "metadata": {
+      "character_name": "Paulina",
+      "query_patterns": [
+        "who is paulina",
+        "who is paulina in the winter's tale"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_winter's_tale_c6be45d5",
+    "chunk_type": "character_identity",
+    "play_title": "The Winter's Tale",
+    "content": "Autolycus is Rogue, aids Bohemia's comedy",
+    "metadata": {
+      "character_name": "Autolycus",
+      "query_patterns": [
+        "who is autolycus",
+        "who is autolycus in the winter's tale"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "character_identity_the_winter's_tale_5c19bde7",
+    "chunk_type": "character_identity",
+    "play_title": "The Winter's Tale",
+    "content": "Florizel is Polixenes's son, loves Perdita",
+    "metadata": {
+      "character_name": "Florizel",
+      "query_patterns": [
+        "who is florizel",
+        "who is florizel in the winter's tale"
+      ]
+    },
+    "embedding": null
+  }
+]

@@ -1,0 +1,783 @@
+[
+  {
+    "chunk_id": "themes_list_all's_well_that_ends_well_9adf1e3d",
+    "chunk_type": "themes_list",
+    "play_title": "All's Well That Ends Well",
+    "content": "The main themes in All's Well That Ends Well are: Love, Deception, Gender roles, Class and merit, Healing.",
+    "metadata": {
+      "themes": [
+        "Love",
+        "Deception",
+        "Gender roles",
+        "Class and merit",
+        "Healing"
+      ],
+      "query_patterns": [
+        "themes in all's well that ends well",
+        "main themes all's well that ends well"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_antony_and_cleopatra_e0f2ec12",
+    "chunk_type": "themes_list",
+    "play_title": "Antony and Cleopatra",
+    "content": "The main themes in Antony and Cleopatra are: Love vs. Duty, Politics, Honor, East vs. West.",
+    "metadata": {
+      "themes": [
+        "Love vs. Duty",
+        "Politics",
+        "Honor",
+        "East vs. West"
+      ],
+      "query_patterns": [
+        "themes in antony and cleopatra",
+        "main themes antony and cleopatra"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_as_you_like_it_d6afeee9",
+    "chunk_type": "themes_list",
+    "play_title": "As You Like It",
+    "content": "The main themes in As You Like It are: Love, Nature vs court, Gender roles, Transformation, Pastoral life, Time.",
+    "metadata": {
+      "themes": [
+        "Love",
+        "Nature vs court",
+        "Gender roles",
+        "Transformation",
+        "Pastoral life",
+        "Time"
+      ],
+      "query_patterns": [
+        "themes in as you like it",
+        "main themes as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_the_comedy_of_errors_b4fb28a9",
+    "chunk_type": "themes_list",
+    "play_title": "The Comedy of Errors",
+    "content": "The main themes in The Comedy of Errors are: Identity, Mistaken identity, Family, Reunion, Chaos and confusion.",
+    "metadata": {
+      "themes": [
+        "Identity",
+        "Mistaken identity",
+        "Family",
+        "Reunion",
+        "Chaos and confusion"
+      ],
+      "query_patterns": [
+        "themes in the comedy of errors",
+        "main themes the comedy of errors"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_the_tragedy_of_coriolanus_934c4a29",
+    "chunk_type": "themes_list",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "The main themes in The Tragedy of Coriolanus are: Pride, Politics, Class conflict, Loyalty, Mother-son relationships, Honor.",
+    "metadata": {
+      "themes": [
+        "Pride",
+        "Politics",
+        "Class conflict",
+        "Loyalty",
+        "Mother-son relationships",
+        "Honor"
+      ],
+      "query_patterns": [
+        "themes in the tragedy of coriolanus",
+        "main themes the tragedy of coriolanus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_cymbeline_23d48c42",
+    "chunk_type": "themes_list",
+    "play_title": "Cymbeline",
+    "content": "The main themes in Cymbeline are: Love, Jealousy, Forgiveness, Identity, Family, Reconciliation.",
+    "metadata": {
+      "themes": [
+        "Love",
+        "Jealousy",
+        "Forgiveness",
+        "Identity",
+        "Family",
+        "Reconciliation"
+      ],
+      "query_patterns": [
+        "themes in cymbeline",
+        "main themes cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_hamlet_prince_of_denmark_2388b27d",
+    "chunk_type": "themes_list",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "The main themes in Hamlet, Prince of Denmark are: Revenge, Madness, Corruption, Death, The impossibility of certainty, Action vs inaction, Appearance vs reality.",
+    "metadata": {
+      "themes": [
+        "Revenge",
+        "Madness",
+        "Corruption",
+        "Death",
+        "The impossibility of certainty",
+        "Action vs inaction",
+        "Appearance vs reality"
+      ],
+      "query_patterns": [
+        "themes in hamlet, prince of denmark",
+        "main themes hamlet, prince of denmark"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_king_henry_iv_the_first_part_b623f05d",
+    "chunk_type": "themes_list",
+    "play_title": "King Henry IV, the First Part",
+    "content": "The main themes in King Henry IV, the First Part are: Honor, Power, Rebellion, Father-son relationships, Maturity, Loyalty.",
+    "metadata": {
+      "themes": [
+        "Honor",
+        "Power",
+        "Rebellion",
+        "Father-son relationships",
+        "Maturity",
+        "Loyalty"
+      ],
+      "query_patterns": [
+        "themes in king henry iv, the first part",
+        "main themes king henry iv, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_king_henry_iv_the_second_part_c5c6d712",
+    "chunk_type": "themes_list",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "The main themes in King Henry IV, the Second Part are: Power, Aging, Betrayal, Redemption, Duty, Succession.",
+    "metadata": {
+      "themes": [
+        "Power",
+        "Aging",
+        "Betrayal",
+        "Redemption",
+        "Duty",
+        "Succession"
+      ],
+      "query_patterns": [
+        "themes in king henry iv, the second part",
+        "main themes king henry iv, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_the_life_of_king_henry_v_47b059f6",
+    "chunk_type": "themes_list",
+    "play_title": "The Life of King Henry V",
+    "content": "The main themes in The Life of King Henry V are: Leadership, War, Patriotism, Justice, Maturity, Diplomacy.",
+    "metadata": {
+      "themes": [
+        "Leadership",
+        "War",
+        "Patriotism",
+        "Justice",
+        "Maturity",
+        "Diplomacy"
+      ],
+      "query_patterns": [
+        "themes in the life of king henry v",
+        "main themes the life of king henry v"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_the_life_of_henry_the_eighth_7a15a238",
+    "chunk_type": "themes_list",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "The main themes in The Life of Henry the Eighth are: Power, Religion, Marriage, Politics, Succession, Justice.",
+    "metadata": {
+      "themes": [
+        "Power",
+        "Religion",
+        "Marriage",
+        "Politics",
+        "Succession",
+        "Justice"
+      ],
+      "query_patterns": [
+        "themes in the life of henry the eighth",
+        "main themes the life of henry the eighth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_king_henry_vi_the_first_part_bb0cd154",
+    "chunk_type": "themes_list",
+    "play_title": "King Henry VI, the first part",
+    "content": "The main themes in King Henry VI, the first part are: War, Power, Religion, Patriotism, Factionalism, Prophecy.",
+    "metadata": {
+      "themes": [
+        "War",
+        "Power",
+        "Religion",
+        "Patriotism",
+        "Factionalism",
+        "Prophecy"
+      ],
+      "query_patterns": [
+        "themes in king henry vi, the first part",
+        "main themes king henry vi, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_king_henry_vi_the_second_part_4e93f766",
+    "chunk_type": "themes_list",
+    "play_title": "King Henry VI, the second part",
+    "content": "The main themes in King Henry VI, the second part are: Civil war, Ambition, Justice, Rebellion, Power, Betrayal.",
+    "metadata": {
+      "themes": [
+        "Civil war",
+        "Ambition",
+        "Justice",
+        "Rebellion",
+        "Power",
+        "Betrayal"
+      ],
+      "query_patterns": [
+        "themes in king henry vi, the second part",
+        "main themes king henry vi, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_king_henry_vi_the_third_part_af09bbb8",
+    "chunk_type": "themes_list",
+    "play_title": "King Henry VI, the third part",
+    "content": "The main themes in King Henry VI, the third part are: Civil war, Revenge, Power, Loyalty, Betrayal, Ambition.",
+    "metadata": {
+      "themes": [
+        "Civil war",
+        "Revenge",
+        "Power",
+        "Loyalty",
+        "Betrayal",
+        "Ambition"
+      ],
+      "query_patterns": [
+        "themes in king henry vi, the third part",
+        "main themes king henry vi, the third part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_julius_caesar_ea037d39",
+    "chunk_type": "themes_list",
+    "play_title": "Julius Caesar",
+    "content": "The main themes in Julius Caesar are: Power, Ambition, Honor, Fate, Public vs private self, Rhetoric, Loyalty.",
+    "metadata": {
+      "themes": [
+        "Power",
+        "Ambition",
+        "Honor",
+        "Fate",
+        "Public vs private self",
+        "Rhetoric",
+        "Loyalty"
+      ],
+      "query_patterns": [
+        "themes in julius caesar",
+        "main themes julius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_king_john_5bb7b201",
+    "chunk_type": "themes_list",
+    "play_title": "King John",
+    "content": "The main themes in King John are: Power, Legitimacy, War, Family, Betrayal, Patriotism.",
+    "metadata": {
+      "themes": [
+        "Power",
+        "Legitimacy",
+        "War",
+        "Family",
+        "Betrayal",
+        "Patriotism"
+      ],
+      "query_patterns": [
+        "themes in king john",
+        "main themes king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_the_tragedy_of_king_lear_eb61cb56",
+    "chunk_type": "themes_list",
+    "play_title": "The Tragedy of King Lear",
+    "content": "The main themes in The Tragedy of King Lear are: Justice, Authority, Family, Aging, Madness, Betrayal, Nature, Sight and blindness.",
+    "metadata": {
+      "themes": [
+        "Justice",
+        "Authority",
+        "Family",
+        "Aging",
+        "Madness",
+        "Betrayal",
+        "Nature",
+        "Sight and blindness"
+      ],
+      "query_patterns": [
+        "themes in the tragedy of king lear",
+        "main themes the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_love's_labour's_lost_56c3c532",
+    "chunk_type": "themes_list",
+    "play_title": "Love's Labour's Lost",
+    "content": "The main themes in Love's Labour's Lost are: Love, Wit, Education, Vows, Courtship, Language.",
+    "metadata": {
+      "themes": [
+        "Love",
+        "Wit",
+        "Education",
+        "Vows",
+        "Courtship",
+        "Language"
+      ],
+      "query_patterns": [
+        "themes in love's labour's lost",
+        "main themes love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_macbeth_530a53c8",
+    "chunk_type": "themes_list",
+    "play_title": "Macbeth",
+    "content": "The main themes in Macbeth are: Ambition, Power, Fate, Violence, Nature vs the unnatural, Manhood, Guilt and conscience.",
+    "metadata": {
+      "themes": [
+        "Ambition",
+        "Power",
+        "Fate",
+        "Violence",
+        "Nature vs the unnatural",
+        "Manhood",
+        "Guilt and conscience"
+      ],
+      "query_patterns": [
+        "themes in macbeth",
+        "main themes macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_measure_for_measure_af553aa1",
+    "chunk_type": "themes_list",
+    "play_title": "Measure for Measure",
+    "content": "The main themes in Measure for Measure are: Justice, Morality, Power, Mercy, Hypocrisy, Chastity.",
+    "metadata": {
+      "themes": [
+        "Justice",
+        "Morality",
+        "Power",
+        "Mercy",
+        "Hypocrisy",
+        "Chastity"
+      ],
+      "query_patterns": [
+        "themes in measure for measure",
+        "main themes measure for measure"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_the_merchant_of_venice_c17a7459",
+    "chunk_type": "themes_list",
+    "play_title": "The Merchant of Venice",
+    "content": "The main themes in The Merchant of Venice are: Justice and mercy, Prejudice, Wealth, Love and friendship, Outsiders, Appearance vs reality.",
+    "metadata": {
+      "themes": [
+        "Justice and mercy",
+        "Prejudice",
+        "Wealth",
+        "Love and friendship",
+        "Outsiders",
+        "Appearance vs reality"
+      ],
+      "query_patterns": [
+        "themes in the merchant of venice",
+        "main themes the merchant of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_the_merry_wives_of_windsor_23f67eca",
+    "chunk_type": "themes_list",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "The main themes in The Merry Wives of Windsor are: Jealousy, Deception, Marriage, Social class, Wit, Community.",
+    "metadata": {
+      "themes": [
+        "Jealousy",
+        "Deception",
+        "Marriage",
+        "Social class",
+        "Wit",
+        "Community"
+      ],
+      "query_patterns": [
+        "themes in the merry wives of windsor",
+        "main themes the merry wives of windsor"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_a_midsummer_night's_dream_847035cf",
+    "chunk_type": "themes_list",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "The main themes in A Midsummer Night's Dream are: Love, Magic, Dreams vs reality, Order vs chaos, Transformation, Art and imagination.",
+    "metadata": {
+      "themes": [
+        "Love",
+        "Magic",
+        "Dreams vs reality",
+        "Order vs chaos",
+        "Transformation",
+        "Art and imagination"
+      ],
+      "query_patterns": [
+        "themes in a midsummer night's dream",
+        "main themes a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_much_ado_about_nothing_dc99a53d",
+    "chunk_type": "themes_list",
+    "play_title": "Much Ado About Nothing",
+    "content": "The main themes in Much Ado About Nothing are: Love, Deception, Honor, Wit, Slander, Marriage.",
+    "metadata": {
+      "themes": [
+        "Love",
+        "Deception",
+        "Honor",
+        "Wit",
+        "Slander",
+        "Marriage"
+      ],
+      "query_patterns": [
+        "themes in much ado about nothing",
+        "main themes much ado about nothing"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_othello_the_moor_of_venice_8f264318",
+    "chunk_type": "themes_list",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "The main themes in Othello, the Moor of Venice are: Jealousy, Prejudice, Deception, Love, Trust, Reputation, Gender.",
+    "metadata": {
+      "themes": [
+        "Jealousy",
+        "Prejudice",
+        "Deception",
+        "Love",
+        "Trust",
+        "Reputation",
+        "Gender"
+      ],
+      "query_patterns": [
+        "themes in othello, the moor of venice",
+        "main themes othello, the moor of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_pericles_prince_of_tyre_2fbeb5be",
+    "chunk_type": "themes_list",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "The main themes in Pericles, Prince of Tyre are: Adventure, Loss, Reunion, Fate, Family, Virtue.",
+    "metadata": {
+      "themes": [
+        "Adventure",
+        "Loss",
+        "Reunion",
+        "Fate",
+        "Family",
+        "Virtue"
+      ],
+      "query_patterns": [
+        "themes in pericles, prince of tyre",
+        "main themes pericles, prince of tyre"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_king_richard_ii_28a25200",
+    "chunk_type": "themes_list",
+    "play_title": "King Richard II",
+    "content": "The main themes in King Richard II are: Kingship, Power, Divine right, Betrayal, Identity, Exile.",
+    "metadata": {
+      "themes": [
+        "Kingship",
+        "Power",
+        "Divine right",
+        "Betrayal",
+        "Identity",
+        "Exile"
+      ],
+      "query_patterns": [
+        "themes in king richard ii",
+        "main themes king richard ii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_king_richard_iii_4132ac93",
+    "chunk_type": "themes_list",
+    "play_title": "King Richard III",
+    "content": "The main themes in King Richard III are: Ambition, Manipulation, Evil, Power, Fate, Conscience.",
+    "metadata": {
+      "themes": [
+        "Ambition",
+        "Manipulation",
+        "Evil",
+        "Power",
+        "Fate",
+        "Conscience"
+      ],
+      "query_patterns": [
+        "themes in king richard iii",
+        "main themes king richard iii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_romeo_and_juliet_4493f55a",
+    "chunk_type": "themes_list",
+    "play_title": "Romeo and Juliet",
+    "content": "The main themes in Romeo and Juliet are: Love, Fate, Violence, Youth, Family rivalry, Individual vs society, Time.",
+    "metadata": {
+      "themes": [
+        "Love",
+        "Fate",
+        "Violence",
+        "Youth",
+        "Family rivalry",
+        "Individual vs society",
+        "Time"
+      ],
+      "query_patterns": [
+        "themes in romeo and juliet",
+        "main themes romeo and juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_the_taming_of_the_shrew_a2ede27c",
+    "chunk_type": "themes_list",
+    "play_title": "The Taming of the Shrew",
+    "content": "The main themes in The Taming of the Shrew are: Marriage, Gender roles, Power, Transformation, Deception, Love.",
+    "metadata": {
+      "themes": [
+        "Marriage",
+        "Gender roles",
+        "Power",
+        "Transformation",
+        "Deception",
+        "Love"
+      ],
+      "query_patterns": [
+        "themes in the taming of the shrew",
+        "main themes the taming of the shrew"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_the_tempest_0c064e8a",
+    "chunk_type": "themes_list",
+    "play_title": "The Tempest",
+    "content": "The main themes in The Tempest are: Magic, Power, Colonization, Forgiveness, Freedom, Art, Nature vs nurture.",
+    "metadata": {
+      "themes": [
+        "Magic",
+        "Power",
+        "Colonization",
+        "Forgiveness",
+        "Freedom",
+        "Art",
+        "Nature vs nurture"
+      ],
+      "query_patterns": [
+        "themes in the tempest",
+        "main themes the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_the_two_gentlemen_of_verona_da1c11dc",
+    "chunk_type": "themes_list",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "The main themes in The Two Gentlemen of Verona are: Friendship, Love and Betrayal, Disguise and Gender Roles, Loyalty, Forgiveness.",
+    "metadata": {
+      "themes": [
+        "Friendship",
+        "Love and Betrayal",
+        "Disguise and Gender Roles",
+        "Loyalty",
+        "Forgiveness"
+      ],
+      "query_patterns": [
+        "themes in the two gentlemen of verona",
+        "main themes the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_the_life_of_timon_of_athens_ae38414d",
+    "chunk_type": "themes_list",
+    "play_title": "The Life of Timon of Athens",
+    "content": "The main themes in The Life of Timon of Athens are: Wealth, Friendship, Betrayal, Misanthropy, Generosity, Corruption.",
+    "metadata": {
+      "themes": [
+        "Wealth",
+        "Friendship",
+        "Betrayal",
+        "Misanthropy",
+        "Generosity",
+        "Corruption"
+      ],
+      "query_patterns": [
+        "themes in the life of timon of athens",
+        "main themes the life of timon of athens"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_the_tragedy_of_titus_andronicus_efe90b82",
+    "chunk_type": "themes_list",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "The main themes in The Tragedy of Titus Andronicus are: Revenge, Violence, Betrayal, Family, Power, Savagery.",
+    "metadata": {
+      "themes": [
+        "Revenge",
+        "Violence",
+        "Betrayal",
+        "Family",
+        "Power",
+        "Savagery"
+      ],
+      "query_patterns": [
+        "themes in the tragedy of titus andronicus",
+        "main themes the tragedy of titus andronicus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_troilus_and_cressida_95857e46",
+    "chunk_type": "themes_list",
+    "play_title": "Troilus and Cressida",
+    "content": "The main themes in Troilus and Cressida are: Love, War, Betrayal, Honor, Futility, Deception.",
+    "metadata": {
+      "themes": [
+        "Love",
+        "War",
+        "Betrayal",
+        "Honor",
+        "Futility",
+        "Deception"
+      ],
+      "query_patterns": [
+        "themes in troilus and cressida",
+        "main themes troilus and cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_twelfth_night;_or_what_you_will_f251ca07",
+    "chunk_type": "themes_list",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "The main themes in Twelfth Night; Or, What You Will are: Love, Disguise, Deception, Gender, Social class, Folly, Identity.",
+    "metadata": {
+      "themes": [
+        "Love",
+        "Disguise",
+        "Deception",
+        "Gender",
+        "Social class",
+        "Folly",
+        "Identity"
+      ],
+      "query_patterns": [
+        "themes in twelfth night; or, what you will",
+        "main themes twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "themes_list_the_winter's_tale_ffc4ac33",
+    "chunk_type": "themes_list",
+    "play_title": "The Winter's Tale",
+    "content": "The main themes in The Winter's Tale are: Jealousy, Redemption, Time, Family, Forgiveness, Nature vs. nurture.",
+    "metadata": {
+      "themes": [
+        "Jealousy",
+        "Redemption",
+        "Time",
+        "Family",
+        "Forgiveness",
+        "Nature vs. nurture"
+      ],
+      "query_patterns": [
+        "themes in the winter's tale",
+        "main themes the winter's tale"
+      ]
+    },
+    "embedding": null
+  }
+]

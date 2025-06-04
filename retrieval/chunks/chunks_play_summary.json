@@ -1,0 +1,506 @@
+[
+  {
+    "chunk_id": "play_summary_all's_well_that_ends_well_98585023",
+    "chunk_type": "play_summary",
+    "play_title": "All's Well That Ends Well",
+    "content": "Summary of All's Well That Ends Well: Helena, a physician's daughter, is in love with the nobleman Bertram. After curing the King of France, she is granted the right to marry anyone she chooses and selects Bertram, who refuses her and flees to war. Through intelligence and perseverance, Helena ultimately wins Bertram's love.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize all's well that ends well",
+        "summary of all's well that ends well"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_antony_and_cleopatra_8a4f5849",
+    "chunk_type": "play_summary",
+    "play_title": "Antony and Cleopatra",
+    "content": "Summary of Antony and Cleopatra: The Roman general Mark Antony falls in love with Cleopatra, Queen of Egypt. Their relationship threatens his standing in Rome and leads to conflict with Octavius Caesar. Their tragic love story ends in double suicide as they are defeated in battle.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize antony and cleopatra",
+        "summary of antony and cleopatra"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_as_you_like_it_c24a508d",
+    "chunk_type": "play_summary",
+    "play_title": "As You Like It",
+    "content": "Summary of As You Like It: When Rosalind is banished by her uncle Duke Frederick, she flees to the Forest of Arden with her cousin Celia and the court fool Touchstone. Disguised as a young man named Ganymede, Rosalind encounters Orlando, who has also fled to the forest. Not recognizing her, Orlando confides in 'Ganymede' about his love for Rosalind. The forest becomes a place of transformation as four couples navigate love and mistaken identities.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize as you like it",
+        "summary of as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_the_comedy_of_errors_9aefdfed",
+    "chunk_type": "play_summary",
+    "play_title": "The Comedy of Errors",
+    "content": "Summary of The Comedy of Errors: Two sets of identical twins separated at birth create chaos when they all end up in the same city. Mistaken identities lead to wrongful beatings, arrests, and accusations until the family is joyfully reunited.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize the comedy of errors",
+        "summary of the comedy of errors"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_the_tragedy_of_coriolanus_c0837f05",
+    "chunk_type": "play_summary",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Summary of The Tragedy of Coriolanus: Caius Martius, a Roman general, earns the name Coriolanus after his victory at Corioli. His pride and contempt for the plebeians lead to his banishment, prompting him to join his enemy Tullus Aufidius to attack Rome, only to be persuaded by his mother Volumnia to spare the city, resulting in his betrayal and death.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize the tragedy of coriolanus",
+        "summary of the tragedy of coriolanus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_cymbeline_de4ab627",
+    "chunk_type": "play_summary",
+    "play_title": "Cymbeline",
+    "content": "Summary of Cymbeline: Imogen, daughter of King Cymbeline, marries Posthumus against her father's wishes. Banished, Posthumus is tricked by Iachimo into believing Imogen is unfaithful, leading to a series of trials, disguises, and revelations that ultimately reunite the lovers and reconcile the royal family.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize cymbeline",
+        "summary of cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_hamlet_prince_of_denmark_fa813d47",
+    "chunk_type": "play_summary",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Summary of Hamlet, Prince of Denmark: The play depicts Prince Hamlet's revenge against his uncle Claudius, who murdered Hamlet's father, the king, and then took the throne and married Hamlet's mother. Throughout the play, Hamlet struggles with his perceived duty to avenge his father's death while wrestling with moral questions about murder, suicide, and the afterlife.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize hamlet, prince of denmark",
+        "summary of hamlet, prince of denmark"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_king_henry_iv_the_first_part_1a46ea98",
+    "chunk_type": "play_summary",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Summary of King Henry IV, the First Part: King Henry IV faces rebellion from the Percy family, led by the fiery Hotspur. Meanwhile, his son Prince Hal carouses with the roguish Falstaff but ultimately proves his worth by defeating Hotspur at the Battle of Shrewsbury, solidifying his path to maturity.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize king henry iv, the first part",
+        "summary of king henry iv, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_king_henry_iv_the_second_part_efb535a4",
+    "chunk_type": "play_summary",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Summary of King Henry IV, the Second Part: As King Henry IV's health declines, rebellions persist, led by the Archbishop of York. Prince Hal continues his association with Falstaff but ultimately rejects him upon becoming king, embracing his royal duties and reconciling with his father before Henry's death.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize king henry iv, the second part",
+        "summary of king henry iv, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_the_life_of_king_henry_v_eb803baf",
+    "chunk_type": "play_summary",
+    "play_title": "The Life of King Henry V",
+    "content": "Summary of The Life of King Henry V: King Henry V leads England in a campaign against France, culminating in the victory at Agincourt despite overwhelming odds. Through inspiring leadership and diplomacy, he secures peace and marries Princess Katherine, uniting the two nations.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize the life of king henry v",
+        "summary of the life of king henry v"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_the_life_of_henry_the_eighth_d2d58d5f",
+    "chunk_type": "play_summary",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Summary of The Life of Henry the Eighth: King Henry VIII navigates political and personal turmoil, divorcing Katherine of Aragon to marry Anne Boleyn, causing religious and diplomatic strife. Cardinal Wolsey's ambition leads to his downfall, while the birth of Elizabeth heralds hope for England's future.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize the life of henry the eighth",
+        "summary of the life of henry the eighth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_king_henry_vi_the_first_part_2ae13b91",
+    "chunk_type": "play_summary",
+    "play_title": "King Henry VI, the first part",
+    "content": "Summary of King Henry VI, the first part: Amid the Hundred Years' War, England struggles to maintain its French territories as young King Henry VI proves a weak ruler. Joan of Arc leads French resistance, while internal rivalries between the houses of York and Lancaster begin to sow discord, foreshadowing the Wars of the Roses.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize king henry vi, the first part",
+        "summary of king henry vi, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_king_henry_vi_the_second_part_98c23886",
+    "chunk_type": "play_summary",
+    "play_title": "King Henry VI, the second part",
+    "content": "Summary of King Henry VI, the second part: King Henry VI's weak rule fuels rivalries between noble factions, with Queen Margaret and the Duke of York vying for influence. The Duke of York's claim to the throne sparks rebellion, while Jack Cade's uprising exposes social unrest, escalating tensions toward civil war.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize king henry vi, the second part",
+        "summary of king henry vi, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_king_henry_vi_the_third_part_24c5d46f",
+    "chunk_type": "play_summary",
+    "play_title": "King Henry VI, the third part",
+    "content": "Summary of King Henry VI, the third part: The Wars of the Roses intensify as the houses of York and Lancaster battle for the throne. After King Henry VI is deposed, Edward IV claims the crown, but betrayals and Richard's ruthless ambition set the stage for further conflict and his rise to power.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize king henry vi, the third part",
+        "summary of king henry vi, the third part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_julius_caesar_28c92e7f",
+    "chunk_type": "play_summary",
+    "play_title": "Julius Caesar",
+    "content": "Summary of Julius Caesar: The play portrays the conspiracy against Roman dictator Julius Caesar, his assassination, and its aftermath. Brutus joins the conspiracy out of a desire to protect the Roman Republic, but is manipulated by Cassius. After Caesar's murder, Mark Antony turns the public against the conspirators in a brilliant funeral oration, leading to civil war and the deaths of Brutus and Cassius.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize julius caesar",
+        "summary of julius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_king_john_ef4a80a4",
+    "chunk_type": "play_summary",
+    "play_title": "King John",
+    "content": "Summary of King John: King John faces challenges to his throne from France and internal dissent, compounded by the tragic fate of young Prince Arthur. The Bastard's loyalty and England's resilience prevail, but John's death leaves the crown to his son, Henry III.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize king john",
+        "summary of king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_the_tragedy_of_king_lear_f17b0d53",
+    "chunk_type": "play_summary",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Summary of The Tragedy of King Lear: King Lear, planning to divide his kingdom among his three daughters, disowns Cordelia when she refuses to publicly quantify her love. The play follows Lear's descent into madness after his other daughters betray him. Meanwhile, the Earl of Gloucester is similarly deceived by his illegitimate son Edmund against his legitimate son Edgar. Both storylines culminate in profound tragedy.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize the tragedy of king lear",
+        "summary of the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_love's_labour's_lost_2de8f0a9",
+    "chunk_type": "play_summary",
+    "play_title": "Love's Labour's Lost",
+    "content": "Summary of Love's Labour's Lost: The King of Navarre and his lords vow to forgo women and study for three years, but their resolve crumbles when the Princess of France and her ladies arrive. Through witty courtship and playful deception, love prevails, though a sudden death delays their unions for a year.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize love's labour's lost",
+        "summary of love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_macbeth_084c7f19",
+    "chunk_type": "play_summary",
+    "play_title": "Macbeth",
+    "content": "Summary of Macbeth: Macbeth, a Scottish general, receives a prophecy from three witches that he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders King Duncan and seizes the throne. His reign is marked by tyranny and further bloodshed as guilt and paranoia consume the couple, ultimately leading to their downfall.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize macbeth",
+        "summary of macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_measure_for_measure_ba4d3008",
+    "chunk_type": "play_summary",
+    "play_title": "Measure for Measure",
+    "content": "Summary of Measure for Measure: Duke Vincentio leaves Vienna under Angelo's strict rule, who sentences Claudio to death for fornication. Claudio's sister Isabella pleads for mercy, and the disguised Duke manipulates events to expose Angelo's hypocrisy, ultimately restoring justice and mercy.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize measure for measure",
+        "summary of measure for measure"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_the_merchant_of_venice_2261a070",
+    "chunk_type": "play_summary",
+    "play_title": "The Merchant of Venice",
+    "content": "Summary of The Merchant of Venice: When merchant Antonio borrows money from the Jewish moneylender Shylock to help his friend Bassanio woo Portia, he agrees to a pound of his own flesh as collateral. When Antonio defaults on the loan, Shylock demands his payment. Meanwhile, Portia tests her suitors with a challenge involving three caskets. The play explores themes of justice, mercy, and prejudice through its complex characters.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize the merchant of venice",
+        "summary of the merchant of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_the_merry_wives_of_windsor_73f54371",
+    "chunk_type": "play_summary",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Summary of The Merry Wives of Windsor: Falstaff attempts to woo Mistresses Ford and Page for their husbands' wealth, but the clever wives outwit him with a series of pranks. Meanwhile, Anne Page navigates suitors, ultimately marrying her true love Fenton, as the community unites to humiliate Falstaff.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize the merry wives of windsor",
+        "summary of the merry wives of windsor"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_a_midsummer_night's_dream_f6776e77",
+    "chunk_type": "play_summary",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Summary of A Midsummer Night's Dream: This enchanting comedy intertwines the adventures of four young Athenian lovers, a group of amateur actors, and fairies in a moonlit forest. As Theseus and Hippolyta prepare for their wedding, the fairy king and queen quarrel, leading to magical mischief when fairy Puck uses a love potion that complicates the lovers' relationships and transforms Bottom into a donkey.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize a midsummer night's dream",
+        "summary of a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_much_ado_about_nothing_0c5a4de0",
+    "chunk_type": "play_summary",
+    "play_title": "Much Ado About Nothing",
+    "content": "Summary of Much Ado About Nothing: Beatrice and Benedick engage in a witty battle of words while Claudio and Hero fall in love, only for Don John's slander to disrupt their wedding. Through deception and revelation, the couples are united, and love triumphs over malice in Messina.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize much ado about nothing",
+        "summary of much ado about nothing"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_othello_the_moor_of_venice_7ce4ed26",
+    "chunk_type": "play_summary",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Summary of Othello, the Moor of Venice: Othello, a Moorish general in the Venetian army, marries Desdemona, inciting jealousy in his ensign Iago. Through elaborate deception, Iago convinces Othello that Desdemona has been unfaithful with his lieutenant Cassio. Consumed by jealousy, Othello murders Desdemona, only to discover Iago's treachery too late, leading to his suicide.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize othello, the moor of venice",
+        "summary of othello, the moor of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_pericles_prince_of_tyre_7792d588",
+    "chunk_type": "play_summary",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Summary of Pericles, Prince of Tyre: Pericles, Prince of Tyre, embarks on a series of adventures, facing shipwrecks, loss, and betrayal, believing his wife Thaisa and daughter Marina dead. Through miraculous reunions guided by fate, he is joyfully reunited with his family in a tale of resilience and redemption.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize pericles, prince of tyre",
+        "summary of pericles, prince of tyre"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_king_richard_ii_b6e2bac0",
+    "chunk_type": "play_summary",
+    "play_title": "King Richard II",
+    "content": "Summary of King Richard II: King Richard II's mismanagement and seizure of noble lands provoke Henry Bolingbroke's rebellion. Exiled and then deposed, Richard is imprisoned and murdered, while Bolingbroke becomes Henry IV, grappling with the consequences of usurping the throne.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize king richard ii",
+        "summary of king richard ii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_king_richard_iii_6ce728f7",
+    "chunk_type": "play_summary",
+    "play_title": "King Richard III",
+    "content": "Summary of King Richard III: Richard, Duke of Gloucester, schemes his way to the throne through murder and manipulation, eliminating rivals like Clarence and the young princes. His tyranny sparks rebellion, and he is defeated by Richmond (Henry VII) at Bosworth Field, ending the Wars of the Roses.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize king richard iii",
+        "summary of king richard iii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_romeo_and_juliet_e0a4d7a6",
+    "chunk_type": "play_summary",
+    "play_title": "Romeo and Juliet",
+    "content": "Summary of Romeo and Juliet: Set in Verona, Italy, this tragic love story follows Romeo and Juliet, young lovers from feuding families, the Montagues and Capulets. After meeting at a Capulet feast, they secretly marry, but a sequence of misunderstandings and violent confrontations leads to their tragic deaths, ultimately reconciling their feuding families.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize romeo and juliet",
+        "summary of romeo and juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_the_taming_of_the_shrew_fc6a75dc",
+    "chunk_type": "play_summary",
+    "play_title": "The Taming of the Shrew",
+    "content": "Summary of The Taming of the Shrew: Petruchio seeks to marry the sharp-tongued Katherina to secure her dowry, using unconventional methods to ‘tame' her spirited nature. Meanwhile, Lucentio woos Katherina's sister Bianca through disguise, leading to a resolution where Katherina appears subdued, though her transformation remains ambiguous.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize the taming of the shrew",
+        "summary of the taming of the shrew"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_the_tempest_2133e8af",
+    "chunk_type": "play_summary",
+    "play_title": "The Tempest",
+    "content": "Summary of The Tempest: Prospero, the rightful Duke of Milan, and his daughter Miranda have been stranded on an island for twelve years after Prospero's brother Antonio usurped his position. Using magic learned from his books, Prospero controls the spirit Ariel and the creature Caliban. When his enemies sail near the island, he conjures a tempest to shipwreck them, setting in motion a plot of revenge, romance, and ultimately forgiveness.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize the tempest",
+        "summary of the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_the_two_gentlemen_of_verona_0d30c19d",
+    "chunk_type": "play_summary",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Summary of The Two Gentlemen of Verona: Best friends Valentine and Proteus part ways when Valentine leaves Verona for Milan. Proteus, originally in love with Julia, follows and betrays both his friend and his lover by falling for Silvia, whom Valentine also loves. Julia disguises herself to follow Proteus. In the end, love is tested, betrayal is forgiven, and the friends and lovers reconcile.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize the two gentlemen of verona",
+        "summary of the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_the_life_of_timon_of_athens_30173e5e",
+    "chunk_type": "play_summary",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Summary of The Life of Timon of Athens: Timon, a wealthy Athenian, lavishes gifts on false friends, only to be abandoned when his fortunes fail. Disillusioned, he becomes a misanthrope, cursing humanity and living in exile, where he discovers gold but dies in isolation, rejecting reconciliation.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize the life of timon of athens",
+        "summary of the life of timon of athens"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_the_tragedy_of_titus_andronicus_c6a05a04",
+    "chunk_type": "play_summary",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Summary of The Tragedy of Titus Andronicus: Roman general Titus Andronicus returns victorious but spirals into a cycle of revenge when Tamora, Queen of the Goths, seeks retribution for her son's death. Brutal acts, including Lavinia's mutilation and Titus's feigned madness, culminate in a bloody banquet where nearly all perish.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize the tragedy of titus andronicus",
+        "summary of the tragedy of titus andronicus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_troilus_and_cressida_7fe4cb15",
+    "chunk_type": "play_summary",
+    "play_title": "Troilus and Cressida",
+    "content": "Summary of Troilus and Cressida: During the Trojan War, Troilus and Cressida fall in love, facilitated by her uncle Pandarus, but Cressida is traded to the Greeks and betrays Troilus with Diomedes. Meanwhile, the war's futility is exposed through the pride and inaction of warriors like Achilles, ending in Hector's death.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize troilus and cressida",
+        "summary of troilus and cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "play_summary_twelfth_night;_or_what_you_will_f52b57c2",
+    "chunk_type": "play_summary",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Summary of Twelfth Night; Or, What You Will: Twelfth Night follows Viola, who disguises herself as a man named Cesario after being shipwrecked in Illyria, believing her twin brother Sebastian has drowned. She enters the service of Duke Orsino, who is in love with Countess Olivia. When Viola as Cesario is sent to court Olivia for Orsino, Olivia falls for Cesario instead. The arrival of Sebastian creates confusion and comedy, while a subplot involves the humiliation of Olivia's steward Malvolio.",
+    "metadata": {
+      "summary_level": "play",
+      "query_patterns": [
+        "summarize twelfth night; or, what you will",
+        "summary of twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  }
+]

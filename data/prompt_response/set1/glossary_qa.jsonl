@@ -1,0 +1,244 @@
+{"prompt": "What is the meaning of the word *thou*?", "response": "you", "question_type": "meaning_direct"}
+{"prompt": "What does the word *thou* mean in modern English?", "response": "you", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *thee*?", "response": "you", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *thee* in contemporary English?", "response": "you", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *thy*?", "response": "your", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *thy* in contemporary English?", "response": "your", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *thine*?", "response": "yours", "question_type": "meaning_direct"}
+{"prompt": "What does the word *thine* mean in modern English?", "response": "yours", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *ye* in contemporary English?", "response": "you", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *ye*?", "response": "you", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *art* in contemporary English?", "response": "are", "question_type": "meaning_direct"}
+{"prompt": "What does the word *art* mean in modern English?", "response": "are", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *wert* in contemporary English?", "response": "were", "question_type": "meaning_direct"}
+{"prompt": "What does the word *wert* mean in modern English?", "response": "were", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *hast* in contemporary English?", "response": "have", "question_type": "meaning_direct"}
+{"prompt": "What does the word *hast* mean in modern English?", "response": "have", "question_type": "meaning_direct"}
+{"prompt": "What does the word *hadst* mean in modern English?", "response": "had", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *hadst* in contemporary English?", "response": "had", "question_type": "meaning_direct"}
+{"prompt": "What does the word *dost* mean in modern English?", "response": "do", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *dost*?", "response": "do", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *doth*?", "response": "does", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *doth* in contemporary English?", "response": "does", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *shalt* in contemporary English?", "response": "shall", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *shalt*?", "response": "shall", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *shouldst*?", "response": "should", "question_type": "meaning_direct"}
+{"prompt": "What does the word *shouldst* mean in modern English?", "response": "should", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *wilt* in contemporary English?", "response": "will", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *wilt*?", "response": "will", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *wouldst*?", "response": "would", "question_type": "meaning_direct"}
+{"prompt": "What does the word *wouldst* mean in modern English?", "response": "would", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *couldst*?", "response": "could", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *couldst* in contemporary English?", "response": "could", "question_type": "meaning_direct"}
+{"prompt": "What does the word *canst* mean in modern English?", "response": "can", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *canst*?", "response": "can", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *mayst*?", "response": "may", "question_type": "meaning_direct"}
+{"prompt": "What does the word *mayst* mean in modern English?", "response": "may", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *mightst*?", "response": "might", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *mightst* in contemporary English?", "response": "might", "question_type": "meaning_direct"}
+{"prompt": "What does the word *must needs* mean in modern English?", "response": "must", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *must needs*?", "response": "must", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *saith* in contemporary English?", "response": "says", "question_type": "meaning_direct"}
+{"prompt": "What does the word *saith* mean in modern English?", "response": "says", "question_type": "meaning_direct"}
+{"prompt": "What does the word *cometh* mean in modern English?", "response": "comes", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *cometh*?", "response": "comes", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *goeth*?", "response": "goes", "question_type": "meaning_direct"}
+{"prompt": "What does the word *goeth* mean in modern English?", "response": "goes", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *speakest* in contemporary English?", "response": "speak", "question_type": "meaning_direct"}
+{"prompt": "What does the word *speakest* mean in modern English?", "response": "speak", "question_type": "meaning_direct"}
+{"prompt": "What does the word *knowest* mean in modern English?", "response": "know", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *knowest*?", "response": "know", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *thinkest*?", "response": "think", "question_type": "meaning_direct"}
+{"prompt": "What does the word *thinkest* mean in modern English?", "response": "think", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *sayest*?", "response": "say", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *sayest* in contemporary English?", "response": "say", "question_type": "meaning_direct"}
+{"prompt": "What does the word *lovest* mean in modern English?", "response": "love", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *lovest* in contemporary English?", "response": "love", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *lookest* in contemporary English?", "response": "look", "question_type": "meaning_direct"}
+{"prompt": "What does the word *lookest* mean in modern English?", "response": "look", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *gavest* in contemporary English?", "response": "gave", "question_type": "meaning_direct"}
+{"prompt": "What does the word *gavest* mean in modern English?", "response": "gave", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *bringest* in contemporary English?", "response": "bring", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *bringest*?", "response": "bring", "question_type": "meaning_direct"}
+{"prompt": "What does the word *seekest* mean in modern English?", "response": "seek", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *seekest*?", "response": "seek", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *leadeth*?", "response": "leads", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *leadeth* in contemporary English?", "response": "leads", "question_type": "meaning_direct"}
+{"prompt": "What does the word *followeth* mean in modern English?", "response": "follows", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *followeth* in contemporary English?", "response": "follows", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *asketh*?", "response": "asks", "question_type": "meaning_direct"}
+{"prompt": "What does the word *asketh* mean in modern English?", "response": "asks", "question_type": "meaning_direct"}
+{"prompt": "What does the word *answereth* mean in modern English?", "response": "answers", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *answereth* in contemporary English?", "response": "answers", "question_type": "meaning_direct"}
+{"prompt": "What does the word *ere* mean in modern English?", "response": "before", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *ere* in contemporary English?", "response": "before", "question_type": "meaning_direct"}
+{"prompt": "What does the word *anon* mean in modern English?", "response": "soon", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *anon*?", "response": "soon", "question_type": "meaning_direct"}
+{"prompt": "What does the word *oft* mean in modern English?", "response": "often", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *oft*?", "response": "often", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *nigh*?", "response": "near", "question_type": "meaning_direct"}
+{"prompt": "What does the word *nigh* mean in modern English?", "response": "near", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *whither*?", "response": "where", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *whither* in contemporary English?", "response": "where", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *hither* in contemporary English?", "response": "here", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *hither*?", "response": "here", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *thither* in contemporary English?", "response": "there", "question_type": "meaning_direct"}
+{"prompt": "What does the word *thither* mean in modern English?", "response": "there", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *withal*?", "response": "in addition", "question_type": "meaning_direct"}
+{"prompt": "What does the word *withal* mean in modern English?", "response": "in addition", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *perchance* in contemporary English?", "response": "perhaps", "question_type": "meaning_direct"}
+{"prompt": "What does the word *perchance* mean in modern English?", "response": "perhaps", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *methinks* in contemporary English?", "response": "I think", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *methinks*?", "response": "I think", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *peradventure* in contemporary English?", "response": "maybe", "question_type": "meaning_direct"}
+{"prompt": "What does the word *peradventure* mean in modern English?", "response": "maybe", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *marry* in contemporary English?", "response": "indeed", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *marry*?", "response": "indeed", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *fain*?", "response": "gladly", "question_type": "meaning_direct"}
+{"prompt": "What does the word *fain* mean in modern English?", "response": "gladly", "question_type": "meaning_direct"}
+{"prompt": "What does the word *haply* mean in modern English?", "response": "by chance", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *haply* in contemporary English?", "response": "by chance", "question_type": "meaning_direct"}
+{"prompt": "What does the word *whence* mean in modern English?", "response": "from where", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *whence* in contemporary English?", "response": "from where", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *whilst* in contemporary English?", "response": "while", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *whilst*?", "response": "while", "question_type": "meaning_direct"}
+{"prompt": "What does the word *hark* mean in modern English?", "response": "listen", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *hark*?", "response": "listen", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *prithee*?", "response": "please", "question_type": "meaning_direct"}
+{"prompt": "What does the word *prithee* mean in modern English?", "response": "please", "question_type": "meaning_direct"}
+{"prompt": "What does the word *forsooth* mean in modern English?", "response": "indeed", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *forsooth*?", "response": "indeed", "question_type": "meaning_direct"}
+{"prompt": "What does the word *zounds* mean in modern English?", "response": "God's wounds", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *zounds*?", "response": "God's wounds", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *alas* in contemporary English?", "response": "oh no", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *alas*?", "response": "oh no", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *alack*?", "response": "woe", "question_type": "meaning_direct"}
+{"prompt": "What does the word *alack* mean in modern English?", "response": "woe", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *ay*?", "response": "yes", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *ay* in contemporary English?", "response": "yes", "question_type": "meaning_direct"}
+{"prompt": "What does the word *nay* mean in modern English?", "response": "no", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *nay* in contemporary English?", "response": "no", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *sooth* in contemporary English?", "response": "truth", "question_type": "meaning_direct"}
+{"prompt": "What does the word *sooth* mean in modern English?", "response": "truth", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *troth*?", "response": "truth", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *troth* in contemporary English?", "response": "truth", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *knave* in contemporary English?", "response": "servant", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *knave*?", "response": "servant", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *churl*?", "response": "peasant", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *churl* in contemporary English?", "response": "peasant", "question_type": "meaning_direct"}
+{"prompt": "What does the word *coxcomb* mean in modern English?", "response": "fool", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *coxcomb*?", "response": "fool", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *wench* in contemporary English?", "response": "girl", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *wench*?", "response": "girl", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *harlot*?", "response": "prostitute", "question_type": "meaning_direct"}
+{"prompt": "What does the word *harlot* mean in modern English?", "response": "prostitute", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *varlet*?", "response": "rascal", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *varlet* in contemporary English?", "response": "rascal", "question_type": "meaning_direct"}
+{"prompt": "What does the word *sirrah* mean in modern English?", "response": "boy", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *sirrah*?", "response": "boy", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *maid* in contemporary English?", "response": "young woman", "question_type": "meaning_direct"}
+{"prompt": "What does the word *maid* mean in modern English?", "response": "young woman", "question_type": "meaning_direct"}
+{"prompt": "What does the word *bosom* mean in modern English?", "response": "chest", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *bosom*?", "response": "chest", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *orb*?", "response": "eye", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *orb* in contemporary English?", "response": "eye", "question_type": "meaning_direct"}
+{"prompt": "What does the word *countenance* mean in modern English?", "response": "face", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *countenance* in contemporary English?", "response": "face", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *visage*?", "response": "appearance", "question_type": "meaning_direct"}
+{"prompt": "What does the word *visage* mean in modern English?", "response": "appearance", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *thyself*?", "response": "yourself", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *thyself* in contemporary English?", "response": "yourself", "question_type": "meaning_direct"}
+{"prompt": "What does the word *villain* mean in modern English?", "response": "scoundrel", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *villain*?", "response": "scoundrel", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *wherefore* in contemporary English?", "response": "why", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *wherefore*?", "response": "why", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *how now* in contemporary English?", "response": "what's the matter", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *how now*?", "response": "what's the matter", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *an*?", "response": "if", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *an* in contemporary English?", "response": "if", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *fare thee well* in contemporary English?", "response": "goodbye", "question_type": "meaning_direct"}
+{"prompt": "What does the word *fare thee well* mean in modern English?", "response": "goodbye", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *hold thee*?", "response": "take this", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *hold thee* in contemporary English?", "response": "take this", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *make haste* in contemporary English?", "response": "hurry", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *make haste*?", "response": "hurry", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *good morrow*?", "response": "good morning", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *good morrow* in contemporary English?", "response": "good morning", "question_type": "meaning_direct"}
+{"prompt": "What does the word *good den* mean in modern English?", "response": "good evening", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *good den* in contemporary English?", "response": "good evening", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *would fain*?", "response": "would like to", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *would fain* in contemporary English?", "response": "would like to", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *I trow*?", "response": "I believe", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *I trow* in contemporary English?", "response": "I believe", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *o'er* in contemporary English?", "response": "over", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *o'er*?", "response": "over", "question_type": "meaning_direct"}
+{"prompt": "What does the word *ne'er* mean in modern English?", "response": "never", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *ne'er*?", "response": "never", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *e'en* in contemporary English?", "response": "even", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *e'en*?", "response": "even", "question_type": "meaning_direct"}
+{"prompt": "What does the word *e'er* mean in modern English?", "response": "ever", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *e'er* in contemporary English?", "response": "ever", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *adieu*?", "response": "farewell", "question_type": "meaning_direct"}
+{"prompt": "What does the word *adieu* mean in modern English?", "response": "farewell", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *aroint* in contemporary English?", "response": "away", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *aroint*?", "response": "away", "question_type": "meaning_direct"}
+{"prompt": "What does the word *come hither* mean in modern English?", "response": "come here", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *come hither* in contemporary English?", "response": "come here", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *counsel*?", "response": "advice", "question_type": "meaning_direct"}
+{"prompt": "What does the word *counsel* mean in modern English?", "response": "advice", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *decree* in contemporary English?", "response": "order", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *decree*?", "response": "order", "question_type": "meaning_direct"}
+{"prompt": "What does the word *discourses* mean in modern English?", "response": "speaks", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *discourses* in contemporary English?", "response": "speaks", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *dispatch*?", "response": "kill", "question_type": "meaning_direct"}
+{"prompt": "What does the word *dispatch* mean in modern English?", "response": "kill", "question_type": "meaning_direct"}
+{"prompt": "What does the word *foe* mean in modern English?", "response": "enemy", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *foe*?", "response": "enemy", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *god save thee*?", "response": "goodbye", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *god save thee* in contemporary English?", "response": "goodbye", "question_type": "meaning_direct"}
+{"prompt": "What does the word *grammercy* mean in modern English?", "response": "thank you", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *grammercy* in contemporary English?", "response": "thank you", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *heavy*?", "response": "sad", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *heavy* in contemporary English?", "response": "sad", "question_type": "meaning_direct"}
+{"prompt": "What does the word *hie* mean in modern English?", "response": "go", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *hie* in contemporary English?", "response": "go", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *i shall see thee anon*?", "response": "goodbye", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *i shall see thee anon* in contemporary English?", "response": "goodbye", "question_type": "meaning_direct"}
+{"prompt": "What does the word *mark* mean in modern English?", "response": "pay attention to", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *mark* in contemporary English?", "response": "pay attention to", "question_type": "meaning_direct"}
+{"prompt": "What does the word *-morrow* mean in modern English?", "response": "days", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *-morrow*?", "response": "days", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *nought* in contemporary English?", "response": "nothing", "question_type": "meaning_direct"}
+{"prompt": "What does the word *nought* mean in modern English?", "response": "nothing", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *plague* in contemporary English?", "response": "curse", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *plague*?", "response": "curse", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *privy*?", "response": "informed", "question_type": "meaning_direct"}
+{"prompt": "What does the word *privy* mean in modern English?", "response": "informed", "question_type": "meaning_direct"}
+{"prompt": "What does the word *shun that* mean in modern English?", "response": "ignore that", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *shun that*?", "response": "ignore that", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *soft*?", "response": "wait a minute", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *soft* in contemporary English?", "response": "wait a minute", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *thou art*?", "response": "you are", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *thou art* in contemporary English?", "response": "you are", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *thou should'st*?", "response": "you should", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *thou should'st* in contemporary English?", "response": "you should", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *thou would'st*?", "response": "you would", "question_type": "meaning_direct"}
+{"prompt": "What does the word *thou would'st* mean in modern English?", "response": "you would", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *tidings* in contemporary English?", "response": "news", "question_type": "meaning_direct"}
+{"prompt": "What does the word *tidings* mean in modern English?", "response": "news", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *verily* in contemporary English?", "response": "truly", "question_type": "meaning_direct"}
+{"prompt": "What does the word *verily* mean in modern English?", "response": "truly", "question_type": "meaning_direct"}
+{"prompt": "What does the word *well met* mean in modern English?", "response": "hello", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *well met* in contemporary English?", "response": "hello", "question_type": "meaning_direct"}
+{"prompt": "What does the word *whereto* mean in modern English?", "response": "to which", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *whereto*?", "response": "to which", "question_type": "meaning_direct"}
+{"prompt": "What does the word *will* mean in modern English?", "response": "desire", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *will* in contemporary English?", "response": "desire", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *woe*?", "response": "misery", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *woe* in contemporary English?", "response": "misery", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *woo* in contemporary English?", "response": "chase (romantically)", "question_type": "meaning_direct"}
+{"prompt": "What does the word *woo* mean in modern English?", "response": "chase (romantically)", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *would* in contemporary English?", "response": "wish", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *would*?", "response": "wish", "question_type": "meaning_direct"}
+{"prompt": "What is the meaning of the word *wrought*?", "response": "provided", "question_type": "meaning_direct"}
+{"prompt": "Explain the meaning of *wrought* in contemporary English?", "response": "provided", "question_type": "meaning_direct"}

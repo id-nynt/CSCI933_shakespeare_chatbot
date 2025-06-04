@@ -1,0 +1,837 @@
+[
+  {
+    "chunk_id": "main_characters_all's_well_that_ends_well_8983d5b1",
+    "chunk_type": "main_characters",
+    "play_title": "All's Well That Ends Well",
+    "content": "The main characters in All's Well That Ends Well are: Helena, Bertram, Countess of Roussillon, King of France, Parolles, Diana.",
+    "metadata": {
+      "main_characters": [
+        "Helena",
+        "Bertram",
+        "Countess of Roussillon",
+        "King of France",
+        "Parolles",
+        "Diana"
+      ],
+      "query_patterns": [
+        "main characters in all's well that ends well",
+        "who are the characters in all's well that ends well"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_antony_and_cleopatra_658da2b9",
+    "chunk_type": "main_characters",
+    "play_title": "Antony and Cleopatra",
+    "content": "The main characters in Antony and Cleopatra are: Mark Antony, Cleopatra, Octavius Caesar, Enobarbus, Charmian.",
+    "metadata": {
+      "main_characters": [
+        "Mark Antony",
+        "Cleopatra",
+        "Octavius Caesar",
+        "Enobarbus",
+        "Charmian"
+      ],
+      "query_patterns": [
+        "main characters in antony and cleopatra",
+        "who are the characters in antony and cleopatra"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_as_you_like_it_aab64009",
+    "chunk_type": "main_characters",
+    "play_title": "As You Like It",
+    "content": "The main characters in As You Like It are: Rosalind, Orlando, Celia, Duke Senior, Duke Frederick, Jaques, Touchstone, Oliver, Silvius, Phebe.",
+    "metadata": {
+      "main_characters": [
+        "Rosalind",
+        "Orlando",
+        "Celia",
+        "Duke Senior",
+        "Duke Frederick",
+        "Jaques",
+        "Touchstone",
+        "Oliver",
+        "Silvius",
+        "Phebe"
+      ],
+      "query_patterns": [
+        "main characters in as you like it",
+        "who are the characters in as you like it"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_the_comedy_of_errors_cf2e9526",
+    "chunk_type": "main_characters",
+    "play_title": "The Comedy of Errors",
+    "content": "The main characters in The Comedy of Errors are: Antipholus of Syracuse, Antipholus of Ephesus, Dromio of Syracuse, Dromio of Ephesus, Adriana, Luciana.",
+    "metadata": {
+      "main_characters": [
+        "Antipholus of Syracuse",
+        "Antipholus of Ephesus",
+        "Dromio of Syracuse",
+        "Dromio of Ephesus",
+        "Adriana",
+        "Luciana"
+      ],
+      "query_patterns": [
+        "main characters in the comedy of errors",
+        "who are the characters in the comedy of errors"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_the_tragedy_of_coriolanus_6940f17b",
+    "chunk_type": "main_characters",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "The main characters in The Tragedy of Coriolanus are: Caius Martius Coriolanus, Volumnia, Menenius Agrippa, Tullus Aufidius, Sicinius Velutus, Junius Brutus, Virgilia, Young Martius.",
+    "metadata": {
+      "main_characters": [
+        "Caius Martius Coriolanus",
+        "Volumnia",
+        "Menenius Agrippa",
+        "Tullus Aufidius",
+        "Sicinius Velutus",
+        "Junius Brutus",
+        "Virgilia",
+        "Young Martius"
+      ],
+      "query_patterns": [
+        "main characters in the tragedy of coriolanus",
+        "who are the characters in the tragedy of coriolanus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_cymbeline_5c968caf",
+    "chunk_type": "main_characters",
+    "play_title": "Cymbeline",
+    "content": "The main characters in Cymbeline are: Cymbeline, Imogen, Posthumus Leonatus, Iachimo, Cloten, Queen, Belarius, Guiderius, Arviragus.",
+    "metadata": {
+      "main_characters": [
+        "Cymbeline",
+        "Imogen",
+        "Posthumus Leonatus",
+        "Iachimo",
+        "Cloten",
+        "Queen",
+        "Belarius",
+        "Guiderius",
+        "Arviragus"
+      ],
+      "query_patterns": [
+        "main characters in cymbeline",
+        "who are the characters in cymbeline"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_hamlet_prince_of_denmark_c9e35fd2",
+    "chunk_type": "main_characters",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "The main characters in Hamlet, Prince of Denmark are: Hamlet, Claudius, Gertrude, Ophelia, Polonius, Horatio, Laertes, Ghost of Hamlet's father.",
+    "metadata": {
+      "main_characters": [
+        "Hamlet",
+        "Claudius",
+        "Gertrude",
+        "Ophelia",
+        "Polonius",
+        "Horatio",
+        "Laertes",
+        "Ghost of Hamlet's father"
+      ],
+      "query_patterns": [
+        "main characters in hamlet, prince of denmark",
+        "who are the characters in hamlet, prince of denmark"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_king_henry_iv_the_first_part_d5d81373",
+    "chunk_type": "main_characters",
+    "play_title": "King Henry IV, the First Part",
+    "content": "The main characters in King Henry IV, the First Part are: King Henry IV, Prince Hal, Sir John Falstaff, Hotspur (Henry Percy), Earl of Worcester, Earl of Northumberland, Lady Percy.",
+    "metadata": {
+      "main_characters": [
+        "King Henry IV",
+        "Prince Hal",
+        "Sir John Falstaff",
+        "Hotspur (Henry Percy)",
+        "Earl of Worcester",
+        "Earl of Northumberland",
+        "Lady Percy"
+      ],
+      "query_patterns": [
+        "main characters in king henry iv, the first part",
+        "who are the characters in king henry iv, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_king_henry_iv_the_second_part_9a212c10",
+    "chunk_type": "main_characters",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "The main characters in King Henry IV, the Second Part are: King Henry IV, Prince Hal, Sir John Falstaff, Lord Chief Justice, Archbishop of York, Earl of Northumberland, Prince John.",
+    "metadata": {
+      "main_characters": [
+        "King Henry IV",
+        "Prince Hal",
+        "Sir John Falstaff",
+        "Lord Chief Justice",
+        "Archbishop of York",
+        "Earl of Northumberland",
+        "Prince John"
+      ],
+      "query_patterns": [
+        "main characters in king henry iv, the second part",
+        "who are the characters in king henry iv, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_the_life_of_king_henry_v_2751132a",
+    "chunk_type": "main_characters",
+    "play_title": "The Life of King Henry V",
+    "content": "The main characters in The Life of King Henry V are: King Henry V, Chorus, Duke of Exeter, Fluellen, Pistol, Katherine, Dauphin of France.",
+    "metadata": {
+      "main_characters": [
+        "King Henry V",
+        "Chorus",
+        "Duke of Exeter",
+        "Fluellen",
+        "Pistol",
+        "Katherine",
+        "Dauphin of France"
+      ],
+      "query_patterns": [
+        "main characters in the life of king henry v",
+        "who are the characters in the life of king henry v"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_the_life_of_henry_the_eighth_cfbd6c3e",
+    "chunk_type": "main_characters",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "The main characters in The Life of Henry the Eighth are: King Henry VIII, Cardinal Wolsey, Katherine of Aragon, Anne Boleyn, Thomas Cranmer, Duke of Norfolk, Duke of Buckingham.",
+    "metadata": {
+      "main_characters": [
+        "King Henry VIII",
+        "Cardinal Wolsey",
+        "Katherine of Aragon",
+        "Anne Boleyn",
+        "Thomas Cranmer",
+        "Duke of Norfolk",
+        "Duke of Buckingham"
+      ],
+      "query_patterns": [
+        "main characters in the life of henry the eighth",
+        "who are the characters in the life of henry the eighth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_king_henry_vi_the_first_part_91050667",
+    "chunk_type": "main_characters",
+    "play_title": "King Henry VI, the first part",
+    "content": "The main characters in King Henry VI, the first part are: King Henry VI, Joan of Arc, Talbot, Duke of Gloucester, Cardinal Beaufort, Margaret of Anjou, Duke of York.",
+    "metadata": {
+      "main_characters": [
+        "King Henry VI",
+        "Joan of Arc",
+        "Talbot",
+        "Duke of Gloucester",
+        "Cardinal Beaufort",
+        "Margaret of Anjou",
+        "Duke of York"
+      ],
+      "query_patterns": [
+        "main characters in king henry vi, the first part",
+        "who are the characters in king henry vi, the first part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_king_henry_vi_the_second_part_e06ba6ea",
+    "chunk_type": "main_characters",
+    "play_title": "King Henry VI, the second part",
+    "content": "The main characters in King Henry VI, the second part are: King Henry VI, Queen Margaret, Duke of York, Duke of Suffolk, Jack Cade, Humphrey, Duke of Gloucester, Cardinal Beaufort.",
+    "metadata": {
+      "main_characters": [
+        "King Henry VI",
+        "Queen Margaret",
+        "Duke of York",
+        "Duke of Suffolk",
+        "Jack Cade",
+        "Humphrey, Duke of Gloucester",
+        "Cardinal Beaufort"
+      ],
+      "query_patterns": [
+        "main characters in king henry vi, the second part",
+        "who are the characters in king henry vi, the second part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_king_henry_vi_the_third_part_06f8f62a",
+    "chunk_type": "main_characters",
+    "play_title": "King Henry VI, the third part",
+    "content": "The main characters in King Henry VI, the third part are: King Henry VI, Queen Margaret, Richard, Duke of York, Edward IV, Richard (later Richard III), Warwick, Clarence.",
+    "metadata": {
+      "main_characters": [
+        "King Henry VI",
+        "Queen Margaret",
+        "Richard, Duke of York",
+        "Edward IV",
+        "Richard (later Richard III)",
+        "Warwick",
+        "Clarence"
+      ],
+      "query_patterns": [
+        "main characters in king henry vi, the third part",
+        "who are the characters in king henry vi, the third part"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_julius_caesar_8cc2d741",
+    "chunk_type": "main_characters",
+    "play_title": "Julius Caesar",
+    "content": "The main characters in Julius Caesar are: Julius Caesar, Brutus, Cassius, Mark Antony, Octavius, Calpurnia, Portia.",
+    "metadata": {
+      "main_characters": [
+        "Julius Caesar",
+        "Brutus",
+        "Cassius",
+        "Mark Antony",
+        "Octavius",
+        "Calpurnia",
+        "Portia"
+      ],
+      "query_patterns": [
+        "main characters in julius caesar",
+        "who are the characters in julius caesar"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_king_john_68690437",
+    "chunk_type": "main_characters",
+    "play_title": "King John",
+    "content": "The main characters in King John are: King John, Philip the Bastard, Constance, King Philip of France, Prince Arthur, Hubert, Cardinal Pandulph.",
+    "metadata": {
+      "main_characters": [
+        "King John",
+        "Philip the Bastard",
+        "Constance",
+        "King Philip of France",
+        "Prince Arthur",
+        "Hubert",
+        "Cardinal Pandulph"
+      ],
+      "query_patterns": [
+        "main characters in king john",
+        "who are the characters in king john"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_the_tragedy_of_king_lear_0b4a9deb",
+    "chunk_type": "main_characters",
+    "play_title": "The Tragedy of King Lear",
+    "content": "The main characters in The Tragedy of King Lear are: King Lear, Cordelia, Goneril, Regan, Edmund, Edgar, Gloucester, Kent, Fool.",
+    "metadata": {
+      "main_characters": [
+        "King Lear",
+        "Cordelia",
+        "Goneril",
+        "Regan",
+        "Edmund",
+        "Edgar",
+        "Gloucester",
+        "Kent",
+        "Fool"
+      ],
+      "query_patterns": [
+        "main characters in the tragedy of king lear",
+        "who are the characters in the tragedy of king lear"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_love's_labour's_lost_3e4ca391",
+    "chunk_type": "main_characters",
+    "play_title": "Love's Labour's Lost",
+    "content": "The main characters in Love's Labour's Lost are: King of Navarre, Princess of France, Berowne, Rosaline, Longaville, Maria, Dumaine, Katherine, Don Armado.",
+    "metadata": {
+      "main_characters": [
+        "King of Navarre",
+        "Princess of France",
+        "Berowne",
+        "Rosaline",
+        "Longaville",
+        "Maria",
+        "Dumaine",
+        "Katherine",
+        "Don Armado"
+      ],
+      "query_patterns": [
+        "main characters in love's labour's lost",
+        "who are the characters in love's labour's lost"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_macbeth_2dcf4d09",
+    "chunk_type": "main_characters",
+    "play_title": "Macbeth",
+    "content": "The main characters in Macbeth are: Macbeth, Lady Macbeth, Three Witches, Banquo, Macduff, Duncan, Malcolm.",
+    "metadata": {
+      "main_characters": [
+        "Macbeth",
+        "Lady Macbeth",
+        "Three Witches",
+        "Banquo",
+        "Macduff",
+        "Duncan",
+        "Malcolm"
+      ],
+      "query_patterns": [
+        "main characters in macbeth",
+        "who are the characters in macbeth"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_measure_for_measure_953ca892",
+    "chunk_type": "main_characters",
+    "play_title": "Measure for Measure",
+    "content": "The main characters in Measure for Measure are: Duke Vincentio, Angelo, Isabella, Claudio, Lucio, Mariana, Escalus.",
+    "metadata": {
+      "main_characters": [
+        "Duke Vincentio",
+        "Angelo",
+        "Isabella",
+        "Claudio",
+        "Lucio",
+        "Mariana",
+        "Escalus"
+      ],
+      "query_patterns": [
+        "main characters in measure for measure",
+        "who are the characters in measure for measure"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_the_merchant_of_venice_e00993e1",
+    "chunk_type": "main_characters",
+    "play_title": "The Merchant of Venice",
+    "content": "The main characters in The Merchant of Venice are: Antonio, Shylock, Portia, Bassanio, Jessica, Lorenzo, Gratiano, Nerissa.",
+    "metadata": {
+      "main_characters": [
+        "Antonio",
+        "Shylock",
+        "Portia",
+        "Bassanio",
+        "Jessica",
+        "Lorenzo",
+        "Gratiano",
+        "Nerissa"
+      ],
+      "query_patterns": [
+        "main characters in the merchant of venice",
+        "who are the characters in the merchant of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_the_merry_wives_of_windsor_7748363f",
+    "chunk_type": "main_characters",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "The main characters in The Merry Wives of Windsor are: Sir John Falstaff, Mistress Ford, Mistress Page, Ford, Page, Anne Page, Fenton, Doctor Caius.",
+    "metadata": {
+      "main_characters": [
+        "Sir John Falstaff",
+        "Mistress Ford",
+        "Mistress Page",
+        "Ford",
+        "Page",
+        "Anne Page",
+        "Fenton",
+        "Doctor Caius"
+      ],
+      "query_patterns": [
+        "main characters in the merry wives of windsor",
+        "who are the characters in the merry wives of windsor"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_a_midsummer_night's_dream_ba4a7db6",
+    "chunk_type": "main_characters",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "The main characters in A Midsummer Night's Dream are: Lysander, Hermia, Demetrius, Helena, Oberon, Titania, Puck, Bottom, Theseus, Hippolyta.",
+    "metadata": {
+      "main_characters": [
+        "Lysander",
+        "Hermia",
+        "Demetrius",
+        "Helena",
+        "Oberon",
+        "Titania",
+        "Puck",
+        "Bottom",
+        "Theseus",
+        "Hippolyta"
+      ],
+      "query_patterns": [
+        "main characters in a midsummer night's dream",
+        "who are the characters in a midsummer night's dream"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_much_ado_about_nothing_0af854fb",
+    "chunk_type": "main_characters",
+    "play_title": "Much Ado About Nothing",
+    "content": "The main characters in Much Ado About Nothing are: Beatrice, Benedick, Claudio, Hero, Don Pedro, Don John, Leonato.",
+    "metadata": {
+      "main_characters": [
+        "Beatrice",
+        "Benedick",
+        "Claudio",
+        "Hero",
+        "Don Pedro",
+        "Don John",
+        "Leonato"
+      ],
+      "query_patterns": [
+        "main characters in much ado about nothing",
+        "who are the characters in much ado about nothing"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_othello_the_moor_of_venice_ac5c3a5d",
+    "chunk_type": "main_characters",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "The main characters in Othello, the Moor of Venice are: Othello, Desdemona, Iago, Cassio, Emilia, Roderigo, Brabantio.",
+    "metadata": {
+      "main_characters": [
+        "Othello",
+        "Desdemona",
+        "Iago",
+        "Cassio",
+        "Emilia",
+        "Roderigo",
+        "Brabantio"
+      ],
+      "query_patterns": [
+        "main characters in othello, the moor of venice",
+        "who are the characters in othello, the moor of venice"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_pericles_prince_of_tyre_c51ea92f",
+    "chunk_type": "main_characters",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "The main characters in Pericles, Prince of Tyre are: Pericles, Marina, Thaisa, Gower, Cleon, Dionyza, Lysimachus.",
+    "metadata": {
+      "main_characters": [
+        "Pericles",
+        "Marina",
+        "Thaisa",
+        "Gower",
+        "Cleon",
+        "Dionyza",
+        "Lysimachus"
+      ],
+      "query_patterns": [
+        "main characters in pericles, prince of tyre",
+        "who are the characters in pericles, prince of tyre"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_king_richard_ii_6981fc98",
+    "chunk_type": "main_characters",
+    "play_title": "King Richard II",
+    "content": "The main characters in King Richard II are: King Richard II, Henry Bolingbroke, John of Gaunt, Duke of York, Duchess of Gloucester, Aumerle, Mowbray.",
+    "metadata": {
+      "main_characters": [
+        "King Richard II",
+        "Henry Bolingbroke",
+        "John of Gaunt",
+        "Duke of York",
+        "Duchess of Gloucester",
+        "Aumerle",
+        "Mowbray"
+      ],
+      "query_patterns": [
+        "main characters in king richard ii",
+        "who are the characters in king richard ii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_king_richard_iii_973e806f",
+    "chunk_type": "main_characters",
+    "play_title": "King Richard III",
+    "content": "The main characters in King Richard III are: Richard III, Duke of Buckingham, Queen Margaret, Lady Anne, King Edward IV, Clarence, Richmond.",
+    "metadata": {
+      "main_characters": [
+        "Richard III",
+        "Duke of Buckingham",
+        "Queen Margaret",
+        "Lady Anne",
+        "King Edward IV",
+        "Clarence",
+        "Richmond"
+      ],
+      "query_patterns": [
+        "main characters in king richard iii",
+        "who are the characters in king richard iii"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_romeo_and_juliet_fa8852aa",
+    "chunk_type": "main_characters",
+    "play_title": "Romeo and Juliet",
+    "content": "The main characters in Romeo and Juliet are: Romeo Montague, Juliet Capulet, Mercutio, Tybalt, Friar Lawrence, Nurse, Benvolio, Paris.",
+    "metadata": {
+      "main_characters": [
+        "Romeo Montague",
+        "Juliet Capulet",
+        "Mercutio",
+        "Tybalt",
+        "Friar Lawrence",
+        "Nurse",
+        "Benvolio",
+        "Paris"
+      ],
+      "query_patterns": [
+        "main characters in romeo and juliet",
+        "who are the characters in romeo and juliet"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_the_taming_of_the_shrew_a242d2e0",
+    "chunk_type": "main_characters",
+    "play_title": "The Taming of the Shrew",
+    "content": "The main characters in The Taming of the Shrew are: Katherina, Petruchio, Bianca, Lucentio, Baptista, Tranio, Grumio.",
+    "metadata": {
+      "main_characters": [
+        "Katherina",
+        "Petruchio",
+        "Bianca",
+        "Lucentio",
+        "Baptista",
+        "Tranio",
+        "Grumio"
+      ],
+      "query_patterns": [
+        "main characters in the taming of the shrew",
+        "who are the characters in the taming of the shrew"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_the_tempest_42d79c48",
+    "chunk_type": "main_characters",
+    "play_title": "The Tempest",
+    "content": "The main characters in The Tempest are: Prospero, Miranda, Ariel, Caliban, Ferdinand, Alonso, Antonio, Sebastian, Stephano, Trinculo.",
+    "metadata": {
+      "main_characters": [
+        "Prospero",
+        "Miranda",
+        "Ariel",
+        "Caliban",
+        "Ferdinand",
+        "Alonso",
+        "Antonio",
+        "Sebastian",
+        "Stephano",
+        "Trinculo"
+      ],
+      "query_patterns": [
+        "main characters in the tempest",
+        "who are the characters in the tempest"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_the_two_gentlemen_of_verona_ad6a632f",
+    "chunk_type": "main_characters",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "The main characters in The Two Gentlemen of Verona are: Valentine, Proteus, Julia, Silvia, Duke of Milan, Lucetta, Thurio, Launce, Speed.",
+    "metadata": {
+      "main_characters": [
+        "Valentine",
+        "Proteus",
+        "Julia",
+        "Silvia",
+        "Duke of Milan",
+        "Lucetta",
+        "Thurio",
+        "Launce",
+        "Speed"
+      ],
+      "query_patterns": [
+        "main characters in the two gentlemen of verona",
+        "who are the characters in the two gentlemen of verona"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_the_life_of_timon_of_athens_70a08279",
+    "chunk_type": "main_characters",
+    "play_title": "The Life of Timon of Athens",
+    "content": "The main characters in The Life of Timon of Athens are: Timon, Apemantus, Alcibiades, Flavius, Ventidius, Lucius, Sempronius.",
+    "metadata": {
+      "main_characters": [
+        "Timon",
+        "Apemantus",
+        "Alcibiades",
+        "Flavius",
+        "Ventidius",
+        "Lucius",
+        "Sempronius"
+      ],
+      "query_patterns": [
+        "main characters in the life of timon of athens",
+        "who are the characters in the life of timon of athens"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_the_tragedy_of_titus_andronicus_b0e1c58f",
+    "chunk_type": "main_characters",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "The main characters in The Tragedy of Titus Andronicus are: Titus Andronicus, Tamora, Aaron, Lavinia, Saturninus, Bassianus, Lucius.",
+    "metadata": {
+      "main_characters": [
+        "Titus Andronicus",
+        "Tamora",
+        "Aaron",
+        "Lavinia",
+        "Saturninus",
+        "Bassianus",
+        "Lucius"
+      ],
+      "query_patterns": [
+        "main characters in the tragedy of titus andronicus",
+        "who are the characters in the tragedy of titus andronicus"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_troilus_and_cressida_ecae69bf",
+    "chunk_type": "main_characters",
+    "play_title": "Troilus and Cressida",
+    "content": "The main characters in Troilus and Cressida are: Troilus, Cressida, Pandarus, Hector, Achilles, Ulysses, Diomedes.",
+    "metadata": {
+      "main_characters": [
+        "Troilus",
+        "Cressida",
+        "Pandarus",
+        "Hector",
+        "Achilles",
+        "Ulysses",
+        "Diomedes"
+      ],
+      "query_patterns": [
+        "main characters in troilus and cressida",
+        "who are the characters in troilus and cressida"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_twelfth_night;_or_what_you_will_ef10aba0",
+    "chunk_type": "main_characters",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "The main characters in Twelfth Night; Or, What You Will are: Viola, Sebastian, Orsino, Olivia, Malvolio, Sir Toby Belch, Sir Andrew Aguecheek, Maria, Feste.",
+    "metadata": {
+      "main_characters": [
+        "Viola",
+        "Sebastian",
+        "Orsino",
+        "Olivia",
+        "Malvolio",
+        "Sir Toby Belch",
+        "Sir Andrew Aguecheek",
+        "Maria",
+        "Feste"
+      ],
+      "query_patterns": [
+        "main characters in twelfth night; or, what you will",
+        "who are the characters in twelfth night; or, what you will"
+      ]
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "main_characters_the_winter's_tale_26fffc4e",
+    "chunk_type": "main_characters",
+    "play_title": "The Winter's Tale",
+    "content": "The main characters in The Winter's Tale are: Leontes, Hermione, Perdita, Polixenes, Camillo, Paulina, Autolycus, Florizel.",
+    "metadata": {
+      "main_characters": [
+        "Leontes",
+        "Hermione",
+        "Perdita",
+        "Polixenes",
+        "Camillo",
+        "Paulina",
+        "Autolycus",
+        "Florizel"
+      ],
+      "query_patterns": [
+        "main characters in the winter's tale",
+        "who are the characters in the winter's tale"
+      ]
+    },
+    "embedding": null
+  }
+]
