@@ -109,11 +109,6 @@ Ensure the following software is installed:
   2. Type your question or prompt and press **Enter**.
   3. The chatbot responds in the terminal, and you can continue the dialogue.
 
-Example interaction:
-
-- User: "Who is the protagonist in Macbeth?"
-- Chatbot: "The protagonist in _Macbeth_ is Macbeth, a Scottish nobleman whose ambition drives the play’s tragic events."
-
 ---
 
 ## Technologies Used
