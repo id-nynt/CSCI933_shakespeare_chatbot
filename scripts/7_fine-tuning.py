@@ -1,4 +1,4 @@
-# fine_tune_tinyllama_lora.py
+# FINE-TUNE TINI-LLAMA + LORA
 
 import torch
 from datasets import load_dataset
